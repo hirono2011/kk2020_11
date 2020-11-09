@@ -7,3 +7,4 @@ git add -A && git commit -m "`git status |sed -n '7,$p'`" -m "$COMMIT_MES"  && g
 
 echo "${COMMIT_MES} DONE"
 
+
