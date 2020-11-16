@@ -1,0 +1,100 @@
+{
+  "main": {
+    "id": "dbd28b7a51ca9826",
+    "type": "split",
+    "children": [
+      {
+        "id": "d5880fc48e3266b2",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "md/深澤諭史弁護士ノート.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5a8a1e0b0ee65508",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b6663b516aa6daa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b5c09a6daa74a0c5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b6bc281114588949",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "法務省"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7e5e7c9c3345b6d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "aad0e029c301cb24",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "df195f445655d597",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "md/深澤諭史弁護士ノート.md"
+              }
+            }
+          },
+          {
+            "id": "40e935eb20399328",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "md/深澤諭史弁護士ノート.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "md/深澤諭史弁護士ノート.md",
+    "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+    "daily/2020-11-16.md",
+    "深澤諭史弁護士ノート.md",
+    "Untitled 1.md",
+    "daily/2020-11-15.md",
+    "md/再捜査の事実/請求に至る経緯/法務省/2020-05-30-102728_「絶対に笑ってはいけない法務省24時」という深澤諭史弁護士のツイート.md",
+    "md/再捜査の事実/請求に至る経緯/法律上の問題点/2020-05-29-210410_刑訴法281条の4（証拠の目的外使用）と非常上告の刑事手続.md",
+    "Untitled.md",
+    "md/再捜査の事実/情報公開のご説明/2020-05-29-162545_新たに「再捜査の事実」というプロジェクトの作成，開始.md"
+  ]
+}
