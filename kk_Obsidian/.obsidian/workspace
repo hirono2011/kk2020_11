@@ -10,7 +10,18 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "md/深澤諭史弁護士ノート.md",
+            "file": "daily/2020-11-16.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "4c2433f99a147fe9",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
             "mode": "preview"
           }
         }
@@ -40,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "法務省"
+                "query": "深澤諭史弁護士"
               }
             }
           }
@@ -64,7 +75,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "md/深澤諭史弁護士ノート.md"
+                "file": "daily/2020-11-16.md"
               }
             }
           },
@@ -74,7 +85,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "md/深澤諭史弁護士ノート.md"
+                "file": "daily/2020-11-16.md"
               }
             }
           }
@@ -86,9 +97,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "md/深澤諭史弁護士ノート.md",
-    "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
     "daily/2020-11-16.md",
+    "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+    "md/深澤諭史弁護士ノート.md",
     "深澤諭史弁護士ノート.md",
     "Untitled 1.md",
     "daily/2020-11-15.md",
