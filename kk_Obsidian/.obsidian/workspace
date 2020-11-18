@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "d5880fc48e3266b2",
+        "id": "58f154cc47dee4c3",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      },
+      {
+        "id": "f9120527df7cf8dd",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "daily/2020-11-16.md",
-            "mode": "source"
-          }
-        }
-      },
-      {
-        "id": "4c2433f99a147fe9",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+            "file": "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md",
             "mode": "preview"
           }
         }
@@ -51,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "深澤諭史弁護士"
+                "query": "tag:#深澤諭史弁護士"
               }
             }
           }
@@ -75,7 +72,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "daily/2020-11-16.md"
+                "file": "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md"
               }
             }
           },
@@ -85,7 +82,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "daily/2020-11-16.md"
+                "file": "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md"
               }
             }
           }
@@ -97,15 +94,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md",
+    "node/「職務基本規程の違法行為阻止義務の議論が加速しそうですね。」という刑裁サイ太のツイート，深澤諭史弁護士のリツイート.md",
+    "daily/2020-11-18.md",
+    "node/「「戒告軽すぎる」、ＡＶ出演助長の弁護士に業務停止処分　日弁連」というニュースに反応した弁護士らのツイート.md",
+    "node/Untitled.md",
+    "daily/2020-11-17.md",
+    "node/最初は深澤諭史弁護士のタイムライン，向原栄大朗弁護士のツイート.md",
+    "node/Untitled 1.md",
     "daily/2020-11-16.md",
-    "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
-    "md/深澤諭史弁護士ノート.md",
-    "深澤諭史弁護士ノート.md",
-    "Untitled 1.md",
-    "daily/2020-11-15.md",
-    "md/再捜査の事実/請求に至る経緯/法務省/2020-05-30-102728_「絶対に笑ってはいけない法務省24時」という深澤諭史弁護士のツイート.md",
-    "md/再捜査の事実/請求に至る経緯/法律上の問題点/2020-05-29-210410_刑訴法281条の4（証拠の目的外使用）と非常上告の刑事手続.md",
-    "Untitled.md",
-    "md/再捜査の事実/情報公開のご説明/2020-05-29-162545_新たに「再捜査の事実」というプロジェクトの作成，開始.md"
+    "node/数年ぶりに見た，今朝のTwitterでのモトケンこと矢部善朗弁護士（京都弁護士会）と小倉秀夫弁護士のやりとり.md"
   ]
 }
