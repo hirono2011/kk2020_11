@@ -1,0 +1,8 @@
+tl200-bpost.py ／／*
+
+mv ／／* tweets
+
+tl200-bpost.py ／／*  && mv ／／* tweets && ls ./tweets/
+
+#pwsh不可
+f=`ls -rt1|tail -n 1` &&tl200-bpost.py $f && mv $f tweets && ls -rt1 ./tweets/

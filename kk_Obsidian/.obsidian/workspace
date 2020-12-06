@@ -6,22 +6,27 @@
       {
         "id": "58f154cc47dee4c3",
         "type": "leaf",
-        "state": {
-          "type": "graph",
-          "state": {}
-        }
-      },
-      {
-        "id": "f9120527df7cf8dd",
-        "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md",
-            "mode": "preview"
+            "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+            "mode": "source"
           }
-        }
+        },
+        "group": "e5303bb6d5c3bfbc"
+      },
+      {
+        "id": "b62020d13196eb59",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+            "mode": "source"
+          }
+        },
+        "group": "e5303bb6d5c3bfbc"
       }
     ],
     "direction": "vertical"
@@ -48,7 +53,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#深澤諭史弁護士"
+                "query": "/顧問.*懲戒/",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               }
             }
           }
@@ -72,7 +82,12 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md"
+                "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           },
@@ -82,7 +97,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md"
+                "file": "告発に至る経緯・鬼滅の刃と，弁護士列車編.md"
               }
             }
           }
@@ -94,15 +109,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "tweets/／／　ぽぽひと＠wordタケノコ粒あん党（@popohito）のTwitterタイムライン：2020／11／13　13：53：33　～2020／11／18　11：14：36　.md",
-    "node/「職務基本規程の違法行為阻止義務の議論が加速しそうですね。」という刑裁サイ太のツイート，深澤諭史弁護士のリツイート.md",
-    "daily/2020-11-18.md",
-    "node/「「戒告軽すぎる」、ＡＶ出演助長の弁護士に業務停止処分　日弁連」というニュースに反応した弁護士らのツイート.md",
-    "node/Untitled.md",
+    "告発に至る経緯・鬼滅の刃と，弁護士列車編.md",
+    "告発に至る経緯・鬼滅の刃と，弁護士列車編.pdf",
+    "daily/2020-11-21.md",
     "daily/2020-11-17.md",
-    "node/最初は深澤諭史弁護士のタイムライン，向原栄大朗弁護士のツイート.md",
-    "node/Untitled 1.md",
-    "daily/2020-11-16.md",
-    "node/数年ぶりに見た，今朝のTwitterでのモトケンこと矢部善朗弁護士（京都弁護士会）と小倉秀夫弁護士のやりとり.md"
+    "daily/2020-11-18.md",
+    "daily/2020-11-19.md",
+    "tweets/2020-11-19_143207_泥濘大魔王サイケ（@k_sawmen）のTwitter：2020-11-13_142632～2020-11-19_125518.md",
+    "2020-11-18_164131_なべきょう＠過眠症（@wata_nabekyo_ko）.md",
+    "2020-11-18_165032_なべきょう＠過眠症（@wata_nabekyo_ko）.md",
+    "2020-11-18_164218_なべきょう＠過眠症（@wata_nabekyo_ko）.md"
   ]
 }
