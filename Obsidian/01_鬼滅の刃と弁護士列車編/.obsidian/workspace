@@ -1,0 +1,92 @@
+{
+  "main": {
+    "id": "f558c998c16b5b36",
+    "type": "split",
+    "children": [
+      {
+        "id": "a679f0333d1f1e12",
+        "type": "leaf",
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "node/2020-12-06-181540_弁護士列車に揺られて揺れて.md",
+            "mode": "preview"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ede2d348a98da701",
+    "type": "split",
+    "children": [
+      {
+        "id": "00e1f85e787743ec",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1e96b0d31e6848e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "7577adf460f6d0e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "80ed3a922cd87b56",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f4e4400c0fe08da",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "beea0e4d7d4cf00b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "node/2020-12-06-181540_弁護士列車に揺られて揺れて.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "lastOpenFiles": [
+    "node/2020-12-06-181540_弁護士列車に揺られて揺れて.md",
+    "daily/2020-12-06.md"
+  ]
+}
