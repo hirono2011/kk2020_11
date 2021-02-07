@@ -1,0 +1,4 @@
+rm *.{aux,log,pdf,tex,toc} tmp.txt
+
+rm *.{aux,log,tex,toc} tmp.txt
+
