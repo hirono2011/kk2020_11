@@ -1,0 +1,7 @@
+rm *.{aux,log,pdf,tex,toc} tmp.txt
+
+rm *.{aux,log,tex,toc} tmp.txt
+
+for x in ./*.md; do md-to-tex-pandoc.rb $x; lualatex ${x%%md}tex; done; rm ./*{aux,log,tex,toc} tmp.txt
+
+
