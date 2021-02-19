@@ -1,0 +1,2975 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{ltjarticle}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={告発に至る経緯・鬼滅の刃と，弁護士列車編},
+  pdfauthor={廣野秀樹},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[left=3cm,right=2cm,top=3.5cm,bottom=2.7cm]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{告発に至る経緯・鬼滅の刃と，弁護士列車編}
+\author{廣野秀樹}
+\date{}
+
+\usepackage{url}
+
+\begin{document}
+\maketitle
+
+{
+\setcounter{tocdepth}{4}
+\tableofcontents
+}
+\hypertarget{ux306fux3058ux3081ux306b}{%
+\section{はじめに}\label{ux306fux3058ux3081ux306b}}
+
+\hypertarget{ux544aux767aux72b6ux306eux69cbux6210ux53caux3073ux63d0ux51faux6642ux671fgithubux306eux516cux958bux30eaux30ddux30b8ux30c8ux30eaux306eux66f4ux65b0}{%
+\subsection{告発状の構成及び提出時期，GitHubの公開リポジトリの更新}\label{ux544aux767aux72b6ux306eux69cbux6210ux53caux3073ux63d0ux51faux6642ux671fgithubux306eux516cux958bux30eaux30ddux30b8ux30c8ux30eaux306eux66f4ux65b0}}
+
+:CATEGORIES: @kanazawabengosi \#金沢弁護士会 @JFBAsns
+日本弁護士連合会（日弁連） \#法務省 @MOJ\_HOUMU \#金沢地方検察庁
+\#石川県警察 \#珠洲警察署 \#市場急配センター
+
+\begin{itemize}
+\tightlist
+\item
+  宇出津新港の職業安定所 ＼n 2021-01-27\_155621＿.jpg
+  https://t.co/ZdDgAjAQeT
+\end{itemize}
+
+　上記にアップロードしたスマホの写真を確認して多少意外に思ったのですが，先月1月の27日でした。この日の午前中になりますが，急に閃いたように，来月の2月中に告発状を仕上げ提出することを決めました。
+
+　告発状の作成は，深澤諭史弁護士（第二東京弁護士会）の「ネットＤＥ真実」という繰り返された発言がきっかけで，大幅にダイヤグラムが乱れたのですが，蛸島事件を契機に，収束され，より強固で安定した針路をさだめることができました。
+
+　もともと「告発に至る経緯・鬼滅の刃と，弁護士列車編」というタイトルで，小説のようなものを書く方向で考えていたのですが，蛸島事件をきっかけに，裁判の記録を用意するという目的意識が明確になったといえます。
+
+　告発状は，本文の「告発に至る経緯」として，「告発に至る経緯・鬼滅の刃と，弁護士列車編」と「告発に至る経緯・奥能登の蛸島事件と，弁護士列車編」の2つ，「告発の事実」として，「告発の事実・弁護士列車編」の合計3つのファイルで別紙添付の形態を主軸に構成します。
+
+　GitHubのリポジトリに，「告発状2012」（kk2020\_11/告発状2012）と（いうフォルダを作成し，ファイルはその中の配置とします。また，従来の参考資料は，「kk2020\_11/Obsidian/01\_鬼滅の刃と弁護士列車編/node」の配置になります。
+
+　「告発に至る経緯・奥能登の蛸島事件と，弁護士列車編」と「告発の事実・弁護士列車編」のファイルは，これから新規に作成し，その時点でコミットし，GitHubのリモートリポジトリにpushします。
+
+　「2021-02-03-142048\_告発に至る経緯・鬼滅の刃と，弁護士列車編.md
+2021-02-04-114436\_告発に至る経緯・奥能登の蛸島事件と，弁護士列車編.md
+2021-02-04-114650\_告発の事実・弁護士列車編.md」が揃いました。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+(py37\_env) ➜ kk2020\_11 git:(main) git pushEnumerating objects: 22,
+done.Counting objects: 100\% (22/22), done.Delta compression using up to
+16 threadsCompressing objects: 100\% (16/16), done.Writing objects:
+100\% (17/17), 10.68 KiB \textbar{} 1.53 MiB/s, done.Total 17 (delta 9),
+reused 0 (delta 0)remote: Resolving deltas: 100\% (9/9), completed with
+4 local objects.To github.com:hirono2011/kk2020\_11.git 029295c..8fad831
+main -\textgreater{} main
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  継承を想定した書面の作成と情報公開\#\#
+  2012年11月8日に開始したkk2020\_11というGitHubリポジトリ，メインは「鬼滅の刃と弁護士列車編」：cloneからVSCode
+  - 告発＼金沢地方検察庁＼最高検察庁＼法務省＼石川県警察御中2020
+  https://t.co/q3fI1pYNvr
+\end{itemize}
+
+　以前，上記のエントリーでご紹介済みのGitHubになります。
+
+\begin{itemize}
+\item
+  GitHub - hirono2011/kk2020\_11: 2020年11月8日開始
+  https://t.co/ft2inEY9c5
+\item
+  kk2020\_11/告発状2012 at main · hirono2011/kk2020\_11 · GitHub
+  https://t.co/MlV41PsYd8
+\end{itemize}
+
+　ページタイトルに「2020年11月8日開始」が含まれていますが，今初めて気がついたものです。最初のコミット時のコメントになるのかよくわからないですが，2020年11月8日から始めたGitHubのリモートリポジトリということは，わかりやすい情報です。
+
+　予定外の成り行きとなったので，タイトルを変更しました。「告発状の構成及び提出時期，GitHubの公開リポジトリの更新」です。
+
+　3つのファイルの構成としたのは，並行した同時進行での編集がやりやすくなることと，2,3日前まで予定していたWindows10パソコンのWordをメインにした文書の作成ではなく，MarkdownのテキストファイルからPDFファイルを作成することに方針転換したことがあります。
+
+\begin{itemize}
+\tightlist
+\item
+  1151：2021-02-03\_19:37:42 \# lualatexで告発状の表題部を作成
+  https://hirono-hideki.hatenadiary.jp/entry/2021/02/03/193739
+\item
+  1152：2021-02-03\_21:57:47 \#
+  Emacsのバージョン28をソースコードのコンパイルでUbuntuにインストール，いつの間にか変わっていたパッケージの管理法
+  https://hirono-hideki.hatenadiary.jp/entry/2021/02/03/215745
+\item
+  1153：2021-02-04\_09:38:48 パソコン・情報公開\#\#
+  Emacs-Lispで，タイトルにファイル名を交えた投稿テキストを取得する自作コマンド
+  https://hirono-hideki.hatenadiary.jp/entry/2021/02/04/093845
+\item
+  1154：2021-02-04\_09:55:03 パソコン・情報公開\#\#
+  MySQLでデータ（レコード）の削除とオートインクリメントの番号の振り直し
+  https://hirono-hideki.hatenadiary.jp/entry/2021/02/04/095502
+\end{itemize}
+
+　上記の1151から1154のブログ記事が，経過の記録とご説明になっています。このエントリーも「告発に至る経緯・鬼滅の刃と，弁護士列車編\#\#
+告発状の構成及び提出時期，GitHubの公開リポジトリの更新」がブログ記事名となります。
+
+　従前の参考資料扱いのエントリーは，次のようなブログ記事名となり，Markdownでの見出しレベルの階層の深さも意味する「\#
+」が接頭辞になります。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+\begin{itemize}
+\tightlist
+\item
+  1142：2021-01-20\_15:08:14 \#
+  「人間は完璧ではないし、人間の制度も完璧ではなく、人は時に愚かで脆弱で、だから法律があるのです。」と司法制度改革を腐す深澤諭史弁護士のツイート
+  \url{https://hirono-hideki.hatenadiary.jp/entry/2021/01/20/150811}
+\item
+  1143：2021-01-20\_21:02:11 \#
+  「すごー！二階氏、NHKのインタビューで、「(政府に対して)いちいちケチつけるもんじゃない」と。」というジャーナリストの江川紹子氏のツイートと，その反応
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/20/210205
+\item
+  1144：2021-01-23\_12:01:30 \#
+  蛸島学童殺人事件裁判記録／ALS嘱託殺人、証拠のPDF開示請求　コピーに数百万円で弁護側　検察拒否（毎日新聞）
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/23/120126
+\item
+  1145：2021-01-23\_19:24:44 \#
+  蛸島学童殺人事件裁判記録／蛸島事件弁護団の主体，金沢合同法律事務所と今期の日弁連副会長でもある西村依子弁護士
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/23/192442
+\item
+  1146：2021-01-23\_19:25:26 \#
+  蛸島学童殺人事件裁判記録／犯罪被害者の報道について，深刻重大に考えさせられる小田原の村松謙弁護士一押しの，武内大徳弁護士
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/23/192523
+\item
+  1147：2021-01-24\_20:34:17 \#
+  「（；＾ω＾）こういう弁護士がいるから違法捜査ができなくなるんだお・・。」という2017年3月8日の深澤諭史弁護士のツイート
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/24/203414
+\item
+  1148：2021-01-26\_09:02:28 \#
+  「ほら、病院が救急受入を断って患者が死んでいくだろう。国選もそれでやむを得ないよ。若手を泣かせるのは、もう、止めにしよう。」という深澤諭史弁護士のリツイート
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/26/090226
+\item
+  1149：2021-01-26\_10:34:39 \#
+  深澤諭史弁護士のタイムラインから行き着いた「弁護士が出るドラマで、いつも思う違和感は、こんなに一つの案件にかけている時間がないということ。」というツイート
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/26/103435
+\item
+  1150：2021-01-26\_14:19:32 \#
+  「コロナ前には「失われた20年」のはけ口として弁護士業界が「生贄」にされて大衆娯楽になった。」という高橋雄一郎弁護士のツイート
+  https://hirono-hideki.hatenadiary.jp/entry/2021/01/26/141930
+\end{itemize}
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+　いや，違いました訂正です。今朝，修正したプログラムで，いずれもファイル名の標題部分を先頭に持ってくるようにしたのでした。次のブログ名も投稿済みのものとなりますが，ファイル名は「2020-12-20-114146\_パソコン・情報公開.md」になります。
+
+\begin{itemize}
+\tightlist
+\item
+  1154：2021-02-04\_09:55:03 パソコン・情報公開\#\#
+  MySQLでデータ（レコード）の削除とオートインクリメントの番号の振り直し
+  https://hirono-hideki.hatenadiary.jp/entry/2021/02/04/095502
+\end{itemize}
+
+　このファイル名を，私は鬼滅の刃になぞらえて，「柱」と呼ぶことがあります。
+
+　「告発に至る経緯・鬼滅の刃と，弁護士列車編」，「告発に至る経緯・奥能登の蛸島事件と，弁護士列車編」，「告発の事実・弁護士列車編」の３つが，本件告発状の3つの柱になりますが，これは八坂神社のご神紋の1つ，三つ巴」もイメージしています。弁護士という厄災除去の祈願を込めます。
+
+\hypertarget{ux30e2ux30c8ux30b1ux30f3ux3053ux3068ux77e2ux90e8ux5584ux6717ux5f01ux8b77ux58ebux4eacux90fdux5f01ux8b77ux58ebux4f1aux3068ux5c0fux5009ux79c0ux592bux5f01ux8b77ux58ebux6771ux4eacux5f01ux8b77ux58ebux4f1aux306bux5bfeux3059ux308bux540dux8a89ux6bc0ux640dux306eux5211ux4e8bux544aux8a34}{%
+\section{モトケンこと矢部善朗弁護士（京都弁護士会）と小倉秀夫弁護士（東京弁護士会）に対する名誉毀損の刑事告訴}\label{ux30e2ux30c8ux30b1ux30f3ux3053ux3068ux77e2ux90e8ux5584ux6717ux5f01ux8b77ux58ebux4eacux90fdux5f01ux8b77ux58ebux4f1aux3068ux5c0fux5009ux79c0ux592bux5f01ux8b77ux58ebux6771ux4eacux5f01ux8b77ux58ebux4f1aux306bux5bfeux3059ux308bux540dux8a89ux6bc0ux640dux306eux5211ux4e8bux544aux8a34}}
+
+\hypertarget{ux5e74}{%
+\subsection{2021年}\label{ux5e74}}
+
+\hypertarget{ux79c1ux306eux6279ux5224ux306bux5bfeux3057ux3066ux53cdux8ad6ux3067ux304dux306aux3044ux4ebaux306eux6c7aux307eux308aux6587ux53e5ux3061ux306aux307fux306bux30c4ux30a4ux30c3ux30bfux30fcux306fux53d6ux8abfux5ba4ux3068ux3044ux3046ux3088ux308aux306fux6cd5ux5ef7ux3068ux3044ux3046ux30c4ux30a4ux30fcux30c8}{%
+\subsubsection{「私の批判に対して反論できない人の決まり文句。ちなみにツイッターは取調室というよりは法廷。」というツイート}\label{ux79c1ux306eux6279ux5224ux306bux5bfeux3057ux3066ux53cdux8ad6ux3067ux304dux306aux3044ux4ebaux306eux6c7aux307eux308aux6587ux53e5ux3061ux306aux307fux306bux30c4ux30a4ux30c3ux30bfux30fcux306fux53d6ux8abfux5ba4ux3068ux3044ux3046ux3088ux308aux306fux6cd5ux5ef7ux3068ux3044ux3046ux30c4ux30a4ux30fcux30c8}}
+
+:CATEGORIES: @kanazawabengosi \#金沢弁護士会 @JFBAsns
+日本弁護士連合会（日弁連） \#法務省 @MOJ\_HOUMU
+\#モトケンこと矢部善朗弁護士（京都弁護士会）
+
+　メインのツイートは14時34分現在，モトケンこと矢部善朗弁護士（京都弁護士会）のタイムラインで4時間前と表示されていますが，関連したツイートを一挙に順不同に掲載します。刑事告発・非常上告＿金沢地方検察庁御中（@kk\_hirono）でのリツイート試みモードです。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:37／2021/02/06 09:50 URL：
+https://twitter.com/kk\_hirono/status/1357926452138676224
+https://twitter.com/adachib/status/1357854079595081728\\
+\textgreater{} @motoken\_tw
+マウント欲だけではなくコントロール欲にも比例するのでは？
+と思うようになりました。モトケンさん、元は検事さんですよね？　自分の筋読み通りに調書を書いて、それにサインさせるお仕事。でもその遣り方が通用するのって「検察庁の中」だけじゃないでしょうか。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:38／2021/02/06 09:57 URL：
+https://twitter.com/kk\_hirono/status/1357926583315517443
+https://twitter.com/adachib/status/1357856019880136705\\
+\textgreater{} @motoken\_tw
+そうね。意外にも親切な取り調べをする検事さんだったのかもしれないし。あなたのツイートからは、とてもそうは思えないのだけれど(\textsuperscript{o})
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:38／2021/02/06 10:03 URL：
+https://twitter.com/kk\_hirono/status/1357926711329918980
+https://twitter.com/adachib/status/1357857439765336065\\
+\textgreater{} @motoken\_tw
+あなた香川出身ですか、私もなんですよ、一緒にうどんを捏ねる要領で調書をつくりましょう\ldots って言いくるめられて、出来上がったのがとんでもない調書だった、みたいな話は読んだことがありますよ。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:39／2021/02/06 09:34 URL：
+https://twitter.com/kk\_hirono/status/1357926812513226754
+https://twitter.com/adachib/status/1357850118049853440\\
+\textgreater{} wの数と比例するマウント欲 \#アンチフェミ図鑑
+https://t.co/bmOHMYX4Au
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:39／2021/02/06 10:05 URL：
+https://twitter.com/kk\_hirono/status/1357926942029189122
+https://twitter.com/adachib/status/1357858020470845440\\
+\textgreater{} @motoken\_tw
+判決はともかく量刑は、あなたのフォロワーさんが寄せてくるksrpってことですか？　失礼ながらこれも「あまり頭のいいフォロワーさんに恵まれてないですね」という以外の感想がありません。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:40／2021/02/06 09:29 URL：
+https://twitter.com/kk\_hirono/status/1357927187169509378
+https://twitter.com/adachib/status/1357848879538991106\\
+\textgreater{} @motoken\_tw
+モトケンさんがコントロールすることはできない、ということです。
+そもそもあなたにとって何が問題なのですか？
+問題「ツイフェミ腹立つわ\textasciitilde」であれば
+解決「通報しまくって凍結」 しかないんですよ？
+私に絡んでどうなると言うんです？
+失礼ながらあまり頭の良くない方なのかな、と思っています。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:41／2021/02/06 08:59 URL：
+https://twitter.com/kk\_hirono/status/1357927282652839937
+https://twitter.com/adachib/status/1357841204667240450\\
+\textgreater{} @motoken\_tw モトケンさんは
+「どうにもならないことは放っておく」 スルー力を身につけるべきですね。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:41／2021/02/06 08:52 URL：
+https://twitter.com/kk\_hirono/status/1357927379079897088
+https://twitter.com/adachib/status/1357839475330588673\\
+\textgreater{} @motoken\_tw 人に求めすぎなんですよ。モトケンさんは。
+「コントロールへの欲求」を一度捨ててみてはどうですか？
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:41／2021/02/06 08:47 URL：
+https://twitter.com/kk\_hirono/status/1357927498168692740
+https://twitter.com/adachib/status/1357838373155524608\\
+\textgreater{} @motoken\_tw
+モトケンさんも正義厨の自覚が必要なんじゃない？
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:42／2021/02/06 08:51 URL：
+https://twitter.com/kk\_hirono/status/1357927605467402240
+https://twitter.com/adachib/status/1357839254538182656\\
+\textgreater{} @motoken\_tw
+モトケンさんの「正義」がなぜか「対フェミニズム限定」で発動されるのも大概偏見だと思いますが、それも思想信条表現の自由だと思っていますよ。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:43／2021/02/06 07:57 URL：
+https://twitter.com/kk\_hirono/status/1357927846732128256
+https://twitter.com/adachib/status/1357825713676554240\\
+\textgreater{} @motoken\_tw それがわかっていてついついリプしてしまうのも
+モトケンさんの定番ですね。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:43／2021/02/06 07:53 URL：
+https://twitter.com/kk\_hirono/status/1357927926428098561
+https://twitter.com/adachib/status/1357824694859165696\\
+\textgreater{} @motoken\_tw
+「日本の看板を背負って」いない人たちが「偏見を垂れ流」す表現の自由についてはお認めにならない、ということですね(\textsuperscript{o})
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜adachib（安達瑶b『内閣裏官房』4刷です）
+日時：2021-02-06 14:44／2021/02/06 07:37 URL：
+https://twitter.com/kk\_hirono/status/1357928101125124098
+https://twitter.com/adachib/status/1357820647276072960\\
+\textgreater{} @BlauerSeelowe
+森元総理と違って「ツイフェミのみなさん」が日本の看板背負ってるわけではないので。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜BlauerSeelowe（青識亜論（せいしき・あろん））
+日時：2021-02-06 14:44／2021/02/05 12:21 URL：
+https://twitter.com/kk\_hirono/status/1357928255634853890
+https://twitter.com/BlauerSeelowe/status/1357529813443960834\\
+\textgreater{}
+ツイフェミのみなさんと森元さん、すごいメンタリティ似てると思うのですけど。単にスタンス反転させただけですよね。
+
+\begin{itemize}
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/Pr8xOdqkUF
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/uf8X0QSyFB
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/WNHQaaHAxs
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/p6E6ONvkkQ
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/xh5NjTvrbs
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/QQEQKhwoOD
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/8KJJbFQaDa
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/qx72MQQLwE
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/VPQEeOvHng
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/Uzgv84opGI
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/SA7vuZR5hH
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/rSJCJdvKuX
+\item
+  〉〉〉　アカウント（@motoken\_tw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/OAH7dXv1Rh
+\end{itemize}
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 09:59 URL：
+https://twitter.com/motoken\_tw/status/1357856506058657792\\
+\textgreater{} ＞元は検事さんですよね？\\
+\textgreater{}\\
+\textgreater{} 私の批判に対して反論できない人の決まり文句。\\
+\textgreater{} ちなみにツイッターは取調室というよりは法廷。\\
+\textgreater{} 裁判官も弁護人もいるし傍聴人もいる。\\
+\textgreater{}
+「自分の筋読み通りに調書を書いて、それにサインさせる」なんてことはできるわけがない。\\
+\textgreater{} この人は、苦し紛れの言い訳をしているだけ。
+https://t.co/otgT3V8V1V
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 09:53 URL：
+https://twitter.com/motoken\_tw/status/1357854866295586819\\
+\textgreater{} @adachib 知ったかぶりはしないほうがいいよ。\\
+\textgreater{} ちなみに、藁人形使いはどこでも通用しない。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 09:39 URL：
+https://twitter.com/motoken\_tw/status/1357851429415776257\\
+\textgreater{} @adachib
+wwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwwww
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 10:07 URL：
+https://twitter.com/motoken\_tw/status/1357858485317242883\\
+\textgreater{} @adachib ＞という以外の感想がありません。\\
+\textgreater{}\\
+\textgreater{} あなたの感想ですね。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 09:32 URL：
+https://twitter.com/motoken\_tw/status/1357849654503698432\\
+\textgreater{} @adachib
+そういうことは、私が反論するまでもなく、私とあなたのツイートを見ている人が判断すればいいことです。\\
+\textgreater{}\\
+\textgreater{}
+＞失礼ながらあまり頭の良くない方なのかな、と思っています。\\
+\textgreater{}\\
+\textgreater{} 苦笑を禁じ得ないwwwwwww
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 09:00 URL：
+https://twitter.com/motoken\_tw/status/1357841488361652224\\
+\textgreater{} @adachib
+つまり、あなたはどうにもならない、ということでいいですか？
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 08:55 URL：
+https://twitter.com/motoken\_tw/status/1357840295409246208\\
+\textgreater{} @adachib
+あなたは、まず誠実な読解力を身につけるべきでしょう。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 08:51 URL：
+https://twitter.com/motoken\_tw/status/1357839256505384960\\
+\textgreater{} この人、少しは実のあることを言えないのかな？
+https://t.co/dcCwTvMVtE
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 08:48 URL：
+https://twitter.com/motoken\_tw/status/1357838601459912706\\
+\textgreater{} @adachib
+偏見と差別というものをどうしても理解できないんですね。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 08:52 URL：
+https://twitter.com/motoken\_tw/status/1357839618146635777\\
+\textgreater{} @adachib ＞「対フェミニズム限定」で発動される\\
+\textgreater{}\\
+\textgreater{}
+全く日本語が読めない人ですね、と言おうと思ったけど、そうじゃなくて意図的な藁人形論法ですね。\\
+\textgreater{} 能力的な問題ではなくて性格的な問題があるのでしょう。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 08:42 URL：
+https://twitter.com/motoken\_tw/status/1357836948757307393\\
+\textgreater{} @adachib ＞それがわかっていて\\
+\textgreater{}\\
+\textgreater{} 卑怯者の自覚があるんですね。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 07:56 URL：
+https://twitter.com/motoken\_tw/status/1357825545640189953\\
+\textgreater{} @adachib
+全くなんの反論もできずに藁人形論法に逃げ込むのはあなたの定番ですね。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW motoken\_tw（モトケン） 日時：2021/02/06 07:49 URL：
+https://twitter.com/motoken\_tw/status/1357823724418781187\\
+\textgreater{} 何が問題なのか全くわかっていない人ですね。\\
+\textgreater{} 偏見とか差別というものを考えたことがないのかな？\\
+\textgreater{}
+日本の看板を背負ってなければ偏見を垂れ流してもいいと言うのだろうか？\\
+\textgreater{}
+差別というのは、日本の看板とかとは全く関係のない一市民の偏見の積み重ねによって生じるものなのだが。
+https://t.co/4spFUTs6rg
+
+　モトケンこと矢部善朗弁護士（京都弁護士会）にしてみれば議論のつもりなのかと思いますが，かなり攻撃的ですし，自身を正当化しています。従来よく見かけた光景なのですが，ここ最近は見かけることがなく，ここ数日はツイートの数自体も少なかったように思います。
+
+(py37\_env) ➜ \textasciitilde{} dp -m \textbar egrep
+``ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年0{[}1-2月{]}"\\
+- 2021年01月02日00時34分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月01日''：32件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010132.html}-
+2021年01月03日00時02分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月02日''：19件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010219.html}-
+2021年01月04日03時19分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月03日''：16件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010316.html}-
+2021年01月05日02時55分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月04日''：17件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010417.html}-
+2021年01月06日01時00分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月05日''：14件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010514.html}-
+2021年01月07日01時46分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月06日''：23件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010623.html}-
+2021年01月08日02時37分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月07日''：43件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010743.html}-
+2021年01月09日01時34分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月08日''：37件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010837.html}-
+2021年01月10日02時19分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月09日''：15件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021010915.html}-
+2021年01月11日00時18分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月10日''：21件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021011021.html}-
+2021年01月12日00時04分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月11日''：4件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101114.html}-
+2021年01月13日00時51分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月12日''：30件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021011230.html}-
+2021年01月14日09時06分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月13日''：45件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021011345.html}-
+2021年01月15日00時09分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月14日''：18件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021011418.html}-
+2021年01月16日00時46分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月15日''：14件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021011514.html}-
+2021年01月17日09時18分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月16日''：5件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101165.html}-
+2021年01月18日06時00分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月17日''：5件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101175.html}-
+2021年01月19日02時06分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月18日''：18件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021011818.html}-
+2021年01月20日08時03分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月19日''：21件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021011921.html}-
+2021年01月21日00時43分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月20日''：5件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101205.html}-
+2021年01月22日00時23分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月21日''：5件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101215.html}-
+2021年01月23日04時09分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月22日''：6件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101226.html}-
+2021年01月24日04時42分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月23日''：20件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021012320.html}-
+2021年01月25日00時37分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月24日''：12件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021012412.html}-
+2021年01月26日08時22分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月25日''：28件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021012528.html}-
+2021年01月27日06時23分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月26日''：7件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101267.html}-
+2021年01月28日05時16分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月27日''：10件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021012710.html}-
+2021年01月29日07時49分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月28日''：27件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw2021012827.html}-
+2021年01月30日03時19分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月29日''：8件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101298.html}-
+2021年01月31日03時24分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月30日''：6件
+\url{http://kk2020-09.blogspot.com/2021/01/motokentw202101306.html}-
+2021年02月01日00時19分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年01月31日''：18件
+\url{http://kk2020-09.blogspot.com/2021/02/motokentw2021013118.html}-
+2021年02月02日00時46分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年02月01日''：9件
+\url{http://kk2020-09.blogspot.com/2021/02/motokentw202102019.html}-
+2021年02月03日02時42分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年02月02日''：25件
+\url{http://kk2020-09.blogspot.com/2021/02/motokentw2021020225.html}-
+2021年02月04日01時15分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年02月03日''：8件
+\url{http://kk2020-09.blogspot.com/2021/02/motokentw202102038.html}-
+2021年02月05日00時41分の登録：
+ツイートの記録資料：＼法務検察・石川県警察宛＼／モトケン（@motoken\_tw）／''2021年02月04日''：9件
+\url{http://kk2020-09.blogspot.com/2021/02/motokentw202102049.html}
+
+　なお，モトケンこと矢部善朗弁護士（京都弁護士会）と差しでバトルのような展開をしている「安達瑶b『内閣裏官房』4刷です　@adachib」というアカウントですが，奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono\_hideki)のアカウントでブロックされていました。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-06 15:14／2021/02/06 15:10 URL：
+https://twitter.com/kk\_hirono/status/1357935588989571072
+https://twitter.com/s\_hirono/status/1357934682642341888\\
+\textgreater{}
+2021-02-06-100852\_安達瑶b『内閣裏官房』4刷です@adachibブロックされています@adachibさんのフォローやツイートの表示はできません。詳細はこちら.jpg
+https://t.co/84xPdet6UR
+
+　以前に見かけたアカウントとは思ったのですが，Twilogで調べたところ，メンションを含むツイートはわずかで，モトケンこと矢部善朗弁護士（京都弁護士会）のメンションを含むツイートは確認しませんでした。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜hirono\_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）
+日時：2021-02-06 15:19／2017/11/25 14:31 URL：
+https://twitter.com/kk\_hirono/status/1357937052193443841
+https://twitter.com/hirono\_hideki/status/934293477877321728\\
+\textgreater{} 安達瑶b『暗黒調書』発売中 (@adachib) \textbar{} Twitter
+https://t.co/lKl16bPfj8
+
+\begin{itemize}
+\item
+  奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono\_hideki)/「@adachib」の検索結果
+  - Twilog https://t.co/5wzGyLU31W
+\item
+  RT
+  hirono\_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）｜Hideo\_Ogura（小倉秀夫）
+  日時：2018/02/28 21:37／2018/02/28 20:17 URL：
+  https://twitter.com/hirono\_hideki/status/968827455665455106
+  https://twitter.com/Hideo\_Ogura/status/968807448264912897\textgreater{}
+  RT @Hideo\_Ogura:
+  乗車が禁止されていない男性の利用を排除しようとする女性乗客こそが不法行為者ということですね。RT
+  @adachib: @lefantask950212 @Hideo\_Ogura
+  女性専用車両に男性が乗車することが「禁止」されているわけではないので、一律排除ではありません。
+\end{itemize}
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜hirono\_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）
+日時：2021-02-06 15:19／2017/11/25 14:31 URL：
+https://twitter.com/kk\_hirono/status/1357937052193443841
+https://twitter.com/hirono\_hideki/status/934293477877321728\\
+\textgreater{} 安達瑶b『暗黒調書』発売中 (@adachib) \textbar{} Twitter
+https://t.co/lKl16bPfj8
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜hirono\_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）
+日時：2021-02-06 15:22／2021/02/06 10:11 URL：
+https://twitter.com/kk\_hirono/status/1357937588640772097
+https://twitter.com/hirono\_hideki/status/1357859359951212544\\
+\textgreater{} -
+奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono\_hideki)/「@adachib」の検索結果
+- Twilog https://t.co/FvAr05WiYO
+
+　2017年1月25日にメンション含むツイートが1件，2018年は小倉秀夫弁護士のツイートのリツイートが1件と，メンションを含むツイートが3件でした。この2018年2月28日の時点でブロックされていた可能性があるかと思います。
+
+　2018年2月28日の時点でブロックされていたとすると，今月の28日でちょうど3年前になります。この間にもツイートを見かけたアカウントだと思うのですが，リツイートをした形跡も残っておらず，3年近くブロックに気が付かずにいたというのも珍しく感じました。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+安達瑶b『内閣裏官房』4刷です@adachibhttp：//twilog.org/adachib/asc
+合作作家の片割れです。http：//adachiyo.life.coocan.jp/Site/Welcome.html\ldots 東京2009年7月からTwitterを利用しています810
+フォロー中1,306 フォロワー
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  安達瑶b『内閣裏官房』4刷ですさん (@adachib) / Twitter
+  \url{https://twitter.com/adachib}
+\end{itemize}
+
+　今，Twitterのプロフィールをコピペして気がついたのですが，「合作作家の片割れです。」というのは見覚えのある情報です。よくみると「安達瑶b」とあるので，酷似した他のアカウントも存在するのかもしれません。確認してみます。
+
+安達瑶 - Twitter検索 / Twitter
+https://twitter.com/search?q=\%E5\%AE\%89\%E9\%81\%94\%E7\%91\%B6\&src=typed\_query\&f=user
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+安達Ｏ@祥伝社文庫「内閣裏官房」四刷出来！@Adachi\_O1958「安達瑶」という名前で小説を書いている、その片割れです。
+2020年8月28日に最新刊「内閣裏官房」が発売！ 横須賀生まれの徳島育ち。
+日大芸術学部映画学科監督コース卒業。市川崑監督の弟子をへて、現在はエンタ小説家（合作）。パソ通時代からSNSはやってますが、Twitterは初心者です。Adachi-ku,
+Tokyoadachiyo.cocolog-nifty.com/blog/2019年2月からTwitterを利用しています761
+フォロー中323 フォロワー
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  安達Ｏ@祥伝社文庫「内閣裏官房」四刷出来！さん (@Adachi\_O1958) /
+  Twitter \url{https://twitter.com/Adachi_O1958}
+\end{itemize}
+
+　上記のアカウントのプロフィールの方が見覚えがあるような気がして，もともとアイコンの画像は変わっているのかと思っていたのですが，よくみるとTwitterの利用開始が2019年2月となっています。プロフィールの名前も「安達瑶」とはありません。
+
+　同姓同名が二人というのも考えにくいですが，やはりペンネームの可能性が高いかと思います。すでにGoogleで検索をしているのですが，そこで「暗黒調書」という本のタイトルを見つけ，本の内容の情報が見つからなかったのですが，これが八海事件の弁護人に繋がる意外な発見となりました。
+
+　Twitterのプロフィールにあるリンクを開くとニフティのブログが出てきましたが，ページの右手に「安達瑶の本」という項目があって，下にずらりとサムネイル画像付きの本が表示されています。その上から3つ目に「悪女列車」という気になったタイトルがあります。
+
+　列車については，「弁護士列車編」としているぐらいなので特にご説明は不要かと思いますが，「悪女について」という本のこともいずれ取り上げておきたいと考えていました。
+
+\begin{itemize}
+\tightlist
+\item
+  安達瑶の片割れ・安達Ｏの自分語り
+  http://adachiyo.cocolog-nifty.com/blog/
+\end{itemize}
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+商品の説明内容（「BOOK」データベースより）間違って女性専用車両に飛び乗ってしまった僕。目の前にいたスタイル抜群の謎めいた美女との出会いが、すべての始まりだった。通勤電車、新幹線、ローカル線、寝台特急\ldots 機密情報が入っているというUSBを持って逃げる彼女。それを追う高級官僚、刑事、ヤクザ探偵が入り乱れる大逃亡劇の意外すぎる行方は!?絶品エロス×鉄道サスペンス!
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  悪女列車 (実業之日本社文庫) \textbar{} 安達 瑶 \textbar 本 \textbar{}
+  通販 \textbar{} Amazon
+  \url{https://www.amazon.co.jp/exec/obidos/ASIN/4408555940/digitaladachi-22}
+\end{itemize}
+
+　美人局の痴漢冤罪がテーマなのかと思ったのですが，「間違って女性専用車両に飛び乗ってしまった僕。」というところから説明が始まっています。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+商品の説明著者について安達O(男性)とB(女性)の合作官能作家。1994年『令嬢姉妹完全飼育』でデビュー以来、「SMからSFまで」をモットーに意欲作を連発。ノワール色の強い『悪漢刑事』シリーズで人気を不動のものに。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  暗黒調書： 闇猫・冴子 (徳間文庫) \textbar{} 瑶, 安達 \textbar 本
+  \textbar{} 通販 \textbar{} Amazon
+  \url{https://www.amazon.co.jp/exec/obidos/ASIN/4198942641}
+\end{itemize}
+
+　ずいぶん前からAmazonの商品のURLが長いURLエンコードの文字列でコピペをためらっていたのですが，「悪女列車」のページはそれがなく，違いを観察すると，ISBN-10の指定でページが開けることがわかりました。「暗黒調書」の場合，4198942641です。
+
+　商品の説明という項目に，「著者について」という少項目があって，それだけというのも珍しいのですが，「安達O(男性)とB(女性)の合作」ということがわかりました。安達瑶bならば，安達瑶aなのかと想像していたのが方向違いでした。
+
+　いろいろと新たな発見につながったTwitterアカウントですが，出版されている本の数も多く，人気作家とあるのですが，そのわりにTwitterのフォロワーの数が少ないようで気になっていました。後に見つけたアカウントが「761
+フォロー中　323 フォロワー」です。
+
+　午前中に見ていた「安達瑶b『内閣裏官房』4刷です」というアカウントが，810のフォローで，1,306のフォロワーとなっています。このフォロワーの数が気になっていた矢先，たまたまなのかと思いますが，深澤諭史弁護士のタイムラインで関連のある気になるツイートを目にしました。
+
+\begin{itemize}
+\tightlist
+\item
+  TW fukazawas（深澤諭史） 日時： 2021/02/06 09:29 URL：
+  https://twitter.com/fukazawas/status/1357848877664149504\\
+  \textgreater{} （；・∀・）心をえぐられる者。 https://t.co/SttX236OWW
+\end{itemize}
+
+　深澤諭史弁護士の引用ツイートですが，一つ前がリツイートとなっている次のツイートです。本文は短いですが，漫画のコマの画像があって，そこに台詞があります。その台詞の内容が気になるものでした。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜soyamanga（曽山一寿）
+日時：2021-02-06 16:13／2021/02/05 12:43 URL：
+https://twitter.com/kk\_hirono/status/1357950486754652160
+https://twitter.com/soyamanga/status/1357535244992188417\\
+\textgreater{} かなり好きだった漫画 https://t.co/kCYwmt491n
+
+　初めてツイートの画像を拡大表示しましたが，ツイートの表示自体に気になった部分が表示されていました。「作者のSNSもフォローしたし　雑誌に載っている時も必ず読んでいたのに・・・」という部分です。
+
+　その深澤諭史弁護士のTwitterアカウントは，現時点で7,909というフォロワー数ですが，最初にアカウントを見かけた頃は，あと10か20ぐらいで1,000の大台に乗るというところでした。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+(py37\_env) ➜ \textasciitilde{} locate fukazawas\textbar grep
+jpg\textbar ruby -ne `puts
+\$\emph{.sub(/.+//,"``)`\textbar sort\textbar tac\textbar tail2014-08-04-152517\_深澤諭史　（fukazawas）さんはTwitterを使っています.jpg2014-08-04-152517\_深澤諭史　（fukazawas）さんはTwitterを使っています.jpg2014-07-26-101617\_深澤諭史　（fukazawas）さんはTwitterを使っています.jpg2014-07-26-101617\_深澤諭史　（fukazawas）さんはTwitterを使っています.jpg2014-06-19-102421\_％　grep　',''RT　@fukazawas：'　hirono\_hideki140619。csv.jpg2014-06-19-102421}％　grep　',''RT　@fukazawas：'　hirono\_hideki140619。csv.jpg2014-06-19-100059\_@fukazawas　@Hideo\_Ogura　ツイートを使わせていただきました。問題ありましたら対応しますのでご連絡くだ.jpg2014-06-19-100059\_@fukazawas　@Hideo\_Ogura　ツイートを使わせていただきました。問題ありましたら対応しますのでご連絡くだ.jpg2014-06-19-095927\_@fukazawas　貧乏だと厄介者扱いで終わりにされそうですね。報酬に差異を出せば、見解も大逆転するのかもしれないです泥.jpg2014-06-19-095927\_@fukazawas　貧乏だと厄介者扱いで終わりにされそうですね。報酬に差異を出せば、見解も大逆転するのかもしれないです泥.jpg
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-06 16:37／2021/02/06 16:37 URL：
+https://twitter.com/kk\_hirono/status/1357956574103314438
+https://twitter.com/s\_hirono/status/1357956468503289859\\
+\textgreater{}
+2014-08-04-152517\_深澤諭史　（fukazawas）さんはTwitterを使っています.jpg
+https://t.co/mbNCmxOAEW
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-06 16:37／2021/02/06 16:37 URL：
+https://twitter.com/kk\_hirono/status/1357956636904550403
+https://twitter.com/s\_hirono/status/1357956446277652481\\
+\textgreater{}
+2014-07-26-101617\_深澤諭史　（fukazawas）さんはTwitterを使っています.jpg
+https://t.co/VyUVxQrwMj
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-06 16:37／2021/02/06 16:36 URL：
+https://twitter.com/kk\_hirono/status/1357956656663994368
+https://twitter.com/s\_hirono/status/1357956423854944256\\
+\textgreater{}
+2014-06-19-102421\_％　grep　',''RT　@fukazawas：'　hirono\_hideki140619。csv.jpg
+https://t.co/UfRNhNmIZe
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-06 16:37／2021/02/06 16:36 URL：
+https://twitter.com/kk\_hirono/status/1357956682840633345
+https://twitter.com/s\_hirono/status/1357956401214095361\\
+\textgreater{}
+2014-06-19-100059\_@fukazawas　@Hideo\_Ogura　ツイートを使わせていただきました。問題ありましたら対応しますのでご連絡くだ.jpg
+https://t.co/ZazSZYNzWn
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-06 16:38／2021/02/06 16:36 URL：
+https://twitter.com/kk\_hirono/status/1357956709113679872
+https://twitter.com/s\_hirono/status/1357956379206586369\\
+\textgreater{}
+2014-06-19-095927\_@fukazawas　貧乏だと厄介者扱いで終わりにされそうですね。報酬に差異を出せば、見解も大逆転するのかもしれないです泥.jpg
+https://t.co/PBryVnn9Uw
+
+　2014年8月4日の時点で，深澤諭史弁護士のTwitterアカウントのフォロワー数は992と表示されていますが，固定されたツイートには「そのつぶやきは犯罪です」という共著の紹介になっています。
+
+　私がTwitterを始めたのは2010年4月ですが，固定されたツイートという機能が追加されたのは，だいぶん後のことという感覚でいました。最も古い情報で2014年6月19日の記憶ですが，もっと前から深澤諭史弁護士のアカウントは見ていたように思いました。
+
+　このあと別の方法で確認をしますが，990のフォロワー数の前後でしばらく推移していたことは，最初に深澤諭史弁護士のアカウントを見つけた時の印象として強く残っています。
+
+\begin{itemize}
+\tightlist
+\item
+  奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono\_hideki)/「@fukazawas」の検索結果
+  - Twilog https://t.co/98zweMTRpn
+\end{itemize}
+
+　意外な結果ですが，2013年3月4日に深澤諭史弁護士のツイートの2件のリツイートがありました。これは初めて深澤諭史弁護士のTwitterアカウントを見たという感覚と時期が一致するものです。
+
+\begin{itemize}
+\item
+  RT
+  hirono\_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）｜fukazawas（深澤諭史）
+  日時：2013/03/04 11:29／2013/03/04 10:56 URL：
+  https://twitter.com/hirono\_hideki/status/308403836480008193
+  https://twitter.com/fukazawas/status/308395576079306753\textgreater{}
+  RT @fukazawas: @motoken\_tw
+  私もそう思います。C\#は，C/C++からかなりおまじない的な約束事を取り払っているので，逆はともかくとしても。ただ，文法には違いがあるので，改造はともかく１から記述するとなると難しいです。
+\item
+  RT
+  hirono\_hideki（奉納＼さらば弁護士鉄道・泥棒神社の物語）｜fukazawas（深澤諭史）
+  日時：2013/03/04 11:32／2013/03/03 12:57 URL：
+  https://twitter.com/hirono\_hideki/status/308404589768630274
+  https://twitter.com/fukazawas/status/308063488356515840\textgreater{}
+  RT @fukazawas:
+  小倉先生のような方が、法曹養成制度検討会議に出ていただけると、よいと思うのだけど(
+  ･\_･)
+\end{itemize}
+
+　どちらも弁護士鉄道の記録にふさわしい内容のツイートです。
+
+　1つ目の2013年3月4日10時56分の深澤諭史弁護士のツイートは，当時，世間を騒がせ冤罪問題となっていたＰＣ遠隔操作事件に関連したものと思われます。佐藤博史弁護士も熱を込めて，javaとC++の違いを強調していました。
+
+\begin{itemize}
+\item
+  ソースコード　変換ツール　Java　C\# - Google 検索
+  https://t.co/nYH11MiDGP
+\item
+  「C\#のソースコードをJava、C++へ変換するツール」（1）
+  https://t.co/37EWspUv3p － ＠IT https://t.co/MNZW1qMyxm
+  言語変換と言うより、フレームワーク変換が可能かどうかの判断の方が ＼n
+  大きいですね。 ＼n ＼n でC\#→Javaは一番難しいのでは
+\item
+  米マイクロソフト，Java言語を「C\#」に自動変換するツールを発表
+  \textbar{} 日経クロステック（xTECH） https://t.co/q12LPKXWrr
+  2002.02.06
+\end{itemize}
+
+　私の記憶ではC\#ではなくC++だったのですが，Javaのプログラムで開発の仕事をしているプログラマーであれば，同様の機能を持つクラスライブラリーを探し出すのも難しくはなかったと思われます。
+
+　最近のことはわかりませんが，JAVAだとjarファイルとして配布されているライブラリーが多く，C\#の場合は，
+.NETのクラスライブラリーを使うことが多いのではと思います。やりたい機能を実現できるプログラムの出来合いの部品のようなものかと思います。
+
+　深澤諭史弁護士が言うように，プログラムのソースコードを1から記述することは非現実的ですが，得意のJAVAで作成したコードを，C\#に置き換えていくことも，それほど難しい作業とは思えません。目的のプログラムの仕組みさえ理解していれば，別のコードで置き換えるだけかと思います。
+
+　2つ目は，「2013/03/03
+12:57」の深澤諭史弁護士のツイートですが，小倉秀夫弁護士を「小倉先生のような方が、法曹養成制度検討会議に出ていただけると、よいと思うのだけど(
+･\_･)」とまで評価するものとなっています。
+
+　だいぶん前から，深澤諭史弁護士が小倉秀夫弁護士を評価するようなツイートは見かけておらず，逆に小倉秀夫弁護士の方で，深澤諭史弁護士を事実上評価するようなツイートがありました。「寿司債権」という言葉で表現されたツイートです。
+
+\begin{itemize}
+\tightlist
+\item
+  奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中\_2020:
+  REGEXP：''寿司債権''／小倉秀夫（@Hideo\_Ogura）の検索（2017-01-19〜2019-04-20／2021年02月06日17時21分の記録17件）
+  https://t.co/7Jq7pE3XSw
+\end{itemize}
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:23／2017/01/19 17:50 URL：
+https://twitter.com/kk\_hirono/status/1357968268594585601
+https://twitter.com/Hideo\_Ogura/status/822003254431096832\\
+\textgreater{} これが寿司債権者集会ですか。RT @fukazawas:
+ということで、始まりま～す(･∀･)(･∀･)(･∀･) https://t.co/2RWcUGEAJo
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:24／2017/02/16 15:11 URL：
+https://twitter.com/kk\_hirono/status/1357968332159213568
+https://twitter.com/Hideo\_Ogura/status/832110051263279104\\
+\textgreater{} 寿司債権発見。RT @fukazawas:
+納税額が明らかになってめまいがする。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:24／2017/02/24 12:27 URL：
+https://twitter.com/kk\_hirono/status/1357968372294578176
+https://twitter.com/Hideo\_Ogura/status/834967863228157953\\
+\textgreater{} 寿司債権！RT @fukazawas:
+非弁と、刑事弁護（特にサイバー犯罪）の本を書きたいのだが、片方は実現しそう。
+(･∀･)
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:24／2017/02/26 14:57 URL：
+https://twitter.com/kk\_hirono/status/1357968459372457984
+https://twitter.com/Hideo\_Ogura/status/835730486609637378\\
+\textgreater{} これは寿司債権案件ですね。RT @fukazawas:
+三つ星レストランでお昼(･ω･)(･∀･) https://t.co/KgC50uZ5RX
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:25／2017/07/02 10:33 URL：
+https://twitter.com/kk\_hirono/status/1357968585579057153
+https://twitter.com/Hideo\_Ogura/status/881325013520928768\\
+\textgreater{} 寿司債権者を公募しているようにみえる。RT @fukazawas:
+取材や新件相談に対応しつつ，ひたすら，某書籍の原稿を書きまくる日曜午前。
+（・∀・）
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:25／2017/07/13 11:02 URL：
+https://twitter.com/kk\_hirono/status/1357968629128568834
+https://twitter.com/Hideo\_Ogura/status/885318602928173057\\
+\textgreater{} 寿司債権者集会が楽しみ。RT @fukazawas:
+多分，今後，ないであろう怒濤の執筆ラッシュ・・・
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:25／2017/08/07 11:35 URL：
+https://twitter.com/kk\_hirono/status/1357968687945248770
+https://twitter.com/Hideo\_Ogura/status/894386610908807168\\
+\textgreater{} 寿司債権者集会が楽しみ。RT @fukazawas:
+ただいま，何冊かの本を書いているのだけれども，素晴らしい共著者がそろったおかげで，これはスゴイ本が出来そうだ・・・。
+（・∀・＊）
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:25／2017/08/11 13:23 URL：
+https://twitter.com/kk\_hirono/status/1357968733109506053
+https://twitter.com/Hideo\_Ogura/status/895863316421029888\\
+\textgreater{}
+夏休み返上でお働きなんですね。秋の寿司債権者集会に向けて\ldots。RT
+@fukazawas: みんな楽しそうだなーー。
+私は今日も今日とて起案，執筆，新件対応・・・。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:26／2017/11/20 15:51 URL：
+https://twitter.com/kk\_hirono/status/1357968826525118465
+https://twitter.com/Hideo\_Ogura/status/932501645014966272\\
+\textgreater{} 櫻井先生を含めた寿司債権者集会も間近なようだ。RT
+@fukazawas: Σ（・∀・）ぬおおおお！櫻井先生にフォローされた。
+（；・∀・）こりゃ，滅多なことはツイートできないな・・。
+（＾ω＾）とかいいつつ，好き放題やるくせに・・・。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:26／2017/12/29 14:14 URL：
+https://twitter.com/kk\_hirono/status/1357968876521234432
+https://twitter.com/Hideo\_Ogura/status/946610377734758400\\
+\textgreater{} 寿司債権者集会の予告。RT @fukazawas:
+さて，実は，来年も本を出す予定があります。
+どちらも，なかなか類書がない，そして，弁護士等が知りたい内容をふんだんに盛り込んだものと自負しております。
+（・∀・）
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:26／2018/04/21 08:53 URL：
+https://twitter.com/kk\_hirono/status/1357968926513111042
+https://twitter.com/Hideo\_Ogura/status/987479391222382592\\
+\textgreater{} 売れっ子→寿司債権者集会。RT @fukazawas:
+朝から取材に対応するメールを書いている当職・・・。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:26／2018/10/08 10:22 URL：
+https://twitter.com/kk\_hirono/status/1357968966170251266
+https://twitter.com/Hideo\_Ogura/status/1049107623738392577\\
+\textgreater{} 寿司債権者集会。RT @fukazawas:
+退職代行業と弁護士法の問題，退職代行業者からの連絡への対応方法については，近く，法律雑誌に論考を掲載予定です。
+（・∀・）いいタイミングで依頼が来た！
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:26／2018/10/09 18:54 URL：
+https://twitter.com/kk\_hirono/status/1357969020989755394
+https://twitter.com/Hideo\_Ogura/status/1049598867740614656\\
+\textgreater{} 新車を買えるだけのお金を寿司債権者集会でばらまくと。RT
+@fukazawas: なんか、新車を買いたい機運が。。。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:27／2018/10/12 15:26 URL：
+https://twitter.com/kk\_hirono/status/1357969063318671369
+https://twitter.com/Hideo\_Ogura/status/1050633686775783424\\
+\textgreater{} 寿司債権者集会の専門家！RT @fukazawas: ＲＴ
+私もこう言われたい（・∀・）
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:27／2018/11/01 12:27 URL：
+https://twitter.com/kk\_hirono/status/1357969119484645382
+https://twitter.com/Hideo\_Ogura/status/1057836478456164352\\
+\textgreater{} 節税対策が必要になったら、高級車より、寿司債権者集会。RT
+@fukazawas: 弁護士のための車選び : 弁護士 深澤諭史のブログ
+https://t.co/63J2aQ7vDV 車ネタ（・∀・）
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:27／2019/04/20 09:02 URL：
+https://twitter.com/kk\_hirono/status/1357969184383111170
+https://twitter.com/Hideo\_Ogura/status/1119390857293991936\\
+\textgreater{} 寿司債権者集会が楽しみ。RT @fukazawas:
+今のところ、「他の弁護士にも相談してみる」というケースで、受任率がほぼ100パーセントなんですが、これは、素直に喜ぶべきことだとは思います・・。
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\arabic{enumi})}
+  \setcounter{enumi}{5}
+  \tightlist
+  \item
+    小倉秀夫さんはTwitterを使っています
+    「私たちは、寿司債権の回収の日をわくわくしてお待ちしております。RT
+    @fukazawas: 出版の打合せだん・・・。
+    最高に面白い本が出来そうですっごいワクワクしてきた。 （・∀・＊）」 /
+    Twitter https://t.co/JYKgjnRtXu
+  \end{enumerate}
+\end{itemize}
+
+　よもやと思ったのですが，「寿司債権」の全てが，深澤諭史弁護士のメンションを入れたいわゆる非公式RTのツイートとなっていました。深澤諭史弁護士からの返信というのは見たことがなかったですが，小倉秀夫弁護士のツイートをリツイートしているのはけっこう見ています。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Hideo\_Ogura（小倉秀夫）
+日時：2021-02-06 17:27／2019/04/20 09:02 URL：
+https://twitter.com/kk\_hirono/status/1357969184383111170
+https://twitter.com/Hideo\_Ogura/status/1119390857293991936\\
+\textgreater{} 寿司債権者集会が楽しみ。RT @fukazawas:
+今のところ、「他の弁護士にも相談してみる」というケースで、受任率がほぼ100パーセントなんですが、これは、素直に喜ぶべきことだとは思います・・。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜O59K2dPQH59QEJx（ピピピーッ）
+日時：2021-02-06 17:45／2021/02/06 09:45 URL：
+https://twitter.com/kk\_hirono/status/1357973643301560328
+https://twitter.com/O59K2dPQH59QEJx/status/1357852887313915906\\
+\textgreater{}
+検査を絞ってるのではなく、感染対策によってコロナが収束しているということにしないと、色々まずいんだろう。
+
+　よもやと思ったのですが，「寿司債権」の全てが，深澤諭史弁護士のメンションを入れたいわゆる非公式RTのツイートとなっていました。深澤諭史弁護士からの返信というのは見たことがなかったですが，小倉秀夫弁護士のツイートをリツイートしているのはけっこう見ています。
+
+\begin{itemize}
+\tightlist
+\item
+  奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中\_2020
+  https://t.co/XhDd1vKmQh
+\end{itemize}
+
+　上記のブログの記事のデータベースへの追加の処理は，かなり時間が掛かっています。GoogleのAPIを使っているのですが，スクレイピングの処理に変更すれば大幅な改善が見込めます。そのうちやろうと思っているのですが，少なくとも今月中は，告発状の作成に全集中です。
+
+\begin{itemize}
+\tightlist
+\item
+  2021年02月06日17時22分の登録：
+  REGEXP：''寿司債権''／小倉秀夫（@Hideo\_Ogura）の検索（2017-01-19〜2019-04-20／2021年02月06日17時21分の記録17件）
+  \url{http://kk2020-09.blogspot.com/2021/02/regexphideoogura2017-01-192019-04.html}
+\item
+  2021年02月06日17時30分の登録：
+  REGEXP：''@Hideo\_Ogura''／深澤諭史（@fukazawas）の検索（2012-11-13〜2019-05-28／2021年02月06日17時30分の記録813件）
+  \url{http://kk2020-09.blogspot.com/2021/02/regexphideoogurafukazawas2012-11-132019.html}
+\item
+  2021年02月06日17時31分の登録：
+  REGEXP：''@fukazawas''／小倉秀夫（@Hideo\_Ogura）の検索（2012-12-27〜2019-05-21／2021年02月06日17時31分の記録259件）
+  \url{http://kk2020-09.blogspot.com/2021/02/regexpfukazawashideoogura2012-12-272019.html}
+\item
+  2021年02月06日17時32分の登録：
+  REGEXP：''@fukazawas''／小倉秀夫（@chosakukenho）の検索（2020-11-12〜2020-12-25／2021年02月06日17時32分の記録2件）
+  \url{http://kk2020-09.blogspot.com/2021/02/regexpfukazawaschosakukenho2020-11.html}
+\item
+  2021年02月06日17時33分の登録：
+  REGEXP：''@chosakukenho''／深澤諭史（@fukazawas）の検索（2020-10-31〜2021-01-04／2021年02月06日17時32分の記録3件）
+  \url{http://kk2020-09.blogspot.com/2021/02/regexpchosakukenhofukazawas2020-10.html}
+\end{itemize}
+
+　追加したデータベースからの読み込みです。小倉秀夫弁護士の@Hideo\_Oguraのアカウントは，2019年6月8日のリツイートから更新がありません。Twitter社にロックされているとのことですが，ツイートの削除の要請に応じていないようです。昨年かと思ったのですが，一昨年でした。
+
+(py37\_env) ➜ \textasciitilde{} tun Hideo\_Ogura 1- RT
+Hideo\_Ogura（小倉秀夫）｜Yukishige190102（かになべ） 日時：2019-06-08
+07:09／2019-06-07 23:53 URL：
+https://twitter.com/Hideo\_Ogura/status/1137119368846798848
+https://twitter.com/Yukishige190102/status/1137009600782192640\\
+\textgreater{}
+{[}名古屋地裁岡崎支部平成31年3月26日準強制性交罪無罪判決、分析してみました。{]}
+https://t.co/3tElQHuCze\\
+\textgreater{}\\
+\textgreater{} 読むのは大変辛いけれども\\
+\textgreater{} 裁判とは、かくも理性的でなくてはならぬと同時に\\
+\textgreater{} 理性的すぎる事は実に気持ちが悪い。\\
+\textgreater{} つまりは賢い人に政治家になって貰わねばならぬと、\\
+\textgreater{} やはりそこに帰結する。
+
+　小倉秀夫弁護士の現在のアカウントで，深澤諭史弁護士のメンションを含むツイートは2件だけでしたが，どちらもリツイートではなく，返信ツイートとなっていました。引用ツイートの場合は，形跡が残らないものと思います。APIから抜き出すことはできると思います。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜chosakukenho（小倉秀夫）
+日時：2021-02-06 18:04／2020/11/12 09:28 URL：
+https://twitter.com/kk\_hirono/status/1357978519859417089
+https://twitter.com/chosakukenho/status/1326683323628888066\\
+\textgreater{} @fukazawas
+被害者支援と言いつつ、死刑廃止反対にばかり注力する人たちもそうですね。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜chosakukenho（小倉秀夫）
+日時：2021-02-06 18:04／2020/12/25 17:15 URL：
+https://twitter.com/kk\_hirono/status/1357978576830664704
+https://twitter.com/chosakukenho/status/1342383376339070976\\
+\textgreater{} @fukazawas 「上の期の弁護士への寿司の奢り方」ですか。
+
+　最後の小倉秀夫弁護士の深澤諭史弁護士に向けたツイートが，昨年2020年の12月25日となっていますが，これも内容は，「寿司債権」と同じかと思います。「@fukazawas
+「上の期の弁護士への寿司の奢り方」ですか。」とあります。
+
+　さきほど，データベースへの追加登録の処理待ちのとき，小倉秀夫弁護士のタイムラインで大きな発見がありました。「告発に至る経緯・奥能登の蛸島事件と，弁護士列車編」のテーマ性に食いつくような内容です。
+
+\hypertarget{ux546aux308fux308cux3066ux3044ux308bux306eux304bux3068ux3044ux3046ux6bceux65e5ux65b0ux805eux306eux8a18ux4e8bux304bux3089ux59cbux307eux3063ux305f2021ux5e743ux670813ux65e5ux306eux5348ux524dux4e2dux4e00ux9023ux306eux767aux898bux7d42ux7740ux304cux970aux611fux5546ux6cd5ux3068ux30c6ux30ecux30d3ux5831ux9053}{%
+\subsubsection{「呪われているのか」という毎日新聞の記事から始まった2021年3月13日の午前中，一連の発見，終着が霊感商法とテレビ報道}\label{ux546aux308fux308cux3066ux3044ux308bux306eux304bux3068ux3044ux3046ux6bceux65e5ux65b0ux805eux306eux8a18ux4e8bux304bux3089ux59cbux307eux3063ux305f2021ux5e743ux670813ux65e5ux306eux5348ux524dux4e2dux4e00ux9023ux306eux767aux898bux7d42ux7740ux304cux970aux611fux5546ux6cd5ux3068ux30c6ux30ecux30d3ux5831ux9053}}
+
+:CATEGORIES: 報道
+
+　時刻は2月14日8時2分になります。今パソコンの時間を見て気がついたのですが，日曜日のバレンタインデーというのも珍しく感じ，平成4年の2月14日のことも思い出しました。昨日の土曜日は午後2時から用事があって出かけ，家に戻ったのは16時過ぎだったと思います。
+
+　祭礼に関する事前協議のような用事でした。土曜日なのに図書館が閉まっているのも珍しく感じたのですが，蔵書の整理などと張り紙がありました。事前協議の資料で初めて知ったのですが，珠洲市は今のところ新型コロナウィルスの感染者が0人とのことでした。
+
+　7時過ぎからTwitterAPIの１つで，「Could not authenticate
+you.」というメッセージが出て投稿が出来なくなっています。認証エラーです。過去にもあったような気がしますが，よく憶えていません。
+
+\begin{itemize}
+\tightlist
+\item
+  福島県・宮城県で震度6強の地震 / Twitter https://t.co/fonVRWg1tJ ＼n
+  気象庁によれば、13日午後11時8分ごろ、福島県と宮城県で震度6強の地震がありました。この地震による津波の被害の心配はありません。また東北電力によると、14日午前2時35分現在、福島県で約4万9,800戸、宮城県で約1,100戸が停電し
+\end{itemize}
+
+　2時40分ぐらいに目が覚めて，しばらくしてから，Twitterのトレンドだったと思うのですが，東北で震度6強という大きな地震があったことをしりました。思い出したのですが，深澤諭史弁護士のタイムラインの深澤諭史弁護士のツイートでした。
+
+　昔は，ナマズが地震と関係があるという話を聞いたと記憶にあるのですが，弁護士が神々を怒らせ，何かを発しているのかと考えたりもします。震度6強というのはずいぶん大きな地震に思いますが，今のところ大きな被害のニュースは見ておらず，それも不思議に感じます。
+
+　昨日は用事で告発状の作成が中断となり，家に戻ってからもパソコンで他のことをやったり，考える時間が長かったのですが，午前中から出かける前に，集中して大きな発見がありました。戻ってからもあったかもしれず，深澤諭史弁護士の動きが特に活発でもありました。
+
+　時刻は2月15日11時14分になります。昨日の2月14日は，昼の12時少し前に電話が入り，急に小木港東一文字堤防に釣りに行くことになりました。14時の予定です。家に戻って片付けを済ませ，ふたたびパソコンに向かったのが23時20分ぐらいではなかったかと思います。
+
+\begin{itemize}
+\tightlist
+\item
+  1182：2021-02-15\_11:13:15 \# 2021年02月13日の発見
+  https://hirono-hideki.hatenadiary.jp/entry/2021/02/15/111313
+\end{itemize}
+
+　昨日，資料としてまとめていた記事になります。主にツイートの記録ですが，ないよりましかと思い作成していました。ツイートにリンクがありますが，記事の発見は次のような経過がありました。
+
+\begin{itemize}
+\item
+  「呪われているのか」　東京オリンピック「招致4人衆」去る - 毎日新聞
+  https://t.co/YES3qDDCws
+\item
+  学年トップから風俗、そして母親の死体遺棄\ldots{}　「冷凍庫遺体事件」48歳女性の半生（デイリー新潮）
+  - Yahoo!ニュース https://t.co/KPvwqLeNAz
+\item
+  デート中の男女を暴行、強姦\ldots「名古屋アベック殺人」無期懲役少年が語る``社会復帰''
+  \textbar{} デイリー新潮 https://t.co/Y5ypL2PihP
+\item
+  霊視が売り物「シークエンスはやとも」の危うさ　宜保愛子、細木数子の失敗を忘れたか
+  \textbar{} デイリー新潮 https://t.co/f0gWOczr8M
+\end{itemize}
+
+　毎日新聞の記事の中でデイリー新潮の記事のリンクを見つけたと思うのですが，3つ続けてデイリー新潮の記事となっていました。「学年トップから風俗、そして母親の死体遺棄」という記事は，しばらく前から気になっていたのですが，忘れた頃の発見でした。
+
+　その夜に検索をして母親の死体遺棄という事件のことはわかったのですが，「学年トップ」という情報は見つからずにいたと思います。きっかけは，広告のような記事の見出しを見かけたことでした。閉店間際のAコープ能都店で見かけたような気がします。
+
+\begin{itemize}
+\tightlist
+\item
+  Twilog - メンテナンス中 https://t.co/KE6NE8gXIn ＼n
+  ただいまシステムメンテンス作業中のため、サービスをご利用いただくことができません。
+  ＼n ＼n
+  作業終了は15:00頃を予定しておりますが、作業の進行により前後する場合がございます。
+\end{itemize}
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+(py37\_env) ➜ twilog cat hirono\_hideki210211.csv\textbar egrep -A 3 -B
+10 `母親.＊冷凍'2021-02-06 20:13:55 ``九頭竜湖冷凍庫殺人
+明らかになった恐ろしい虐待、暴行の内容 - ライブドアニュース
+https://news.livedoor.com/article/detail/9663293/
+裁判員裁判ではないが、裁判員裁判でよく弁護人がやるように、張り切って証言台の前に立ち、熱弁を振るう。''
+https://twitter.com/hirono\_hideki/status/13580110344773386252021-02-06
+20:13:37 ``九頭竜湖冷凍庫殺人 明らかになった恐ろしい虐待、暴行の内容 -
+ライブドアニュース https://news.livedoor.com/article/detail/9663293/
+いまは自らの立場を有利にするためのコマにすぎないとばかりに、渡辺被告の弁護人は、林被告の``猟奇的''っぷりを検察官よりもアピールしまくった。"
+https://twitter.com/hirono\_hideki/status/13580109564716195842021-02-06
+20:09:02
+````殺害され''冷凍庫に入れられていた女性、2日後に``生き返り''冷凍庫から脱出
+ネットでは驚愕の声続々 \textbar{} ニコニコニュース
+https://news.nicovideo.jp/watch/nw5850723"
+https://twitter.com/hirono\_hideki/status/13580098038392176722021-02-06
+20:02:37
+``「10年前から母の遺体を冷凍庫に\ldots」逮捕された48歳娘がそれでも「アパートに住み続けたかった」本当の理由
+\textbar{} 文春オンライン https://bunshun.jp/articles/-/43315
+東京都葛飾区の都営アパートの空き部屋で1月27日に高齢女性の遺体が見つかった事件。2日後の1月29日に死体遺棄の疑いで警視庁に逮捕されたのは、''
+https://twitter.com/hirono\_hideki/status/13580081879751270472021-02-06
+20:01:28
+``(2ページ目)「10年前から母の遺体を冷凍庫に\ldots」逮捕された48歳娘がそれでも「アパートに住み続けたかった」本当の理由
+\textbar{} 文春オンライン https://bunshun.jp/articles/-/43315?page=2
+立ち退きするよう通告された昨年10月までに合計で110万円に上っていた。千葉のホテルで身柄を確保された時も所持金は5000円だけだった。''
+https://twitter.com/hirono\_hideki/status/13580078980019691522021-02-06
+20:00:57
+``(2ページ目)「10年前から母の遺体を冷凍庫に\ldots」逮捕された48歳娘がそれでも「アパートに住み続けたかった」本当の理由
+\textbar{} 文春オンライン https://bunshun.jp/articles/-/43315?page=2
+逮捕された時は無職だった吉野容疑者。ある捜査関係者は「かつてソープランドで働いていた」と明かす。''
+https://twitter.com/hirono\_hideki/status/1358007768725135361``1358007492224028672'',``210206
+195951'',``(2ページ目)「10年前から母の遺体を冷凍庫に\ldots」逮捕された48歳娘がそれでも「アパートに住み続けたかった」本当の理由
+\textbar{} 文春オンライン https://bunshun.jp/articles/-/43315?page=2
+「何年か前に『母を施設に入れて1人で暮らしています』と言っていた。母親は精神的に病んでいたのか、奇声を上げたり暴れたりすること''``1358006803661901824'',``210206
+195707'',``「10年前から母の遺体を冷凍庫に\ldots」逮捕された48歳娘がそれでも「アパートに住み続けたかった」本当の理由
+\textbar{} 文春オンライン https://bunshun.jp/articles/-/43315
+目立った外傷はなく、見つかった遺体の司法解剖を行っても、亡くなった時期や原因は分からなかった。''``1358006371329843206'',``210206
+195524'',``母親の遺体、冷凍庫に１０年放置か・・・４８歳娘、容疑で逮捕　東京・葛飾（産経新聞）
+- Yahoo!ニュース
+https://news.yahoo.co.jp/articles/80d21af4e926539285ce71366145efd63b225de3
+吉野容疑者は「外出から帰ってきたら母親が死んでいた。母親名義で契約していたアパートに住めなくなると思い、遺体を隠し続けた」と話しているという。''2021-02-06
+19:49:06 ``RT @itagaki\_katsu:
+今年度は600人以上について成績評価を行ったけれど、リモート授業の普及で成績照会が増えているらしく戦々恐々としています。''
+https://twitter.com/hirono\_hideki/status/13580047858158223382021-02-06
+19:42:50 ``政井マヤ×脳医学者｢子育てと釣りの深い関係｣ \textbar{}
+グローブライド \textbar{} 東洋経済オンライン \textbar{}
+経済ニュースの新基準 https://toyokeizai.net/articles/-/399459''
+https://twitter.com/hirono\_hideki/status/1358003208359059457
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+　検索で唯一の該当部分が，テキスト置換処理の失敗箇所になっていたので，周辺を調べました。
+
+　「2021-02-06
+20:00:57」が置換処理の成功部分，「``1358006803661901824'',``210206
+195707''」が失敗部分になります。とりたてて違いがわからないのですが，ツイートの設定で入らないはずの改行が入っていて，失敗しているケースは確認していました。
+
+　``1358006803661901824''というのはツイートの固有のIDですが，https://twitter.com/hirono\_hideki/status/1358003208359059457
+の1358003208359059457の部分に相当します。
+
+　記事には，「ある捜査関係者は「かつてソープランドで働いていた」と明かす。」とあるのですが，この部分も気になり，他に軽微と思われたケースとは違い，弁護士が批判をすることもなく，弁護士以外にも問題視するようなツイートも見かけませんでした。
+
+\begin{itemize}
+\item
+  奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中\_2020
+  https://t.co/XhDd1vKmQh
+\item
+  奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中\_2020:
+  「2021-02-06 」を@hirono\_hideki　@kk\_hirono　@s\_hironoで検索
+  https://t.co/YLUp8brSrC
+\end{itemize}
+
+　ツイートを古いものから並ぶように変更しました。cat
+./＊.csv　という最初の処理を，tac ./＊.csv　に変更したのです。
+
+　ワイルドカードの内容は，「hirono\_hideki210211.csv
+kk\_hirono210211.csv s\_hirono210211.csv」です。316174
+hirono\_hideki210211.csv 134848 kk\_hirono210211.csv 82414
+s\_hirono210211.csv 533436 合計
+
+　533,436行からの検索になりますが，うまく処理されていない行もあり，行とツイートが対応しきれていません。検索自体の処理時間は0.094なので0.1秒ほどです。
+
+　なにかがきっかけで，その日，2月6日の夕方，買い物に出かける前に，小倉秀夫弁護士が母親をヨーロッパ旅行に連れて行ったと書いていたことを思い出していました。Twitterではなくブログ記事であったような気がします。
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\arabic{enumi})}
+  \setcounter{enumi}{19}
+  \tightlist
+  \item
+    母親 (from:Hideo\_Ogura) - Twitter検索 / Twitter
+    https://t.co/7EvycXdHA4
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\arabic{enumi})}
+  \setcounter{enumi}{19}
+  \tightlist
+  \item
+    母親 旅行 (from:Hideo\_Ogura) - Twitter検索 / Twitter
+    https://t.co/XjBxq7EbtB 「母親 旅行
+    (from:Hideo\_Ogura)」の検索結果はありません
+  \end{enumerate}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\arabic{enumi})}
+  \setcounter{enumi}{19}
+  \tightlist
+  \item
+    母親 ヨーロッパ (from:Hideo\_Ogura) - Twitter検索 / Twitter
+    https://t.co/QxEyIxI24p 「母親 ヨーロッパ
+    (from:Hideo\_Ogura)」の検索結果はありません
+  \end{enumerate}
+\item
+  母親 site:https://t.co/DoMccAEIFw - Google 検索
+  https://t.co/CWwouAvjTY
+\end{itemize}
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+「1973年、最愛の母親が50代を目前にして自殺」とのことですから、事務所がその辺を配慮して「森進一の『おふくろさん』」にしてあげたのかも知れません。　それはともかくとして、この騒動は著作権法の問題ではないのだとする方々がおられるようです。だとすると、むしろ由々しき事態です。日本は未だに、「大御所」が「あいつには俺の歌は歌わせない」と公言すると、法的な根拠もないのに、そのとおりになってしまう後進的な社会だということになってしまうからです。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  benli： mars 2007
+  \url{http://benli.cocolog-nifty.com/benli/2007/03/index.html}
+\end{itemize}
+
+　「「1973年、最愛の母親が50代を目前にして自殺」とのことですから、事務所がその辺を配慮して「森進一の『おふくろさん』」にしてあげたのかも知れません」とあります。小倉秀夫弁護士のブログで母親を検索すると見つかりました。
+
+　森進一といえば，昨年，能登町役場で事件がありました。給付金詐欺事件です。
+
+\begin{itemize}
+\item
+  ヨーロッパ site:https://t.co/DoMccAEIFw - Google 検索
+  https://t.co/BA7uXYjjtn
+\item
+  旅行 site:https://t.co/DoMccAEIFw - Google 検索
+  https://t.co/6s27FdJoIw
+\item
+  benli https://t.co/DoMccAEIFw
+\end{itemize}
+
+　ココログのブログは検索ボックスがついていたはずですが，この小倉秀夫弁護士のブログには見当たりません。あえて外してあるとも考えられます。母親とヨーロッパ旅行という情報は確認が出来ませんでした。小倉秀夫弁護士が唯一，家族の話をしていたことでも強く印象に残っていたのですが。
+
+\begin{itemize}
+\tightlist
+\item
+  小倉秀夫弁護士　母 - Google 検索 https://t.co/RuJ4IUzpVN
+\end{itemize}
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+前日に森進一の母親の自殺という深刻に考えさせられる話を知ったのも体調不良の一因だったと思います。他に銀行に行った時に電話が掛かり，図書館に取り寄せていた本を取りに行ったのですが，雨にもうたれていました。記憶が低いとは思わなかったのですが，悪寒気味でした。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  ＊ 確認された小倉秀夫弁護士のTwitterタイムライン，新規投稿は未確認 -
+  告発＼金沢地方検察庁＼最高検察庁＼法務省＼石川県警察御中2020
+  \url{https://hirono-hideki.hatenadiary.jp/entry/2020/07/11/214534}
+\end{itemize}
+
+　図書館に取り寄せの本を取りに行ったと書いてあるのですが，本の題名が見当たりません。「死刑捏造:
+松山事件・尊厳かけた戦いの末に」と「蒔絵職人・霜上則男の冤罪―山中温泉殺人事件」のどちらかの本です。
+
+　Twilogが使えないのがけっこう不便です。メンテナンス作業の終了を15時00分頃としていますが，余り見た憶えのないメンテナンスで，時間も長く感じます。
+
+\begin{itemize}
+\item
+  大岡越前　駕籠屋が見ていた真犯人 - Google 検索 https://t.co/My6GvE8H58
+\item
+  価格.com - 「大岡越前 ～第12部 第23話
+  駕籠屋が見ていた真犯人～」2011年8月24日（水）放送内容 \textbar{}
+  テレビ紹介情報 https://t.co/RhFHNLNYWh 2011年8月24日（水）
+  15:55～16:53　TBS
+\item
+  大岡越前　駕籠屋が見ていた真犯人　1992 - Google 検索
+  https://t.co/haY2v6sL8F
+\item
+  1992年放送の時代劇　-チャンバラ狂時代 https://t.co/VpWeC2ylvL ＼n
+  大岡越前(12)　（TBS　月曜20:00-20:54） ＼n
+  3月23日　第23話「駕籠屋が見ていた真犯人」
+\end{itemize}
+
+　図書館から苦情が来たら面倒なのでアップロードはしませんが，2020-07-02\_141736＿.jpgという写真ファイルに，北國新聞縮小版平成4年3月の，3月23日の番組表があります。そのときは時代劇のドラマ名と放送時間帯しか気にかけていませんでした。
+
+　内容は記憶にあったのですが，平成4年3月25日火曜日の北國新聞の記事で，テレビ欄の裏面，上，左側のけっこう大きな記事です。この紙面の位置，記事の分量は，平成1年1月の蛸島のTSさんの自殺の記事によく似ています。あれだけ大きな扱いだった自殺のニュース記事は，他に見ていません。
+
+　記事の見出しは大きい順に，また上から，「セクハラを全否定」「解雇通告の能都の社長　請求棄却求める」「金沢地裁輪島支部で口頭弁論」「「泣き寝入りできぬ」原告の女性」とあります。
+
+　もう一つ，強く印象に残ったのが，記事にある写真で，文字が判別しづらい部分があるのですが，「・・・原告の代理人と支援者ら　＝輪島市内の料理屋」とあります。畳の部屋にみえますが，木梨松嗣弁護士らしいと最初に気がついた金沢大学の同窓会，YouTube動画の部屋とも似ています。
+
+　探していた写真と日にちが違うことに気がついたのですが，図書館のあとに，宇出津の八坂神社の写真が出てきました。神社の裏に青竹を見つけて驚いた時の写真です。こちらはアップロードできます。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 14:19／2021/02/15 14:18 URL：
+https://twitter.com/kk\_hirono/status/1361183364531646465
+https://twitter.com/s\_hirono/status/1361182992496926720\\
+\textgreater{} 2020-07-02\_150441＿カンノジ　大平川観音寺橋.jpg
+https://t.co/GFRJhEoqJX
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 14:19／2021/02/15 14:18 URL：
+https://twitter.com/kk\_hirono/status/1361183383418671104
+https://twitter.com/s\_hirono/status/1361182968572645377\\
+\textgreater{} 2020-07-02\_145906＿宇出津　八坂神社.jpg
+https://t.co/aoEovrpJNC
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 14:19／2021/02/15 14:17 URL：
+https://twitter.com/kk\_hirono/status/1361183396421017601
+https://twitter.com/s\_hirono/status/1361182945327808514\\
+\textgreater{} 2020-07-02\_145807＿宇出津　八坂神社　青竹.jpg
+https://t.co/LqIisFpum6
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 14:19／2021/02/15 14:17 URL：
+https://twitter.com/kk\_hirono/status/1361183413105909760
+https://twitter.com/s\_hirono/status/1361182922347139079\\
+\textgreater{} 2020-07-02\_145706＿宇出津　八坂神社.jpg
+https://t.co/BFux8P3BEt
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 14:19／2021/02/15 14:17 URL：
+https://twitter.com/kk\_hirono/status/1361183424950673410
+https://twitter.com/s\_hirono/status/1361182899433734150\\
+\textgreater{} 2020-07-02\_145256＿宇出津　八坂神社.jpg
+https://t.co/lsua3U6Kug
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 14:19／2021/02/15 14:17 URL：
+https://twitter.com/kk\_hirono/status/1361183450238119936
+https://twitter.com/s\_hirono/status/1361182875509428224\\
+\textgreater{} 2020-07-02\_145241＿宇出津　八坂神社.jpg
+https://t.co/eg4uBHE26q
+
+　翌日の7月3日に九十九湾で遊覧船に乗った時の写真が出てきたのですが，九十九湾の海の色が熊本県人吉市に向かう球磨川沿いの川の色に似ているなどと考えていたら，確かその翌日に大雨が球磨川が氾濫し大きな被害となったのです。
+
+\begin{itemize}
+\tightlist
+\item
+  決壊・氾濫は「重要水防箇所」　球磨川12カ所の危険性、事前に指摘｜【西日本新聞ニュース】
+  https://t.co/FlfOZaqNvV
+  球磨川が氾濫し、多くの民家などが被害を受けた熊本県人吉市＝4日午後1時4分（本社ヘリから、撮影・帖地洸平）
+\end{itemize}
+
+　また八坂神社の神輿の写真が出てきて，そんなに間をおかず八坂神社に行ったことがあったのだろうかと不思議に思い，神輿の写真も建物の外からの撮影ではない至近距離で，さらに不思議に思ったのですが，7月5日の鎮疫祭のときの写真でした。祭礼委員の役員としての参加です。
+
+　ようやく見つけたのですが，「2020-07-10\_112907＿蒔絵職人霜上則男の冤罪.jpg」が図書館で取り寄せてもらった「蒔絵職人・霜上則男の冤罪―山中温泉殺人事件」を受け取った直後の写真です。
+
+　午前中に受け取っていたというのは意外でした。午後の早い時間に銭湯に行き，その前後に受け取りに行ったものと思っていました。銭湯に入って少し体調が良くなった気がしたのですが，家に戻ってから，何度も目が覚めてを繰り返しながら長い時間寝ていました。
+
+　経験したことのない体調の悪さで，風邪に症状も似ていたので，新型コロナウィルスに感染してしまったことも心配したのですが，翌日に長い眠りから覚めた後は，すっかり直っていました。咳のような症状はなかったと思います。
+
+　今，本の表紙を撮影した写真で気がついたのですが，不気味なマサカリのような凶器の絵があります。本の内容には，マサカリに似たよしなどという説明が繰り返しありました。
+
+\begin{itemize}
+\tightlist
+\item
+  金沢地方裁判所 昭和４７年（わ）１７１号 判決 - 大判例
+  https://t.co/NZ1FAx3Voc
+  翌一一日午後八時過頃、被告人霜上運転の普通乗用自動車に根切りよきとスコツプを載せて前記出嶋方付近路上に赴き、同所において出嶋を乗車させて、同日午後九時頃、山中町東町二丁目ホ部一四一通称南又林道の奥に連れ
+\end{itemize}
+
+　よしではなく，よきでした。出嶋とあるのは被害者の名前と思いますが，この刑事裁判では，その被害者の母親が，正直に話してくれれば極刑は望まないなどと法廷に被告人に話しかけたのに，一審では死刑判決が出て控訴審でも維持されたという流れで，それが差し戻しで無罪となったわけです。
+
+　強盗殺人でも被害者が1名で死刑判決というのは珍しいと思いますが，最高裁で破棄差し戻しとなり，差し戻しの控訴審は名古屋高裁金沢支部ではなく，名古屋高裁本庁となっていたように思い，それも他には見た記憶がなく珍しいと感じました。
+
+　この山中事件も蛸島事件と似たようなところが多いのですが，どちらも金沢合同法律事務所が主体となった弁護団でした。さきほど出てきた金沢地裁輪島支部のセクハラ裁判も金沢合同法律事務所で大きくなった裁判沙汰です。
+
+　さきほどの平成4年3月25日の北國新聞の記事に，「能登の女性の人権を守る会」とあったのも書いておこうと思いながら忘れていました。同じく過去の新聞にしか見ていない情報ですが，蛸島事件にも支援団体があり，新聞で知りました。
+
+　文字の判別がしづらい部分もあるのですが，昭和44年6月3日の北國新聞夕刊に，「○○○少年を守る会」の会長として名前があり，蛸島町のタクシー運転手とあります。判別出来ないのが年齢の漢数字で，一桁目が七とはわかるのですが，二桁目が三にも四にも五にも見えるような状態です。
+
+　先日，金沢弁護士会の今年度の弁護士会会長でもある金沢合同法律事務所の女性弁護士が，ホームページの自己紹介に，「珠洲セクシャルハラスメント事件」としていたのも不思議に感じるところでした。
+
+　警察に相談したとも情報は見ていないという記憶なのですが，セクハラ事件あるいはセクシャルハラスメント事件とはなっていました。しかし，どちらも輪島か金沢が頭になっていました。加害者とされたのは同じ宇出津の建設会社社長でした。
+
+　地元で生活していた時期ではなかったですが，話題にはなっていましたし，同級生の父親が加害者とされていたので注目もしていました。被害を訴えた女性をずっと輪島の女性と思っていたのですが，珠洲だと知って驚いたのは2017年の9月のことで，場所は柳田温泉の宴会場でした。
+
+　検索がうまくいかないのでおかしいと思ったのですが，「珠洲のセクシャルハラスメント訴訟」となっていました。事件の方が事件の発生地を連想させますが，「珠洲のセクシャルハラスメント訴訟」だとまるで珠洲市の裁判所に係属した事件を思わせます。
+
+　はてなダイアリーの過去記事の検索では，輪島，金沢ともにセクハラあるいはセクシャルハラスメントと組み合わせた該当がなく，Twilogでは輪島がなかったものの金沢はけっこうな数ありました。
+
+\begin{itemize}
+\tightlist
+\item
+  奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中\_2020:
+  「金沢(セクハラ\textbar セクシャルハラスメント)」を@hirono\_hideki　@kk\_hirono　@s\_hironoで検索
+  https://t.co/s8I38xGab5
+\end{itemize}
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+毎日放送OBで同志社女子大学学芸学部メディア創造学科の影山貴彦教授はテレビが霊の存在や霊視を放送することを憂慮する。
+
+「芸人であるシークエンスさんは自分の知名度を上げ、活躍の場を広げたいだけで、悪意はないのでしょうが、それを放送するとなると話は別です。霊視というものが取り上げられることにより、新たな不幸が生まれてしまう可能性があります。そのアクセルをメディアが踏んではなりません」（影山教授）
+
+　いくら力が衰えたとはいえ、テレビは途方もない数の視聴者が見る。免許事業で公共性が強い。テレビが放送したことによって、その情報がオーソライズ（公認）されたものと受け止める人もいる。そのテレビが霊の存在や霊視を認めたら、霊感商法・霊視商法の類いで人々から金品を騙し取っている輩たちにとっては思うツボだろう。
+
+　霊感商法・霊視商法において、騙す側は、「悪霊が憑いて次々に不幸なことがおこります」（警視庁ホームページより）などとささやき、被害者に近づく。騙すための第一歩は霊の存在を相手に信じさせることだ。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  霊視が売り物「シークエンスはやとも」の危うさ　宜保愛子、細木数子の失敗を忘れたか
+  \textbar{} デイリー新潮
+  \url{https://www.dailyshincho.jp/article/2021/02100600/?all=1}
+\end{itemize}
+
+　宜保愛子の名前がありますが，平成4年，被告発人安田敏が金沢西警察署の留置場に差し入れた本の一冊が，この宜保愛子の本でした。もう1冊はビジネス書のような当時，著名な作者の本でしたが，どちらもほとんど読まなかったように思います。
+
+　上記のデイリー新潮の記事は，「2021年2月10日掲載」とあるのですが，読み進めると過去の記述のような部分がありました。心霊を扱うテレビ番組は滅多に見かけなくなり，なぜなのかと気になっていたのですが，この理由をみると，弁護士の冤罪事件にかなり似たものを感じました。
+
+\hypertarget{ux72afux7f6aux88abux5bb3ux8005ux6cd5ux5f8bux63f4ux52a9ux3068ux91d1ux6ca2ux5965ux80fdux767bux306eux5f01ux8b77ux58ebux9244ux9053ux4e8bux4ef6}{%
+\section{犯罪被害者法律援助と金沢・奥能登の弁護士鉄道事件}\label{ux72afux7f6aux88abux5bb3ux8005ux6cd5ux5f8bux63f4ux52a9ux3068ux91d1ux6ca2ux5965ux80fdux767bux306eux5f01ux8b77ux58ebux9244ux9053ux4e8bux4ef6}}
+
+\hypertarget{ux5f01ux8b77ux58ebux6ce5ux68d2ux795eux793eux306eux7269ux8a9eux304bux3089ux91d1ux6ca2ux5965ux80fdux767bux306eux5f01ux8b77ux58ebux9244ux9053ux4e8bux4ef6ux3078}{%
+\subsection{「弁護士泥棒神社の物語」から「金沢・奥能登の弁護士鉄道事件」へ}\label{ux5f01ux8b77ux58ebux6ce5ux68d2ux795eux793eux306eux7269ux8a9eux304bux3089ux91d1ux6ca2ux5965ux80fdux767bux306eux5f01ux8b77ux58ebux9244ux9053ux4e8bux4ef6ux3078}}
+
+\hypertarget{ux6df1ux6fa4ux8aedux53f2ux5f01ux8b77ux58ebux306eux30bfux30a4ux30e0ux30e9ux30a4ux30f3ux3067ux307fux305fux5211ux88c1ux30b5ux30a4ux592aux306eux88abux7591ux8005ux88abux544aux4ebaux306bux77f3ux3092ux6295ux3052ux3064ux3051ux3066ux65e5ux9803ux306eux9b31ux61a4ux3092ux6674ux3089ux3057ux3066ux308bux9593ux306bux3068ux3044ux3046ux30c4ux30a4ux30fcux30c8}{%
+\subsubsection{深澤諭史弁護士のタイムラインでみた刑裁サイ太の「被疑者被告人に石を投げつけて日頃の鬱憤を晴らしてる間に」というツイート}\label{ux6df1ux6fa4ux8aedux53f2ux5f01ux8b77ux58ebux306eux30bfux30a4ux30e0ux30e9ux30a4ux30f3ux3067ux307fux305fux5211ux88c1ux30b5ux30a4ux592aux306eux88abux7591ux8005ux88abux544aux4ebaux306bux77f3ux3092ux6295ux3052ux3064ux3051ux3066ux65e5ux9803ux306eux9b31ux61a4ux3092ux6674ux3089ux3057ux3066ux308bux9593ux306bux3068ux3044ux3046ux30c4ux30a4ux30fcux30c8}}
+
+:CATEGORIES: @kanazawabengosi \#金沢弁護士会 @JFBAsns
+日本弁護士連合会（日弁連） \#法務省 @MOJ\_HOUMU \#深澤諭史弁護士
+\#刑裁サイ太
+
+\begin{itemize}
+\tightlist
+\item
+  RT fukazawas（深澤諭史）｜uwaaaa（サイ太） 日時：2021/02/15
+  15:44／2021/02/15 15:37 URL：
+  https://twitter.com/fukazawas/status/1361204800109481987
+  https://twitter.com/uwaaaa/status/1361203032839528449\textgreater{} RT
+  @uwaaaa:
+  国民の皆さんが被疑者被告人に石を投げつけて日頃の鬱憤を晴らしてる間に，犯罪被害者にはろくな手当もないって，犯罪被害者のことを見ていないのはむしろ国民なんじゃないかっていうのは思うんですよね。
+  https://t.co/65TigdkvIr
+\end{itemize}
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜sato\_\_michiko（§
+佐藤倫子） 日時：2021-02-15 16:33／2021/02/15 11:44 URL：
+https://twitter.com/kk\_hirono/status/1361216984419999744
+https://twitter.com/sato\_\_michiko/status/1361144230761037824\\
+\textgreater{}
+なおこの「犯罪被害者法律援助」は、あくまで「日弁連」が「会員の会費により」（つまり弁護士たちの手弁当で）運営しているものであり、日弁連が運営事務を法テラスに委託しているものです。このような弁護士たちの手弁当の状況を改善すべく、国に是非さらなる被害者支援施策をお願いしたいです
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜sato\_\_michiko（§
+佐藤倫子） 日時：2021-02-15 16:33／2021/02/15 11:34 URL：
+https://twitter.com/kk\_hirono/status/1361217037557665793
+https://twitter.com/sato\_\_michiko/status/1361141872983384065\\
+\textgreater{}
+性犯罪被害等では、捜査機関への同行や被疑者との交渉等の援助を弁護士に依頼できます。費用については、要件を満たす場合、日弁連による委託援助事業として法テラスが実施する「犯罪被害者法律援助」を利用できます。支援センターや法テラス、弁護士会に是非ご相談ください
+https://t.co/u1BTltQjml https://t.co/l4mUYzDa3g
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜hardboiled\_chi（ハードボイルドチアキ🙋‍♀️フェミニスト芸人）
+日時：2021-02-15 16:33／2021/02/14 21:14 URL：
+https://twitter.com/kk\_hirono/status/1361217089810300930
+https://twitter.com/hardboiled\_chi/status/1360925352210558976\\
+\textgreater{}
+「痴漢　弁護士」で検索したら、加害者を弁護するためのHPばかり出てくる、って以前ツイートしたけど、そのHPの「解決事例」に驚いた。
+めちゃくちゃガッツリ犯罪者！ こんなの犯罪を助長させないか？
+被害者からしたら「解決」なんてしてないし。
+被害者を守る弁護士を探すことすら大変なのかな。 https://t.co/OnYjfZCtnP
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜hardboiled\_chi（ハードボイルドチアキ🙋‍♀️フェミニスト芸人）
+日時：2021-02-15 16:33／2021/02/14 23:34 URL：
+https://twitter.com/kk\_hirono/status/1361217175055343617
+https://twitter.com/hardboiled\_chi/status/1360960710725963778\\
+\textgreater{} 加害者を守るのが悪いって言ってるわけじゃない。
+弁護士を探そうと検索しても、交通事故は被害者と加害者どちらも想定されてるのに、痴漢だと加害者弁護ばかり上位表示されるということを再度言いたかった。
+この非対称性やばくないですか。 https://t.co/kXDJUuWoxe
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜yuzuyoukan36（ミラーリング）
+日時：2021-02-15 16:34／2021/02/14 21:19 URL：
+https://twitter.com/kk\_hirono/status/1361217245544804354
+https://twitter.com/yuzuyoukan36/status/1360926518466146309\\
+\textgreater{} @hardboiled\_chi ですね　
+性暴力の犯罪者は、高学歴で高収入妻子持ち
+なので、とても儲かるらしいんです。 そして需要がある。ゾッとしますね。
+それで儲けてる弁護士が多いんです。
+性暴力被害者はほぼ女性なので、もうからないから
+嫌がる弁護士事務所多いそうで ここでも男女差別が繰り返されてます
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜hardboiled\_chi（ハードボイルドチアキ🙋‍♀️フェミニスト芸人）
+日時：2021-02-15 16:34／2021/02/14 21:24 URL：
+https://twitter.com/kk\_hirono/status/1361217417662193664
+https://twitter.com/hardboiled\_chi/status/1360927996060725251\\
+\textgreater{} @yuzuyoukan36
+痴漢の属性、私も斉藤章佳さんの本で知りました。
+アンチフェミがフェミニスト？に痴漢冤罪の証拠を聞かれていて、「痴漢冤罪の弁護士保険がたくさんあるからだ」と答えているツイートを見て検索に至ったのですが、現実は本当に酷いですね。
+資本主義ゆえ女性差別が繰り返されてるんですね。
+
+\begin{itemize}
+\tightlist
+\item
+  〉〉〉　アカウント（@uwaaaa）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/5PgDrn1K1H
+\end{itemize}
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW uwaaaa（サイ太） 日時：2021/02/15 15:37 URL：
+https://twitter.com/uwaaaa/status/1361203032839528449\\
+\textgreater{}
+国民の皆さんが被疑者被告人に石を投げつけて日頃の鬱憤を晴らしてる間に，犯罪被害者にはろくな手当もないって，犯罪被害者のことを見ていないのはむしろ国民なんじゃないかっていうのは思うんですよね。
+https://t.co/65TigdkvIr
+
+　国選弁護にも独自のこだわりの強い刑裁サイ太という匿名弁護士アカウントですが，前にも似たような趣旨のツイートは見かけていたように思います。犯罪被害者の救済を弁護士の金儲けとし国から税金を引き出す算段なのかと考えます。法テラス一本化にすれば良い方向とは思います。
+
+　「国民の皆さんが被疑者被告人に石を投げつけて日頃の鬱憤を晴らしてる間に，」という前提に，弁護士脳の危険性を垣間見るところです。たしかにそのような方向に風が吹いているようには感じますが，それこそが弁護士が妖術のように吹かせる弁護士風というものでしょう。
+
+　刑裁サイ太のツイートをリツイートした深澤諭史弁護士の今日のタイムラインには，他にも次のようなツイートがありますが，共通した疑念を感じさせるものです。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜haya\_rt（🐦鳩屋🐦）
+日時：2021-02-15 16:48／2021/02/15 14:23 URL：
+https://twitter.com/kk\_hirono/status/1361220836552679427
+https://twitter.com/haya\_rt/status/1361184290155896832\\
+\textgreater{}
+刑事の証拠を民事で出すと、判決で刑事でこういう証拠出てるけど、○○から必ずしともそうとは言えないとか民事で判断されててどゆこととかなったり。
+確実に民事の方が認定厳しい。 検察官ほんま楽勝すぎやろ。
+https://t.co/PBCaEKGRmL
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜eruear946（ふたつのいす）
+日時：2021-02-15 16:48／2021/02/15 14:07 URL：
+https://twitter.com/kk\_hirono/status/1361220890550095872
+https://twitter.com/eruear946/status/1361180258108538884\\
+\textgreater{}
+前にも書いたかもしれないけど、否認事件で「被告人の供述は変遷してて信用できない。その被告人供述に沿う証人のアリバイ供述も信用できない。てなわけで有罪。」という判決を出されたので、法廷にいた修習生に「あんな答案書いたら落ちるからね」と教えといた。
+https://t.co/XCr1v66TiP
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜m\_sai\_73（じゅん@弁護士のしがらみ）
+日時：2021-02-15 16:49／2021/02/14 21:10 URL：
+https://twitter.com/kk\_hirono/status/1361221086193405954
+https://twitter.com/m\_sai\_73/status/1360924489198968836\\
+\textgreater{} 修習で感じた法曹三者のイメージ
+・弁護士→他の法曹に比べて柔軟で穏やかな人が多い印象、水属性と風属性が多い
+・検察→人間味あって正義感強い印象、炎属性が多い
+・裁判官→人格者で人として尊敬できる方ばかり、でもマジの地雷が少数いた。光属性多いけど攻撃力3000の悪魔族が紛れてる
+https://t.co/IxS2fzgpDn
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜noooooooorth（教皇ノースライム）
+日時：2021-02-15 16:50／2021/02/15 08:57 URL：
+https://twitter.com/kk\_hirono/status/1361221288711180293
+https://twitter.com/noooooooorth/status/1361102361813344257\\
+\textgreater{} 士業の懲戒処分の権限者 弁護士は弁護士会
+弁理士は経済産業大臣 公認会計士は内閣総理大臣 税理士は財務大臣
+司法書士は法務局長 土地家屋調査士も法務局長 行政書士は都道府県知事
+社労士は厚生労働大臣 不動産鑑定士は国土交通大臣
+宅地建物取引士は都道府県知事
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜shouwayoroyoro（らめーん）
+日時：2021-02-15 16:50／2021/02/15 10:14 URL：
+https://twitter.com/kk\_hirono/status/1361221363722121217
+https://twitter.com/shouwayoroyoro/status/1361121640172556289\\
+\textgreater{} 「必要がない」までは言い過ぎではないでしょうか。
+現に痴漢を含む性犯罪の被害者に弁護士をつけることは、日弁連の委託援助事業に含まれており、日弁連が必要性を認めています。
+また、内閣府の政策であるワンストップセンターの支援対象事件でもあり、センターから弁護士が紹介されます。
+https://t.co/FqDWBF9lxo
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜v0l0ve（VOL）
+日時：2021-02-15 16:50／2021/02/15 11:32 URL：
+https://twitter.com/kk\_hirono/status/1361221407871356929
+https://twitter.com/v0l0ve/status/1361141411031052289\\
+\textgreater{} @fukazawas
+けっこう力を入れていた事件だったので、ショックでした・・・。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜perplex9（ぱ～ぷ。'21）
+日時：2021-02-15 16:51／2021/02/15 11:21 URL：
+https://twitter.com/kk\_hirono/status/1361221470815363073
+https://twitter.com/perplex9/status/1361138439995813890\\
+\textgreater{}
+相手の訴え取下げでは本人が月5000円を払いたがらないだろうという方向に寄り添ってしまうんだろうなあ、あの組織。
+https://t.co/E8YGs3iK1S
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜v0l0ve（VOL）
+日時：2021-02-15 16:51／2021/02/15 09:42 URL：
+https://twitter.com/kk\_hirono/status/1361221680845127681
+https://twitter.com/v0l0ve/status/1361113621397336066\\
+\textgreater{}
+前に、相手方が訴えを取り下げた事件、法テラスから、訴え取下げだと原則報酬が出ないと言われてびっくり。
+管轄破りして移送させ、期日も10回近くあり、尋問期日も決まっていたのに。。
+こういう理不尽な扱いは変えてもらわないといけないですよね(-\_-;)
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜wata\_nabekyo\_ko（なべきょう＠過眠症）
+日時：2021-02-15 16:52／2021/02/15 09:57 URL：
+https://twitter.com/kk\_hirono/status/1361221769974013954
+https://twitter.com/wata\_nabekyo\_ko/status/1361117421591883776\\
+\textgreater{} ＤＶ避難者の代理人をしたら金目当てと言われ
+性暴力の弁護人をしたら儲けてると言われ
+あなたの社会はそんなに弁護士にフィーを払ってくれる社会でしたか
+https://t.co/eeLAi4zCkI
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜chemicalgroom（ゴルーグ２８号）
+日時：2021-02-15 16:53／2021/02/14 23:05 URL：
+https://twitter.com/kk\_hirono/status/1361221965990690820
+https://twitter.com/chemicalgroom/status/1360953227764588550\\
+\textgreater{}
+これも定期的につぶやいているのだが、訳のわからん駆け引きで減額交渉しようとされる相談者様については、即ご依頼をお断りしています。
+無理に依頼されなくても大丈夫ですよ、なんで僕がお願いしてまで受任する立場なんですか。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜siseinosyomin（しょみ～ん）
+日時：2021-02-15 16:53／2021/02/13 14:12 URL：
+https://twitter.com/kk\_hirono/status/1361222091089924097
+https://twitter.com/siseinosyomin/status/1360456876601692161\\
+\textgreater{}
+森喜朗氏の一件で「皆があまりにも一様に誰かを攻撃する様に恐怖」を感じる人は、生活保護バッシングとか、刑事事件の被告のバッシングには恐怖を感じない。何故か、バッシングに十分対抗できる権力を持つ者がバッシングされたときにだけ恐怖する。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜haya\_rt（🐦鳩屋🐦）
+日時：2021-02-15 16:53／2021/02/14 21:39 URL：
+https://twitter.com/kk\_hirono/status/1361222177614307329
+https://twitter.com/haya\_rt/status/1360931571042119685\\
+\textgreater{} テレビで探偵業者と一緒に直接交渉やってる弁護士大丈夫？
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜KR31917261（K🐶R）
+日時：2021-02-15 16:54／2021/02/14 20:59 URL：
+https://twitter.com/kk\_hirono/status/1361222217825062914
+https://twitter.com/KR31917261/status/1360921584974716936\\
+\textgreater{}
+一度法的に通らないと説得し納得したように見えても、ちょっと時間が経つと何事もなかったかのように元に戻っちゃう依頼者いるいる(´ω`)
+https://t.co/fO2xWNdii4
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜eruear946（ふたつのいす）
+日時：2021-02-15 16:54／2021/02/14 20:45 URL：
+https://twitter.com/kk\_hirono/status/1361222248758091780
+https://twitter.com/eruear946/status/1360918104218300418\\
+\textgreater{}
+「〇〇は請求できないんですか？」と突然怒り出し、約１時間かけてできないことを説明すると納得するんだけど、数か月後に同じことを言い出す高齢の依頼者がいる。同じ説明をするとやはり納得するが数か月後に同じことを言い出す（以下繰り返し）。必要な儀式なんだろうけど追加料金欲しい。
+
+\begin{itemize}
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/bQLD6263kU
+\item
+  〉〉〉　アカウント（@luckymangan）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/ImctHbUlf5
+\item
+  〉〉〉　アカウント（@rippy08）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/6haWjxXM2G
+\item
+  〉〉〉　アカウント（@kfpause）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/ccVkdc6KvJ
+\item
+  〉〉〉　アカウント（@ichigo\_ba）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/jLyAdlGjP2
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/W6Q58CM5Qx
+\item
+  〉〉〉　アカウント（@SatsukiLaw）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/ZmG4suMWSC
+\item
+  〉〉〉　アカウント（@gimu13）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/VG0uZcbhRw
+\item
+  〉〉〉　アカウント（@popohito）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/VSWOoQnPhJ
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/7S9q3CIG3r
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/4hhKx9X9qW
+\item
+  〉〉〉　アカウント（@Qu2\_law）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/n7OqgRvofW
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/MJz6nYw02D
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/PCSSjMe8aS
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/8A4dk5rjzq
+\end{itemize}
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/15 16:11 URL：
+https://twitter.com/fukazawas/status/1361211484152287234\\
+\textgreater{} （・∀・）すっごい綺麗にまとまっている。\\
+\textgreater{} （＾ω＾）素晴らしいお。 https://t.co/lnsAXLUd2I
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW luckymangan（リーチ一発ツモ裏１） 日時：2021/02/02 10:10 URL：
+https://twitter.com/luckymangan/status/1356409653920296960\\
+\textgreater{}
+創作と現実の区別論については、未成年は少年法で軽い処罰だったり、精神病なら弁護士が無罪にし自由放免だったり、刑事事件の弁護士は被害者側におらず犯罪者の味方だけだったり、行政書士が紛争案件できたり、医療訴訟は金儲け弁護士のせいで医師に不利だったりで、区別ついてない人が多かったりする
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW rippy08（りっぴぃ） 日時：2021/02/15 15:48 URL：
+https://twitter.com/rippy08/status/1361205633136033792\\
+\textgreater{}
+ペイしそうな事件であれば弁護士がこぞって宣伝すると思うのですが，刑事弁護がそうそうペイするとも思えず，なんで被害者側よりも多くヒットするのかは確かに若干謎。。交通事故被害も犯罪被害と一部重なりますが，そちらは確かに多いですよね・・・
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW kfpause（ぱうぜ） 日時：2021/02/15 14:37 URL：
+https://twitter.com/kfpause/status/1361187806056431618\\
+\textgreater{}
+ドイツのニュースでも日本の地震がトップのひとつに。どうか皆さまご安全に。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW ichigo\_ba（スヤ獄杏寿郎） 日時：2021/01/14 21:42 URL：
+https://twitter.com/ichigo\_ba/status/1349698342167539712\\
+\textgreater{} 法テラス太郎弁護士爆誕の予感 https://t.co/dq9iXUb783
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/15 13:08 URL：
+https://twitter.com/fukazawas/status/1361165483135787012\\
+\textgreater{}
+司法修習中に見た裁判官は、みなさん、とても尊敬できる方ばかりだったし、起案も素晴らしいし、もちろん、こっちの起案もがっつり見てくれる方ばかりだったのに。\\
+\textgreater{}
+なんで実務に出ると、特に刑事の事実認定は、二回試験落第クラスの判決文が飛び出すんだろう・・。\\
+\textgreater{} （・∀・；）
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW SatsukiLaw（大貫憲介） 日時：2020/12/26 04:46 URL：
+https://twitter.com/SatsukiLaw/status/1342557421642817536\\
+\textgreater{} モラ夫バスター136=｢悲劇のモラ夫様｣
+https://t.co/5aUtyQ6A8y
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW gimu13（gimu13） 日時：2021/02/15 11:28 URL：
+https://twitter.com/gimu13/status/1361140194796212229\\
+\textgreater{} 若手のイキりについて。\\
+\textgreater{}
+別に相手方の先生はあんたの敵じゃなくて一緒に事件を解決する人ですよ。正直出し抜こうとする方が仁義を欠きますよっと。\\
+\textgreater{}
+とりあえず「所詮は他人事」という格言を心に刻んでおいた方がいいと思うのですな。
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW popohito（ぽぽひと＠🐱） 日時：2017/09/12 12:46 URL：
+https://twitter.com/popohito/status/907450390752325632\\
+\textgreater{}
+猿は鬼の一部と話し合い、鬼を改心させました。鬼は村人に謝罪し、その後は悪さを働くことなく、村人と仲良く平和に暮らしました。\\
+\textgreater{}\\
+\textgreater{}
+法テラス太郎は、「猿は鬼を倒していない」ということで、吉備団子をあげませんでした。
+https://t.co/sz2TNCnR0c
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/15 11:18 URL：
+https://twitter.com/fukazawas/status/1361137860636598272\\
+\textgreater{}
+法テラス太郎「鬼が自分の意思で降伏したのだから、きびだんごはやらねーよ！」\\
+\textgreater{} （＃・∀・）これは　ひどい。 https://t.co/P1DxaYomR8
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/15 10:15 URL：
+https://twitter.com/fukazawas/status/1361121810905927680\\
+\textgreater{}
+（・∀・）なぜか、報酬が見込めない案件に限って、金目当てとか、過払いの次といわれる。\\
+\textgreater{}
+（＾ω＾）そして、金目当てと言うことで、その業務の正当性を否定できたつもりな人もいるお。\\
+\textgreater{} \#弁護士あるある https://t.co/plyT9TNbhA
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW Qu2\_law（きゅきゅ） 日時：2021/02/15 10:11 URL：
+https://twitter.com/Qu2\_law/status/1361120924771053568\\
+\textgreater{} 修習の思い出\\
+\textgreater{} 僕\\
+\textgreater{}
+「記録見ましたが、〜という要件の主張がないと思うんですが」\\
+\textgreater{} 部長\\
+\textgreater{}
+「それを前提とした主張してるから、実務では黙示的に主張してるとして取り扱ったりするだよね」\\
+\textgreater{}\\
+\textgreater{} 僕(ぼっ、僕の弁論主義が壊れていく\ldots)
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/15 09:08 URL：
+https://twitter.com/fukazawas/status/1361104941322960898\\
+\textgreater{}
+（・∀・）受任後高確率でトラブルになるパターンですね、そういう人は。
+https://t.co/Id580FgyM7
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/15 08:47 URL：
+https://twitter.com/fukazawas/status/1361099901459832838\\
+\textgreater{} （・∀・）？ https://t.co/ESpohN6rPI
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/14 21:42 URL：
+https://twitter.com/fukazawas/status/1360932316466483200\\
+\textgreater{}
+（・∀・）やばい、こんなアドバイスを頂戴したら、成仏しちゃいそう。
+https://t.co/LzNOJJbkKb
+
+\hypertarget{ux5211ux88c1ux30b5ux30a4ux592aux306bux56fdux6c11ux306eux7686ux3055ux3093ux304cux88abux7591ux8005ux88abux544aux4ebaux306bux77f3ux3092ux6295ux3052ux3064ux3051ux3066ux3068ux3044ux3046ux304bux305fux3061ux3067ux5f15ux7528ux30c4ux30a4ux30fcux30c8ux3055ux308cux305fux4f50ux85e4ux502bux5b50ux5f01ux8b77ux58eb}{%
+\subsubsection{刑裁サイ太に「国民の皆さんが被疑者被告人に石を投げつけて」というかたちで引用ツイートされた佐藤倫子弁護士}\label{ux5211ux88c1ux30b5ux30a4ux592aux306bux56fdux6c11ux306eux7686ux3055ux3093ux304cux88abux7591ux8005ux88abux544aux4ebaux306bux77f3ux3092ux6295ux3052ux3064ux3051ux3066ux3068ux3044ux3046ux304bux305fux3061ux3067ux5f15ux7528ux30c4ux30a4ux30fcux30c8ux3055ux308cux305fux4f50ux85e4ux502bux5b50ux5f01ux8b77ux58eb}}
+
+:CATEGORIES: @kanazawabengosi \#金沢弁護士会 @JFBAsns
+日本弁護士連合会（日弁連） \#法務省 @MOJ\_HOUMU \#刑裁サイ太
+
+\begin{itemize}
+\tightlist
+\item
+  奉納＼危険生物・弁護士脳汚染除去装置＼金沢地方検察庁御中\_2020:
+  佐藤倫子弁護士について記録した記事 https://t.co/5ZViadsgJm
+\end{itemize}
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+§ 佐藤倫子@sato\_\_michiko弁護士/アイコンは @dasmanchan 作/スガシカオ
+山崎まさよし 第三舞台
+/スガマニア/岩波ジュニア新書「司法の現場で働きたい！」(2018.3)
+編著/弁護士ドットコムさんインタビュー記事(2020.7)
+http：//bengo4.com/c\_1009/n\_11517/香川
+三豊市2012年6月からTwitterを利用しています1,953 フォロー中8,175
+フォロワー
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  § 佐藤倫子さん (@sato\_\_michiko) / Twitter
+  \url{https://twitter.com/sato__michiko}
+\end{itemize}
+
+　Twitterのプロフィールに香川県三豊市とありますが，以前は違っていたような気もしました。同じ香川県ですが，善通寺市などになっていたような気がするのです，ただ，観音寺市の別の弁護士アカウントと混同している可能性はあるのかもしれません。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+中野
+俊徳@kanonjilawfirm弁護士（香川県弁護士会・観音寺法律事務所・日弁連民暴委員会委員、2001年司法試験合格・56期鹿児島修習・2003年10月弁護士登録）職場歴：福岡市（弁護士法人本店6か月）→福岡県田川市（法人支店5年）→秋田県能代市（公設2年4か月）→福岡県飯塚市（5年8か月）→香川県観音寺市（2017年4月～）香川
+観音寺市2014年7月からTwitterを利用しています841 フォロー中972 フォロワー
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  中野 俊徳（@kanonjilawfirm）さんの返信があるツイート / Twitter
+  \url{https://twitter.com/kanonjilawfirm/with_replies}
+\end{itemize}
+
+　しばらくツイートをみかけていなかったアカウントですが，プロフィールの内容も変更されているような気がしました。経歴がわかりやすくなっているとも感じました。
+
+\begin{itemize}
+\tightlist
+\item
+  中野 俊徳弁護士（観音寺法律事務所） - 香川県観音寺市 -
+  弁護士ドットコム https://t.co/1uEBCq4c82
+\end{itemize}
+
+　見るたびにお坊さんをイメージする名前なのですが，少し調べると顔写真が出てきました。前に見ているような気もするのですが，とても真面目そうで，その辺りも同じ香川県という佐藤倫子弁護士と実によく似た印象があります。
+
+\begin{itemize}
+\tightlist
+\item
+  佐藤 倫子弁護士（田岡・佐藤法律事務所） - 香川県丸亀市 -
+  弁護士ドットコム https://t.co/b76jeFXb61 ＼n 田岡・佐藤法律事務所 ＼n
+  ＼n 香川県 丸亀市大手町二丁目４番２４号 大手町ビル７階
+\end{itemize}
+
+　見たことのある顔写真が出てきたのですが，雰囲気はほぼ同じですが，前に見た写真よりかなり若く見えます。とても真面目そうな女性で，凛とした感じです。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+私は重度の障がい（脳性麻痺とダウン症）をもつ弟との日々の暮らしの中、社会的に弱い立場にある人を助ける仕事がしたいと思い、弁護士を志しました。
+
+　弁護士になってからは、さいたま市の法律事務所に勤務したのち、日弁連ひまわり基金が開設した「花北ひまわり基金法律事務所」の初代所長として、宮澤賢治の故郷である岩手県花巻市に赴任しました。その後、東京都（渋谷・桜丘法律事務所）の法律事務所で執務し、このたびご縁があり、田岡の郷里である香川県で開業をさせていただくことになりました。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  佐藤 倫子弁護士（田岡・佐藤法律事務所） - 香川県丸亀市 -
+  弁護士ドットコム \url{https://www.bengo4.com/kagawa/a_37202/l_114157/}
+\end{itemize}
+
+　弁護士ドットコムのプロフィールは，最初に「私は重度の障がい（脳性麻痺とダウン症）をもつ弟との日々の暮らしの中」とあって，これは読んでいると思ったのですが，その続きがかなり意外に感じる内容となっています。
+
+　「日弁連ひまわり基金が開設した「花北ひまわり基金法律事務所」の初代所長として、宮澤賢治の故郷である岩手県花巻市に赴任しました。その後、東京都（渋谷・桜丘法律事務所）の法律事務所で執務し、このたびご縁があり、田岡の郷里である香川県で開業を」という部分です。
+
+　長距離トラック運転手の仕事で行っているのですが，花巻市は岩手県の県庁所在地盛岡市に近く，弁護士の過疎地という印象はありません。さらに，その後に渋谷・桜丘法律事務所とあるのですが，この順番も逆のように感じました。
+
+　櫻井光政弁護士が所長をする桜丘法律事務所ですが，弁護士過疎地に向けて派遣するというパターンを見てきたからです。いきなり田岡と出てきて戸惑ったのですが，田岡・佐藤法律事務所となっていました。
+
+　丸亀市といえば，平成1年の1月ごろ，イワシを運んだのですが，けっこうな台数の大型トラックで目的地に向かい，早朝に丸亀ボートレース場の前で，休憩をしたことが記憶にあり，荷降ろししたところは岸壁にブリが泳いでいるのが見えました。養殖場となっていたのだと思います。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+田岡・佐藤法律事務所は、弁護士経験17年目の田岡直博（たおかなおひろ）と佐藤倫子（さとうみちこ）が開設した香川県丸亀市の法律事務所です。
+
+　私たちは、岩手県の公設法律事務所（ひまわり基金法律事務所）に赴任し、弁護士過疎地域で働いた経験があります。その間、弁護士に相談できないために、泣き寝入りをしたり、自殺される方をたくさん見てきました。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\item
+  ごあいさつ ｜ 香川県 丸亀市　田岡・佐藤法律事務所
+  \url{https://taokalaw.jp/message.html}
+\item
+  弁護士ご紹介 ｜ 香川県 丸亀市　田岡・佐藤法律事務所
+  https://t.co/uQyn6LksSE
+\end{itemize}
+
+　3人の弁護士の大きめの顔写真があって，佐藤倫子弁護士の顔写真は，さきほどのものと印象もころなりますが，古い時代の写真館を思わせる他とは違う写り映えの写真で，映画とドラマの「八日目の蝉」に出てくる写真館のことを思い出しました。小豆島も香川県だったと思います。
+
+　「弁護士になってからは、東京の桜丘法律事務所に勤務したのち、岩手県宮古市のひまわり基金法律事務所の初代所長に就任しました。」とありますが，宮古市のひまわり基金法律事務所といえば，新谷泰真弁護士ことばかりの印象で，その後は，空と海の法律事務所となっていました。
+
+　弘法大師空海の出身地も香川県として知られています。しばらく前，そのときも深澤諭史弁護士のタイムラインがきっかけで，「空海の風景」という言葉を思い出し，調べると司馬遼太郎の小説のことが出てきました。たぶんNHKドキュメンタリーのことしか知らなかったと思います。
+
+\begin{itemize}
+\tightlist
+\item
+  丸亀市 - Wikipedia https://t.co/oMiwd6IYEH
+\end{itemize}
+
+　丸亀市が市町村合併で三豊市になったのかと考えたのですが，香川県では高松市に次ぐ第二の都市とあり，市町村合併で消滅した市という情報はありません。丸亀城というのを聞くので，市の名前を変わることもなさそうです。
+
+\begin{itemize}
+\tightlist
+\item
+  三豊市 - Wikipedia https://t.co/xdEruewclU
+  三豊市（みとよし）は、香川県西部にある市。県内では高松市、丸亀市に次いで、3番目に人口の多い都市である。
+\end{itemize}
+
+　「2006年（平成18年）1月1日 -
+三豊郡仁尾町、高瀬町、豊中町、山本町、財田町、詫間町、三野町の7町が合併して成立した。合併により市制施行。同時に市章を制定する。」とありました。長距離トラック運転手の頃には見ていなかった市名です。
+
+　佐藤倫子弁護士のTwitterのプロフィールに三豊市とあるのは，自宅の住所なのかと思えてきたのですが，気になったのは，西村依子弁護士のプロフィールに，金沢合同法律事務所の記載が見当たらなかったこともあります。
+
+　そういえば，西村依子弁護士の独立した法律事務所というのも，空と海に通じるイメージの命名で，能登にあるJAおおぞらとも似ていました。宇出津のAコープ能都店の横にも事務所がありますが，昭和の時代は農協とばかり呼ばれていました。
+
+\begin{itemize}
+\tightlist
+\item
+  事務所のご案内。金沢の女性弁護士ならあおぞら共同法律事務所へ
+  https://t.co/m0kUa4tFLh ＼n
+  地元の小中学校を経て、小松高校卒業、その後、名古屋大学法学部卒業名古屋弁護士会（現愛知県弁護士会）登録（３７期）海外生活を経て１９８６年９月より金沢弁護士会登録２００１年１０月独立西村法律事務所
+\end{itemize}
+
+　忘れていたことに気がついたのですが，しばらく前に「地元の小中学校を経て、小松高校卒業」というのを見た時も意外性を感じていました。これまでに何度か調べている弁護士の一人ですが，今頃になって小松高校卒業と知ったことです。
+
+　小松高校というのは聞いたことがありますし，石川県小松市の高校に間違いはないと思うのですが，「地元の小中学校を経て、」という言い回しも，小説の表現のような印象を受けました。小説に出てくる場所のように思えたのも，平成9年秋の金沢合同法律事務所で，西村依子弁護士に会ったのです。
+
+　西村依子弁護士の小さい顔写真がありますが，顔が少し斜めに傾いて見えるのも舞台の演出のようなもので，演劇の看板にでもありそうな写真です。
+
+　前回は，同じページの下の方の左側に，3人で写る別の写真を見つけたのですが，その前に見ていた上にある西村依子弁護士の顔写真とは違い，一度会った時の印象にいくらか近い顔写真です。ただ，このような笑顔ではなく，弁護士としての円熟味を感じさせる表情ともなっています。
+
+　ホームページが初期の頃，平成10年代前半になりますか，当時よく見かけたようなホームページのデザインとなっています。ざっと経歴が並んでいますが，前回，目を通した時に，金沢弁護士会会長以外に，思っていた以上の実績のある弁護士なのだと感じました。
+
+　なんか，舞台とか女優というイメージが強いのですが，金沢刑務所の官本で読んだ，有吉佐和子の本の影響もありそうです。平成4年の事件で判決が確定後，移送前の分類審査の時期でした。「悪女について」と「開幕ベルは華やかに」です。
+
+　金沢合同法律事務所も梨木作次郎弁護士も同様です。その金沢合同法律事務所に相談に行ったきっかけというのも，１つに被告発人長谷川紘之弁護士の妻が強盗被害に遭ったという事件があるのですが，背景にあった，被告発人大網健二の父親の美川2少年殺人事件もドラマのような事実でした。
+
+　被告発人木梨松嗣弁護士と懇ろの被告発人大網健二を敵なのか味方なのかという見極めもまだ難しい時期でした。
+
+　本当にドラマを観ることが少なかったのですが，「Mother」とNHKの「八日目の蝉」は，真剣に全話を視聴し，共通して強い存在感を感じたのが，高畑敦子という女優でした。息子の事件のこともありましたが，高畑敦子という女優の出身地が香川県というのも印象に残っていました。
+
+　金沢市場輸送での最後の運行は，神戸でミールをおろし，帰り荷がなく空車で戻ったのですが，輪島のYAと一緒の2台で，会社に電話をするのに魚崎のフェリー乗り場に行ったのですが，そこで公衆電話の若い女性が，感情むき出しで別れ話のもつれをやっていたのも，不思議に思える光景でした。
+
+　香川県の高松市でも，珍しいことがあって，バスを改装したような食堂という印象が残っているのですが，そこでソープランドのソープ嬢が酔って悪態をついていたのです。強い不満をはけ口にしているのは伝わりましたが，職業とか自分の内面をさらけ出していました。
+
+　宇高連絡船のフェリー乗り場が駅のターミナルになっていたような気がするのですが，昭和62年には瀬戸大橋が開通し，瀬戸大橋が開通してからは宇高連絡船に乗船することはなかったように思います。
+
+　他にも記憶にあるのは，宇高連絡船だと思うのですが，フェリーを降りてから一斉に，トラックが走り出し，高松市内を抜けた辺りの螺旋状の山の道路を，灯りの行列のように走っていた光景です。いくらか似たような光景に思えたのは，「八日目の蝉」での虫送りの場面でした。
+
+\begin{itemize}
+\tightlist
+\item
+  八日目の蟬 - Wikipedia https://t.co/mBtxuv2SER
+  NHK総合の「ドラマ10」枠にて2010年3月30日から5月4日まで放送された。連続6回。
+\end{itemize}
+
+　放送の時期がはっきりしなかったのですが，2010年3月30日から5月4日というのは，かなり意外な情報で，私がTwitterを始めたのが同年4月2日になります。秋山恵理菜（＝薫）という誘拐された女児の，成長後の役を演じたのが北乃きい，というのも意外でした。女刑事のイメージがあります。
+
+　高畑敦子としていましたが，高畑淳子の間違いだったようです。「高石敬子（サライ
+/ ホームの主導者）」とあります。
+
+\begin{itemize}
+\item
+  八日目の蝉　ラスト - YouTube https://t.co/1gThiEIF0r
+\item
+  檀れいさん主演　『八日目の蝉』 \textbar{} フリーダのブログ
+  https://t.co/lmO5cj46sb
+\end{itemize}
+
+　けっこう調べたのですが，「八日目の蝉」の動画は映画ばかりで，NHKドラマの映像は一つも見つかりませんでした。
+
+\begin{itemize}
+\item
+  NHKオンデマンド \textbar{} ドラマ１０　八日目の蝉（せみ） 第１回　逃亡
+  https://t.co/I4A2uo0iHl
+\item
+  NHKオンデマンド \textbar{} ドラマ１０　八日目の蝉（せみ）
+  第６回　奇跡（最終回） https://t.co/pT5FQj18rx
+\item
+  NHKオンデマンド｜番組購入方法 https://t.co/Cfd6cSk8xK
+  「クレジットカード」、「Yahoo!ウォレット」、「ドコモ払い」、「楽天ペイ」、「auかんたん決済」を選択することができます。
+\end{itemize}
+
+　クレジットカード以外で，使えそうな支払い方法がありました。来月にでも視聴したいと思います。
+
+\hypertarget{ux6b7bux5211ux306bux307eux3064ux308fux308bux6cb3uxfa11ux5065ux4e00ux90ceux5f01ux8b77ux58ebux306eux30c4ux30a4ux30fcux30c8ux3068ux6df1ux6fa4ux8aedux53f2ux5f01ux8b77ux58ebux3078ux306eux8fd4ux4fe1ux30c4ux30a4ux30fcux30c8ux306bux307fux308bux5f01ux8b77ux58ebux9244ux9053ux306eux73feux72b6ux3068ux91ceux5fc3}{%
+\subsubsection{死刑にまつわる河﨑健一郎弁護士のツイートと深澤諭史弁護士への返信ツイート，にみる弁護士鉄道の現状と野心}\label{ux6b7bux5211ux306bux307eux3064ux308fux308bux6cb3uxfa11ux5065ux4e00ux90ceux5f01ux8b77ux58ebux306eux30c4ux30a4ux30fcux30c8ux3068ux6df1ux6fa4ux8aedux53f2ux5f01ux8b77ux58ebux3078ux306eux8fd4ux4fe1ux30c4ux30a4ux30fcux30c8ux306bux307fux308bux5f01ux8b77ux58ebux9244ux9053ux306eux73feux72b6ux3068ux91ceux5fc3}}
+
+:CATEGORIES: @kanazawabengosi \#金沢弁護士会 @JFBAsns
+日本弁護士連合会（日弁連） \#法務省 @MOJ\_HOUMU \#深澤諭史弁護士
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜kappamark（河﨑健一郎）
+日時：2021-02-15 19:52／2021/02/15 17:38 URL：
+https://twitter.com/kk\_hirono/status/1361267176385126403
+https://twitter.com/kappamark/status/1361233413898833922\\
+\textgreater{} @fukazawas ハッとさせられたから、でしょうかね。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜kappamark（河﨑健一郎）
+日時：2021-02-15 19:53／2021/02/15 17:23 URL：
+https://twitter.com/kk\_hirono/status/1361267275542630400
+https://twitter.com/kappamark/status/1361229542610792450\\
+\textgreater{}
+「被害者・遺族の感情を理由に死刑を続けるのは、人を殺す倫理的責任を被害者に負わせ、自らはそれを免れようとする態度です。」　／バイデン政権誕生で取り残される日本　「死刑賛成8割」を憲法から考える
+- 毎日新聞 https://t.co/NSMDb4azvL
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜Midoriha\_Sora（夕日を見る人）
+日時：2021-02-15 19:53／2021/02/15 18:15 URL：
+https://twitter.com/kk\_hirono/status/1361267405368958979
+https://twitter.com/Midoriha\_Sora/status/1361242737467559937\\
+\textgreater{} @kappamark @redipsjp
+死刑の責任は全て国にあり、そうでなければなりません。
+被害者に死刑の責任を問うなど、あまりにも間違った意見です。
+死刑の理由は感情面だけの問題ではありません。
+犯罪の予防から秩序の維持など、社会を正常に機能する為の要請もあります。
+死刑を進歩的に考えるのは本質を誤ると思います。
+
+\begin{itemize}
+\item
+  〉〉〉　アカウント（@fukazawas）は，@kk\_hironoをブロックしています。リツイートできませんでした。
+  〉〉〉 ＼n https://t.co/SJs38myJQL
+\item
+  バイデン政権誕生で取り残される日本　「死刑賛成8割」を憲法から考える -
+  毎日新聞 https://t.co/lC9EvfW6df 毎日新聞2021年2月13日
+  16時00分(最終更新 2月13日 16時00分) ＼n ＼n 上東麻子
+\end{itemize}
+
+@kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート\\
+- TW fukazawas（深澤諭史） 日時：2021/02/15 17:25 URL：
+https://twitter.com/fukazawas/status/1361230189263380489\\
+\textgreater{}
+私もだけど、みんな、同じ部分を引用しているのが印象的（・∀・）
+https://t.co/pQBsMRE9FR
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+2021年02月15日19時58分の実行記録twitterAPI-search-lawList-mydql-add.rb
+``「死刑賛成8割」を憲法から考える''ツイート数：18/2300
+リツイート数：9/2300 トータル：548hirono\_hideki 6／0件kk\_hirono
+1／1件s\_hirono 1／0件
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+　読んでいた記事が大元にありました。このトータル548というTwitterAPIの検索数をみると，やはり一般の関心は極端に低いようですが，それはそれで，不可解な現象ではあります。
+
+\begin{itemize}
+\tightlist
+\item
+  2021年02月15日19時44分の登録：
+  ＼河﨑健一郎　@kappamark＼「被害者・遺族の感情を理由に死刑を続けるのは、人を殺す倫理的責任を被害者に負わせ、自らはそれを免れようとする態度です。」　／バイデン政
+  \url{https://kk2020-09.blogspot.com/2021/02/kappamark.html}
+\item
+  2021年02月15日19時44分の登録： ＼河﨑健一郎　@kappamark＼返信先:
+  @fukazawasさんハッとさせられたから、でしょうかね。
+  \url{https://kk2020-09.blogspot.com/2021/02/kappamark-fukazawas.html}
+\item
+  2021年02月15日20時00分の登録：
+  REGEXP：''「死刑賛成8割」を憲法から考える''／データベース登録済みツイート：2021年02月15日19時59分の記録：ユーザ・投稿：17／27件
+  \url{https://kk2020-09.blogspot.com/2021/02/regexp82021021519591727.html}
+\end{itemize}
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+河﨑健一郎@kappamark弁護士。早稲田リーガルコモンズ法律事務所（代表弁護士）「いれものがない両手で受ける（放哉）」東京弁護士会所属
+podcast 『明日の法律研究所』
+http：//bit.ly/3aKsyXzlegalcommons.jp/member/kawasaki2009年8月からTwitterを利用しています957
+フォロー中5,358 フォロワー
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  河﨑健一郎さん (@kappamark) / Twitter
+  \url{https://twitter.com/kappamark}
+\end{itemize}
+
+　河﨑健一郎弁護士のツイートというのは，忘れた頃に定期的に見かけてきたのですが，半年ぐらいの周期になるかもしれません。記録の方も次の通り少ない結果でした。見かけるのはリツイートで，タイムラインをブックマークにも入れたことはないと思います。
+
+(py37\_env) ➜ \textasciitilde{} dp -p\textbar grep 河﨑健一郎\\
+- 2017年10月16日09時33分の登録：
+＼河﨑健一郎　@kappamark＼「立憲主義」とか「民主主義」とか、上から降りてくるもんじゃなくて、結局私たち自身が何を大切に行動するかってことじゃないかな
+http://hirono2014sk.blogspot.com/2017/10/kappamark.html -
+2017年12月04日21時00分の登録：
+＼河﨑健一郎　@kappamark＼言葉もない・・・　／中国当局、脱北者の家族を北朝鮮に送還　夫の嘆願届かず
+http://hirono2014sk.blogspot.com/2017/12/kappamark.html -
+2018年11月09日06時07分の登録：
+＼河﨑健一郎　@kappamark＼おお、これは例の髙野隆×後藤貞人という東西第一人者がタッグを組んで臨んだ事件の話では。一部は無罪で死刑回避の無期とは、さすが。　／審理
+http://hirono2014sk.blogspot.com/2018/11/kappamark.html -
+2018年11月09日06時07分の登録：
+＃河﨑健一郎　@kappamark＃のツイート／2018-09-14\_1333〜2018-11-08\_1754／法務検察・石川県警察宛参考資料／記録作成措置実行日時：2018年11月09日06時07分
+http://hirono2014sk.blogspot.com/2018/11/kappamark2018-09-1413332018-11.html
+- 2019年02月21日17時18分の登録：
+＃河﨑健一郎　@kappamark＃のツイート／2019-01-01\_0157〜2019-02-21\_1226／法務検察・石川県警察宛参考資料／記録作成措置実行日時：2019年02月21日17時18分
+http://hirono2014sk.blogspot.com/2019/02/kappamark2019-01-0101572019-02.html
+- 2019年02月21日17時18分の登録：
+＼河﨑健一郎　@kappamark＼コモンズ事務所恒例の無罪飲みなう。誰かが無罪取るとじっくり飲みつつ話を聞く。今回は趙くんからじっくり。刑事のプラクティスは高野先生と趙
+http://hirono2014sk.blogspot.com/2019/02/kappamark.html -
+2019年03月08日19時26分の登録：
+＼河﨑健一郎　@kappamark＼この国会議員、ちょっと何言ってるのが本気で分からない。。。
+http://hirono2014sk.blogspot.com/2019/03/kappamark.html -
+2019年03月25日15時12分の登録：
+＼河﨑健一郎　@kappamark＼私も呼びかけ人の一人となりました。思いを同じくするあなたへ。あえて、お願いは致しません。一緒に変えていきましょう。
+http://hirono2014sk.blogspot.com/2019/03/kappamark\_25.html -
+2019年05月13日22時15分の登録：
+＼河﨑健一郎　@kappamark＼人種や民族、国籍に基づく差別がなくなる未来を希望します。　／縄文人の起源、2～4万年前か　国立科学博物館がゲノム解析：日本経済新聞
+http://hirono2014sk.blogspot.com/2019/05/kappamark24.html -
+2019年08月20日23時45分の登録：
+＼河﨑健一郎　@kappamark＼底が抜けとるな。。
+／公文書クライシス：首相らの指示、記録残さず　厚労省、統計不正問題で -
+毎日新聞 http://hirono2014sk.blogspot.com/2019/08/kappamark.html -
+2020年03月28日19時50分の登録：
+＼河﨑健一郎　@kappamark＼ここまで内容のない記者会見を堂々とできるのすごいな・・・
+http://hirono2014sk.blogspot.com/2020/03/kappamark.html -
+2020年04月14日20時01分の登録：
+＃河﨑健一郎　@kappamark＃のツイート／2020-01-03\_1316〜2020-04-14\_1457／法務検察・石川県警察宛参考資料／記録作成措置実行日時：2020年04月14日20時01分
+http://hirono2014sk.blogspot.com/2020/04/kappamark2020-01-0313162020-04.html
+- 2020年05月21日22時34分の登録：
+＼河﨑健一郎　@kappamark＼【緩募】新役満「秋霜烈日」のルール決め
+http://hirono2014sk.blogspot.com/2020/05/kappamark.html -
+2021年01月06日10時48分の登録：
+＼河﨑健一郎　@kappamark＼おおお　／死刑執行透明化求める財団設立｜NHK
+関西のニュース http://kk2020-09.blogspot.com/2021/01/kappamarknhk.html -
+2021年02月15日19時44分の登録：
+＼河﨑健一郎　@kappamark＼「被害者・遺族の感情を理由に死刑を続けるのは、人を殺す倫理的責任を被害者に負わせ、自らはそれを免れようとする態度です。」　／バイデン政
+https://kk2020-09.blogspot.com/2021/02/kappamark.html -
+2021年02月15日19時44分の登録： ＼河﨑健一郎　@kappamark＼返信先:
+@fukazawasさんハッとさせられたから、でしょうかね。
+https://kk2020-09.blogspot.com/2021/02/kappamark-fukazawas.html
+
+　特に記憶に残る印象的なツイートというのはなかったですが，高野隆弁護士に関するツイートが記録されていました。さきほどプロフィールを見て，代表というのは意外に感じたのですが，この法律事務所は，趙誠峰弁護士の所属する法律事務所だと思いますので，それは納得です。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+イノベーションと法律の関係に詳しい早稲田リーガルコモンズの河崎弁護士、福島弁護士と、リサーチャーとして世界中のイノベーション事例を研究しているHenge廣田が、未来の法律がどのように変わっていくのか、未来の社会がどのように変わっていくのかをあれこれ雑談しながらお話しする番組です。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  明日の法律研究所 • A podcast on Anchor
+  \url{https://anchor.fm/future-of-law?fbclid=IwAR34F-xKK5FUoi_vIy8bOF7nwP68QoxP6-BIf0BBXknhI_rncDmxoHc_41I}
+\end{itemize}
+
+　今回，河﨑健一郎弁護士のTwitterのプロフィールで初めて気がついたリンクのページになります。たぶん初めてだと思いますが，「明日の法律研究所」という印象的なタイトルで気に留めることがなかったとすれば，それも不思議なこと。自分の身の上の憑依現象に思えてしまいます。
+
+\begin{itemize}
+\tightlist
+\item
+  奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono\_hideki)/「明日の法律研究所」の検索結果
+  - Twilog https://t.co/iMZvOZdfzz ツイートが見つかりませんでした
+\end{itemize}
+
+　あるとは思っていなかった内容のツイートがあったり，言及しているはずと思う内容のツイートがなかったりすることは経験済みで，2010年4月2日からやがて11年近く続けているので，ここ半年ほどになってから目立つようになりました。それだけに確認も念入りにするようになりました。
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\arabic{enumi})}
+  \setcounter{enumi}{19}
+  \tightlist
+  \item
+    愛知リコール署名不正で選管が刑事告発 県警が捜査へ / Twitter
+    https://t.co/7RvmS18VoO
+  \end{enumerate}
+\end{itemize}
+
+　河﨑健一郎弁護士のタイムラインですが，トレンドで横に見かけたところのニュースになります。これは警察の仕事も増えそうですが，警察の仕事を増やすというのも最近の弁護士風として意識するようになった社会現象です。ろくでもないことは大抵，弁護士が風をるかしているという見方です。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+当事務所の代表弁護士。コンサルタント会社での経験から、法を、紛争終結や問題解決手段の一つにすぎないと考えており、法律の枠にとらわれない問題の切り取りと解決の提案が得意である。そのため、中小規模の事業者、特にスタートアップ企業や同族企業の経営者からの経営相談全般を受けることが多く、法律顧問の枠を超え、社外取締役として頼られることも多い。現在、10社において社外取締役や理事を務めている。最近では自らケンタウロスワークス株式会社を立ち上げ、法律家の視点を生かしたスマートコントラクトやAIの開発を行い、より個人の合意が尊重される社会を目指すなど、既存の弁護士業務の枠を超えた新たな弁護士像を提示している。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  河﨑 健一郎 - 早稲田リーガルコモンズ法律事務所
+  \url{http://legalcommons.jp/member/kawasaki}
+\end{itemize}
+
+　掲載されている写真を見ても，本当に誠実で頭の良さそうな印象です。スタートアップが出てきましたが，テキーラ事件がきっかけで見かけるようになりました。「現在、10社において社外取締役や理事を務めている。」とあるので，信頼も厚くまた多忙そうでもあります。
+
+\begin{itemize}
+\tightlist
+\item
+  メンバー アーカイブ - 早稲田リーガルコモンズ法律事務所
+  https://t.co/BB5dr5RMsA
+\end{itemize}
+
+　ざっと数えて43人と思われる弁護士と思われる人の顔写真が掲載されています。もっと人数が少なくても，何人かは顔写真の掲載がないという法律事務所が多く，金沢合同法律事務所の宮西香弁護士は，金沢弁護士会の会長ということもあり，他に顔写真が出回っているのにイラストとしています。
+
+　趙誠峰弁護士も確認しましたが，男女43人もいる弁護士の一人なので，他とは別の接点での関係性が大きいとも考えていました。頭がよく優秀そうな印象が強かった河﨑健一郎弁護士，それがどうやら深澤諭史弁護士の問題性には全くの無頓着で返信までしているとわかったのは，けっこうな発見です。
+
+　分析力のようなものも高そうに思っていたのですが，河﨑健一郎弁護士に限らず，深澤諭史弁護士のタイムラインに，いささかも問題性を感じていなかったというのは，繰り返しますが大きな弁護士業界の現状としての発見になります。
+
+　枚挙に暇がなく対応しきれないというのが，深澤諭史弁護士のタイムラインなのですが，本日は，佐藤倫子弁護士のツイートに刑裁サイ太，深澤諭史弁護士が絡んでいる現象を見ただけでも，「金沢・奥能登の弁護士鉄道事件」という新たなテーマが頭に浮かびました。ミステリー性が高いものです。
+
+　弁護士不思議発見とも言いましょうか，深澤諭史弁護士単体でもとてつもなく不思議な存在感で，これは実際の弁護士の姿を目で見て経験しているからこそ，見える心霊現象ならぬ弁護士現象なのかもしれません。センサーの反応が高濃度なのが深澤諭史弁護士のタイムラインです。
+
+　「明日の法律研究所」というのであれば，同じ弁護士の深澤諭史弁護士のタイムラインにも目を向けていただきたいところですが，河﨑健一郎弁護士には，未来を担う造り酒屋の希望の星，期待を背負う腕利き職人というイメージが強かっただけに，深澤諭史弁護士のオーラが見えないのかと直視しました。
+
+　時刻は20時52分です。雨が降っていましたが，いきなり近くで雷が鳴りました。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜matsu190301（松村英樹（弁護士））
+日時：2021-02-15 20:54／2021/02/15 19:45 URL：
+https://twitter.com/kk\_hirono/status/1361282800956047361
+https://twitter.com/matsu190301/status/1361265297810890755\\
+\textgreater{}
+これはひどいですね。何もなしに訴え取り下げなんて普通はしない，取り下げさせたということはよっぽどこっちが頑張ったということだと思うのですが・・・
+https://t.co/atKjViK0On
+
+　ほとんど見覚えのない実名の弁護士アカウントだと思ったのですが，リストに登録済みでした。深澤諭史弁護士のタイムラインで深澤諭史弁護士のリツイートとして見かけたところです。深澤諭史弁護士のツイートを引用ツイートしています。
+
+\begin{itemize}
+\tightlist
+\item
+  RT fukazawas（深澤諭史）｜matsu190301（松村英樹（弁護士））
+  日時：2021/02/15 19:45／2021/02/15 19:45 URL：
+  https://twitter.com/fukazawas/status/1361265352999464969
+  https://twitter.com/matsu190301/status/1361265297810890755\textgreater{}
+  RT @matsu190301:
+  これはひどいですね。何もなしに訴え取り下げなんて普通はしない，取り下げさせたということはよっぽどこっちが頑張ったということだと思うのですが・・・
+  https://t.co/atKjViK0On
+\end{itemize}
+
+　時刻は20時58分です。ツイートと深澤諭史弁護士のリツイートが同じ19時45分となっていました。雷はすぐにおさまったのですが，強い風の音が聞こえてきました。1時間ほど深澤諭史弁護士のタイムラインを見ていなかったことになるのかもしれません。
+
+\begin{itemize}
+\tightlist
+\item
+  TW fukazawas（深澤諭史） 日時： 2021/02/15 11:18 URL：
+  https://twitter.com/fukazawas/status/1361137860636598272\\
+  \textgreater{}
+  法テラス太郎「鬼が自分の意思で降伏したのだから、きびだんごはやらねーよ！」\\
+  \textgreater{} （＃・∀・）これは　ひどい。 https://t.co/P1DxaYomR8
+\end{itemize}
+
+　上記の深澤諭史弁護士のツイートは，次のツイートを引用ツイートしています。リツイートでやってみますが，ブロックされていたように思います。リツイートは失敗する予想です。
+
+　リツイートが成功したというメッセージが出るのですが，実際にはリツイートされていません。不可解な現象です。
+
+\begin{itemize}
+\tightlist
+\item
+  TW v0l0ve（VOL） 日時： 2021/02/15 09:42 URL：
+  https://twitter.com/v0l0ve/status/1361113621397336066\\
+  \textgreater{}
+  前に、相手方が訴えを取り下げた事件、法テラスから、訴え取下げだと原則報酬が出ないと言われてびっくり。\\
+  \textgreater{}\\
+  \textgreater{}
+  管轄破りして移送させ、期日も10回近くあり、尋問期日も決まっていたのに。。\\
+  \textgreater{}\\
+  \textgreater{}
+  こういう理不尽な扱いは変えてもらわないといけないですよね(-\_-;)
+\end{itemize}
+
+　これまでそれらしい現象はあったので，ブロックされてツイートは表示されないと思ったのですが，刑事告発・非常上告＿金沢地方検察庁御中（@kk\_hirono）にログインした状態でツイートが表示され，リツイート済みとなっていました。
+
+　個別に表示したツイートはリツイート済みとあるのですが，刑事告発・非常上告＿金沢地方検察庁御中（@kk\_hirono）のタイムラインにリツイートの表示はありませんでした。これは見たことのない現象になるかと思います。スクリーンショットで記録しました。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 21:11／2021/02/15 21:10 URL：
+https://twitter.com/kk\_hirono/status/1361286967158132740
+https://twitter.com/s\_hirono/status/1361286715172745220\\
+\textgreater{}
+2021-02-15-210710\_VOL@v0l0ve前に、相手方が訴えを取り下げた事件、法テラスから、訴え取下げだと原則報酬が出ないと言われてびっくり。管轄破りして移送させ.jpg
+https://t.co/GV6eFOrYSZ
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 21:11／2021/02/15 21:11 URL：
+https://twitter.com/kk\_hirono/status/1361287137065242630
+https://twitter.com/s\_hirono/status/1361287052084486150\\
+\textgreater{}
+2021-02-15-210931\_刑事告発・非常上告＿金沢地方検察庁御中@kk\_hirono·3分リツイートが成功したというメッセージが出るのですが，実際にはリツイートされて.jpg
+https://t.co/o716oDhfos
+
+　こちらも印象に残るプロフィールで，佐藤倫子弁護士のことにも共通点を感じていました。
+
+　他の弁護士アカウントと勘違いしていたのか，思っていたプロフィールと内容が違っていました。アイコンのイラストも変わっているように思いますが，大きなハートのマークがあるのは同じです。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+VOL@v0l0ve大阪の弁護士。消費者事件、労働事件を中心につぶやきます。
+
+＊発言は個人の見解であり、所属団体とは関係ありません。RTは必ずしも賛意を示すものではありません。うみとそらのあいだ2017年12月からTwitterを利用しています800
+フォロー中2,646 フォロワー
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\arabic{enumi})}
+  \setcounter{enumi}{19}
+  \tightlist
+  \item
+    VOLさん (@v0l0ve) / Twitter \url{https://twitter.com/v0l0ve}
+  \end{enumerate}
+\end{itemize}
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 21:17／2020/12/30 12:00 URL：
+https://twitter.com/kk\_hirono/status/1361288501585604621
+https://twitter.com/s\_hirono/status/1344116011339972608\\
+\textgreater{}
+2020-12-30-104924\_VOL@v0l0veブロックされています@v0l0veさんのフォローやツイートの表示はできません。詳細はこちら.jpg
+https://t.co/XBZrH1lCG9
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 21:17／2020/12/21 10:03 URL：
+https://twitter.com/kk\_hirono/status/1361288615754534915
+https://twitter.com/s\_hirono/status/1340825127064203265\\
+\textgreater{}
+2020-12-21-094425\_VOL@v0l0veこの季節になると、三宅雪子さんのこと思い出しますね。少しメッセージをやり取りして、何か変だなと思ったのに、助けられなかっ.jpg
+https://t.co/IAXHitCh7o
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜s\_hirono（非常上告-最高検察庁御中\_ツイッター）
+日時：2021-02-15 21:18／2019/10/26 21:38 URL：
+https://twitter.com/kk\_hirono/status/1361288700542341128
+https://twitter.com/s\_hirono/status/1188072309807910920\\
+\textgreater{}
+2019-10-26-161304\_深澤諭史さんがリツイートVOL@v0l0ve·10月24日成仏監視リスト、とな・・・。。私、入ってそう（＾o＾；）私の場合、弁護士として成仏したらしたで、.jpg
+https://t.co/KM4Pks6SX7
+
+\begin{itemize}
+\tightlist
+\item
+  非常上告-最高検察庁御中\_ツイッター(@s\_hirono)/「@v0l0ve」の検索結果
+  - Twilog https://t.co/hoymMrPdAc
+\end{itemize}
+
+　ブロックされていたのは奉納＼さらば弁護士鉄道・泥棒神社の物語(@hirono\_hideki)のアカウントでした。スクリーンショットの記録も思ったより少ない数でしたが，どうも本日も深澤諭史弁護士のタイムラインでみた別のアカウントのプロフィールと勘違いをしていたようです。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜eruear946（ふたつのいす）
+日時：2021-02-15 21:23／2021/02/14 22:20 URL：
+https://twitter.com/kk\_hirono/status/1361289962780418050
+https://twitter.com/eruear946/status/1360941904884498437\\
+\textgreater{}
+子どもができた時点で子どもと一緒に行けないお店では外食できないと覚悟する。だから泊まりがけの出張では期待が膨らみ過ぎる。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+ふたつのいす@eruear946弁護士をしています。くも膜下出血のため右の耳が聞こえません。2017年1月からTwitterを利用しています1,092
+フォロー中1,296 フォロワー
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\item
+  \begin{enumerate}
+  \def\labelenumi{(\arabic{enumi})}
+  \setcounter{enumi}{18}
+  \tightlist
+  \item
+    ふたつのいすさん (@eruear946) / Twitter
+    \url{https://twitter.com/eruear946}
+  \end{enumerate}
+\end{itemize}
+
+　Twitterのアイコンが狐の困り顔のようなお面のようにも見えるイラストとなっています。前にタイムラインを見た時とは少し違ったような気もするのですが，狐といえば，先日も「ごんぎつね」のことを思い出し，考えを深めていました。
+
+　「ごんぎつね」から弁護士に関する2つの言葉の組み合わせが頭に浮かんでいたのですが，ちょっと思い出せなくなっています。
+
+(py37\_env) ➜ twilog dp -p\textbar grep ごんぎつね\\
+- 2019年04月13日21時12分の登録：
+REGEXP：''ごんぎつね''／データベース登録済みツイート：2019年04月13日21時11分の記録：ユーザ・投稿：11／12件
+http://hirono2014sk.blogspot.com/2019/04/regexp2019041321111112.html -
+2020年12月18日21時15分の登録：
+＼サイ太　@uwaaaa＼こないだＥテレでごんぎつねを朗読していたんだけど，ラストシーンの台詞で「ごん，おまえだったのか」と言ってて少し違和感があった。原典だと「お前」と
+http://kk2020-09.blogspot.com/2020/12/uwaaaa\_18.html -
+2021年02月09日18時03分の登録：
+REGEXP：''ごんぎつね''／データベース登録済みツイート：2021年02月09日18時02分の記録：ユーザ・投稿：13／15件
+http://kk2020-09.blogspot.com/2021/02/regexp2021020918021315.html
+
+　2021年02月09日18時02分の記録となっていますが，アイデアが浮かんでまもなく記録をした資料であったと思います。なにかきっかけがありました。大抵は深澤諭史弁護士のタイムラインになります。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+2021年02月15日20時27分の実行記録twitterAPI-search-lawList-mydql-add.rb
+``明日の法律研究所''ツイート数：4/2300 リツイート数：0/2300
+トータル：4hirono\_hideki 0／0件kk\_hirono 4／0件s\_hirono 0／0件
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  2021年02月15日21時33分の登録：
+  REGEXP：''明日の法律研究所''／データベース登録済みツイート：2021年02月15日21時33分の記録：ユーザ・投稿：1／4件
+  https://kk2020-09.blogspot.com/2021/02/regexp20210215213314.html
+\end{itemize}
+
+\hypertarget{ux4f50ux85e4ux502bux5b50ux5f01ux8b77ux58ebux304cux30c4ux30a4ux30fcux30c8ux3067ux7d39ux4ecbux3059ux308bux72afux7f6aux88abux5bb3ux8005ux6cd5ux5f8bux63f4ux52a9}{%
+\subsubsection{佐藤倫子弁護士がツイートで紹介する「犯罪被害者法律援助」}\label{ux4f50ux85e4ux502bux5b50ux5f01ux8b77ux58ebux304cux30c4ux30a4ux30fcux30c8ux3067ux7d39ux4ecbux3059ux308bux72afux7f6aux88abux5bb3ux8005ux6cd5ux5f8bux63f4ux52a9}}
+
+:CATEGORIES: @kanazawabengosi \#金沢弁護士会 @JFBAsns
+日本弁護士連合会（日弁連） \#法務省 @MOJ\_HOUMU \#向原栄大朗弁護士
+
+\begin{itemize}
+\item
+  TW sato\_\_michiko（§ 佐藤倫子） 日時： 2021/02/15 11:44 URL：
+  https://twitter.com/sato\_\_michiko/status/1361144230761037824\\
+  \textgreater{}
+  なおこの「犯罪被害者法律援助」は、あくまで「日弁連」が「会員の会費により」（つまり弁護士たちの手弁当で）運営しているものであり、日弁連が運営事務を法テラスに委託しているものです。このような弁護士たちの手弁当の状況を改善すべく、国に是非さらなる被害者支援施策をお願いしたいです
+\item
+  TW harrier0516osk（向原総合法律事務所　弁護士向原） 日時： 2021/02/15
+  18:21 URL：
+  https://twitter.com/harrier0516osk/status/1361244176998830084\\
+  \textgreater{}
+  これを、国ではなく弁護士の手弁当でやっているのが実情というのはもっとアピられて良いのでは。\\
+  \textgreater{}
+  マスコミも、被疑者被告人を叩く報道より，被害者法制がいかに不備で被害者がいかに法的に守られていないかを報道した方が視聴率取れると思うんですよね多分
+  https://t.co/nDLiiwrzsC
+\item
+  TW chosakukenho（小倉秀夫） 日時： 2021/02/15 23:06 URL：
+  https://twitter.com/chosakukenho/status/1361315895188938756\\
+  \textgreater{}
+  被害者側の弁護士と称する人たちが、被疑者被告人の権利を奪うことしか主張していなかったりするのがヤバいですね。
+  https://t.co/nsSYWg7krP
+\item
+  RT
+  km0bake（👁️つまらむ👁️）｜harrier0516osk（向原総合法律事務所　弁護士向原）
+  日時：2021/02/15 18:32／2021/02/15 18:21 URL：
+  https://twitter.com/km0bake/status/1361247000218378240
+  https://twitter.com/harrier0516osk/status/1361244176998830084\textgreater{}
+  RT @harrier0516osk:
+  これを、国ではなく弁護士の手弁当でやっているのが実情というのはもっとアピられて良いのでは。\\
+  \textgreater{}
+  マスコミも、被疑者被告人を叩く報道より，被害者法制がいかに不備で被害者がいかに法的に守られていないかを報道した方が視聴率取れると思うんですよね多分
+  https://t.co/nDLiiwrzsC
+\end{itemize}
+
+　昨日取り上げる予定だったのですが，他の作業などやっていて，さきほど村松謙弁護士のタイムラインで，佐藤倫子弁護士のツイートを引用ツイートした向原栄大朗弁護士のツイートを見かけました。
+
+　確認したところ向原栄大朗弁護士のツイートは，深澤諭史弁護士がリツイートをした様子はなく，問題性を感じる弁護士ツイートの大半は深澤諭史弁護士のタイムラインで見かけているのですが，昨日見かけていたような気もして記憶がはっきりしない向原栄大朗弁護士のツイートです。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+犯罪被害者法律援助利用概要生命、身体、自由又は性的自由に対する犯罪及び配偶者暴力、ストーカー行為による被害を受けた方又はその親族若しくは遺族の方が、刑事裁判、少年審判等手続、行政手続に関する活動を希望する際に、弁護士費用等を援助する制度です。※殺人、傷害、監禁、強制わいせつなど※この委託援助事業は、日本弁護士連合会が受けたしょく罪寄附と、日本弁護士連合会が弁護士から集めた会費により運営されています。
+
+利用にあたって確認する要件本制度を利用するには、上記対象者の要件に該当する他、申込者が以下の資力要件を満たし、事件について弁護士に依頼する必要性があり、且つ、相当性があることが必要です。なお、この制度は、法テラスや弁護士会等から紹介された弁護士、またはご自分で依頼した弁護士に法律相談をした上、当該弁護士が「本件については、前記条件を満たす」と判断した場合にのみ、利用申込が出来ます。
+
+資力要件申込者の資力（現金、預金などの流動資産の合計額）から、当該犯罪行為を原因として、申込日から1年以内に支出することとなると認められる費用の額（治療費など）を差し引いた額が300万円以下である場合に利用できます。
+
+ただし、医療費、教育費、借入金の返済金または家賃の支払いがあるなどやむを得ない事情により生計が困難と認められる場合は援助を開始することができます。
+
+要件確認の方法法律相談をした弁護士が各要件を判断し、申込者と連名で法テラスに援助申込書を提出します。援助開始の決定は法テラスの地方事務所長が行います。
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+\begin{itemize}
+\tightlist
+\item
+  犯罪被害者法律援助｜法テラス
+  \url{https://www.houterasu.or.jp/higaishashien/seido/hanzaihigaienjo/index.html}
+\end{itemize}
+
+　「犯罪被害者法律援助｜法テラス」は，前に岸本学弁護士のホームページのようなものがきっかけで，調べていると出てきた情報のように思います。そのときに調べた範囲で確認が出来ず，疑問に思ったことなども記録があると思います。
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜9jtCdbGf3lih8Fe（弁護士
+岸本 学） 日時：2021-02-16 14:04／2021/02/16 13:04 URL：
+https://twitter.com/kk\_hirono/status/1361542030044794880
+https://twitter.com/9jtCdbGf3lih8Fe/status/1361526889299410947\\
+\textgreater{}
+「こっちは侮辱してるわけじゃないのよ、ただ、『ピラニアだ』って言っただけなのに」（記事から引用）
+大丈夫だよ、みんな優しいから。骨だけなんかにならない。
+きっとテレビやラジオとか人前に出る仕事「以外」で生きてけるよ。
+https://t.co/0vfB0pjawV
+
+〉〉〉　kk\_hironoのリツイート　〉〉〉\\
+- RT
+kk\_hirono（刑事告発・非常上告＿金沢地方検察庁御中）｜9jtCdbGf3lih8Fe（弁護士
+岸本 学） 日時：2021-02-16 14:06／2021/02/16 13:10 URL：
+https://twitter.com/kk\_hirono/status/1361542365882716164
+https://twitter.com/9jtCdbGf3lih8Fe/status/1361528357884551168\\
+\textgreater{} まあ可哀想とも思わない。 自業自得ですな。
+どうも日本社会は、 誰かの「炎上」を繰り返しながら、
+学び、進歩していく道を選んだらしい。
+
+　岸本学弁護士の名前を確認するため，Twitter検索から「岸本学」で開いたタイムラインですが，上記のツイートが目にとまりました。他には見ていない情報ですが，2,3週間前，Twitterのトレンドで，脅迫された相手が逮捕されたとかいうニュースがあった芸能人だと思います。
+
+\begin{itemize}
+\item
+  小木博明「女性はピラニア」炎上発言で私見（日刊スポーツ） -
+  Yahoo!ニュース https://t.co/ehtn71Nn4g 2/12(金) 9:28配信
+\item
+  おぎやはぎ、殺害予告男性逮捕に言及　「この後のためにも許しちゃいけない」（デイリースポーツ）
+  - Yahoo!ニュース https://t.co/xx5XaEBo0F ＼n 2/5(金) 8:27配信 ＼n
+  男性はインターネット掲示板におぎやはぎを名指しし殺害を予告した他、テレビ局への爆破予告も書き込んでいた。
+\end{itemize}
+
+　この殺害予告逮捕のニュースの時も思い出していたのですが，数年前に全国的各地で問題になり，珠洲市役所にも爆破予告があったとニュースになっていました。
+
+\begin{quote}
+《引用の始まり》
+\end{quote}
+
+\begin{quote}
+2021年02月16日14時06分の実行記録twitterAPI-search-lawList-mydql-add.rb
+``犯罪被害者法律援助''ツイート数：8/2300 リツイート数：52/2300
+トータル：238hirono\_hideki 1／0件kk\_hirono 3／2件s\_hirono 0／0件
+\end{quote}
+
+\begin{quote}
+《引用の終わり》
+\end{quote}
+
+　今日は午前中からずいぶん風が強くなっています。天気は曇ったり晴れたりしていますが，これもけっこう不安定です。
+
+\begin{itemize}
+\tightlist
+\item
+  2021年02月16日13時37分の登録：
+  ＼深澤諭史　@fukazawas＼擁護派「森会長は無報酬で頑張っていたのに！」→
+  五輪納入業者などから大金が渡ってましたｗｗｗ - なんJ政治ネタまとめ
+  http://j
+  \url{https://kk2020-09.blogspot.com/2021/02/fukazawas-j-httpj.html}
+\item
+  2021年02月16日13時43分の登録：
+  ＼?️つまらむ?️　@km0bake＼珍しくローカス先生と意見が一致したと思ったら、結構批判されているのな。。。話題のツイは、Ｊアノンを馬鹿にしているんだと思ったけど。。
+  \url{https://kk2020-09.blogspot.com/2021/02/km0bake_16.html}
+\item
+  2021年02月16日14時16分の登録：
+  REGEXP：''犯罪被害者法律援助''／データベース登録済みツイート：2021年02月16日14時14分の記録：ユーザ・投稿：36／66件
+  \url{https://kk2020-09.blogspot.com/2021/02/regexp2021021614143666.html}
+\end{itemize}
+
+　今朝最初の方に見た深澤諭史弁護士のタイムラインでのツイートですが，大学関係者批判がさらにパワーアップしたと感じました。実質は，司法制度改革批判になるものと思います。
+
+\begin{itemize}
+\tightlist
+\item
+  TW fukazawas（深澤諭史） 日時： 2021/02/16 11:01 URL：
+  https://twitter.com/fukazawas/status/1361495786865848322\\
+  \textgreater{} （；・∀・）なお、日本の大学関係者\\
+  \textgreater{}
+  「新人弁護士の就職難😆大変だねぇ😏メシウマ！」「お前らに金を出しても役に立たん。借金漬けになってね💖」「淘汰されてしまえ！😜」「苦難を訴えるのは既得権益の側からのネガティブキャンペーン😑」「とにかく予備試験組は締め出す！😡」
+  https://t.co/IM9xOBZcDa
+\end{itemize}
+
+　ずいぶん前から内容は同じことを発言していると見えますが，どうもまったく問題にならないまま今日に至っているようです。昨日になりますか，深澤諭史弁護士自身の努力と実績の証というようなツイートも見かけていて，わかりやすく好対照でもあります。
+
+\begin{itemize}
+\tightlist
+\item
+  RT fukazawas（深澤諭史）｜fukazawas（深澤諭史） 日時：2021/02/15
+  22:01／2021/01/25 13:54 URL：
+  https://twitter.com/fukazawas/status/1361299471791923204
+  https://twitter.com/fukazawas/status/1353566834167959552\textgreater{}
+  RT @fukazawas:
+  去年1年間で出した書籍（単著のみ。うち1冊は文のみ。）４冊。\\
+  \textgreater{}
+  色々重なった結果とはいえ、よく、こんなに書けたものである・・・。もう多分、一生無理だと思う、この分量は。\\
+  \textgreater{} （・∀・） https://t.co/tZCZ5wGkRb
+\end{itemize}
+
+　新規のツイートなのかと思っていたのですが，深澤諭史弁護士のタイムラインではよくある自分の過去のツイートのリツイートでした。書籍の収入がどれぐらいあるのか不明ですが，弁護士の仕事もしながら両立はさせているのでしょう。
+
+　けっこう電話の無料相談をやっているという深澤諭史弁護士のツイートもありました。深澤諭史弁護士に限ったことではないですが，弁護士の収入というのは，深い海の底のように未知の世界です。たまに破綻して急浮上するケースもありますが，そこに決まってあるのも事件放置です。
+
+　近年は弁護士の仕事も多様化し，職域の拡大でもあるのか，犯罪被害者の代理人をするというケースが目立っています。日弁連もそれを後押ししているように見えますが，制度を利用してどうなったのかという実例は見かけたことがなく，利用した実績があるのかも不透明です。
+
+　「生命、身体、自由又は性的自由に対する犯罪及び配偶者暴力、ストーカー行為による被害を受けた方又はその親族若しくは遺族の方が、刑事裁判、少年審判等手続、行政手続に関する活動を希望する際に、弁護士費用等を援助する制度です。」が利用概要とあります。
+
+　「刑事裁判、少年審判等手続、行政手続に関する活動」というのも対象範囲がわかりづらいですが，「弁護士費用等を援助する制度」とあるので，手続きに費用がかかるのではなく，弁護士が関わるので弁護士に対価を日本弁護士連合会がまかなう，というのが実質なのかと考えます。
+
+　法律のプロとしてのアドバイスはあるのでしょうが，弁護士が犯罪被害の証拠を集めてくれるというのではなさそうで，それも警察，検察の仕事で費用が掛かるとは聞いたことのないものです。弁護士が検事を説得してくれるというのはあるのでしょうか。
+
+　犯罪被害者の代理人弁護士が，被疑者・被告人の弁護人と同じように，捜査資料を読み込み，見通しを立てるということもあるとは考えられず，事実関係を正確に把握しないまま，かえって混乱を招くということもあり得るような気がします。
+
+　大津園児死傷事故の被害者側代理人弁護士は，検事以上に厳しい刑事責任の追求をしましたが，併合罪審理となったストーカー規制法事件は，女性被告人が被害者男性と直接会うこともないまま有罪を成立させたというマジックのようなものでした。構成要件の弛緩と立法趣旨の没却を感じました。
+
+\begin{itemize}
+\item
+  ストーカー行為等の規制等に関する法律 \textbar{} e-Gov法令検索
+  https://t.co/44MrSESsRr
+  三　面会、交際その他の義務のないことを行うことを要求すること。
+\item
+  ストーカー行為等の規制等に関する法律 \textbar{} e-Gov法令検索
+  https://t.co/44MrSESsRr 平成十二年法律第八十一号 ＼n
+  ストーカー行為等の規制等に関する法律
+\end{itemize}
+
+　ずいぶん細かい条文になっているのだと思ったのですが，「面会、交際その他の義務のないことを行うことを要求すること。」をそのまま適用すると，共謀罪以上に人権侵害の危険が出てきそうですし，ストーカーとして有罪判決を受けることは社会的ダメージも深刻に思えます。
+
+\end{document}
