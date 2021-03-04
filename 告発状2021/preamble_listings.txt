@@ -1,0 +1,19 @@
+\usepackage{listings}
+\lstset{
+language=sh,
+basicstyle=\ttfamily\scriptsize,
+commentstyle=\textit,
+classoffset=1,
+keywordstyle=\bfseries,
+frame=tRBl,
+framesep=5pt,
+showstringspaces=false,
+%numbers=left,
+%stepnumber=1,
+%numberstyle=\tiny,
+tabsize=2,
+breaklines = true,
+}
+
+% \input{/home/a66/Dropbox/macro.tex}
+

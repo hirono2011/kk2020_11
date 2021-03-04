@@ -1,0 +1,193 @@
+% Options for packages loaded elsewhere
+\PassOptionsToPackage{unicode}{hyperref}
+\PassOptionsToPackage{hyphens}{url}
+%
+\documentclass[
+]{ltjarticle}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+  \usepackage{textcomp} % provide euro and other symbols
+\else % if luatex or xetex
+  \usepackage{unicode-math}
+  \defaultfontfeatures{Scale=MatchLowercase}
+  \defaultfontfeatures[\rmfamily]{Ligatures=TeX,Scale=1}
+\fi
+% Use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+\IfFileExists{microtype.sty}{% use microtype if available
+  \usepackage[]{microtype}
+  \UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\makeatletter
+\@ifundefined{KOMAClassName}{% if non-KOMA class
+  \IfFileExists{parskip.sty}{%
+    \usepackage{parskip}
+  }{% else
+    \setlength{\parindent}{0pt}
+    \setlength{\parskip}{6pt plus 2pt minus 1pt}}
+}{% if KOMA class
+  \KOMAoptions{parskip=half}}
+\makeatother
+\usepackage{listings}
+\lstset{
+language=sh,
+basicstyle=\ttfamily\scriptsize,
+commentstyle=\textit,
+classoffset=1,
+keywordstyle=\bfseries,
+frame=tRBl,
+framesep=5pt,
+showstringspaces=false,
+%numbers=left,
+%stepnumber=1,
+%numberstyle=\tiny,
+tabsize=2,
+breaklines = true,
+}
+
+
+\usepackage{xcolor}
+\IfFileExists{xurl.sty}{\usepackage{xurl}}{} % add URL line breaks if available
+\IfFileExists{bookmark.sty}{\usepackage{bookmark}}{\usepackage{hyperref}}
+\hypersetup{
+  pdftitle={見本},
+  hidelinks,
+  pdfcreator={LaTeX via pandoc}}
+\urlstyle{same} % disable monospaced font for URLs
+\usepackage[left=3cm,right=2cm,top=3.5cm,bottom=2.7cm]{geometry}
+\setlength{\emergencystretch}{3em} % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{5}
+\ifluatex
+  \usepackage{selnolig}  % disable illegal ligatures
+\fi
+
+\title{見本}
+\author{}
+\date{}
+
+\begin{document}
+\maketitle
+\fontsize{16pt}{0cm}\selectfont
+\begin{center}
+告発状（作成中）
+\par\end{center}
+\vspace{5mm}
+\fontsize{11pt}{11pt}\selectfont
+\vspace{3mm}
+\begin{flushright}
+令和3年2月25日
+\par\end{flushright}
+〒920-0912金沢市大手町6番15号 金沢地方検察庁御中
+
+\fontsize{10pt}{10pt}\selectfont
+\vspace{3mm}
+\hspace{90mm}被告発人 金沢弁護士会所属 木梨松嗣弁護士
+
+\hspace{90mm}被告発人 金沢弁護士会所属 岡田進弁護士
+
+\hspace{90mm}被告発人 金沢弁護士会所属 長谷川紘之弁護士 
+
+\hspace{90mm}被告発人 金沢弁護士会所属 若杉幸平弁護士
+
+\hspace{90mm}被告発人 元名古屋高裁金沢支部裁判長 小島裕史 
+
+\hspace{90mm}被告発人 元金沢地方裁判所裁判官 古川龍一
+
+\hspace{90mm}被告発人 松平日出男
+
+\hspace{90mm}被告発人 池田宏美 
+
+\hspace{90mm}被告発人 梅野博之
+
+\hspace{90mm}被告発人 安田繁克 
+
+\hspace{90mm}被告発人 安田敏 
+
+\hspace{90mm}被告発人 東渡好信 
+
+\hspace{90mm}被告発人 多田敏明 
+
+\hspace{90mm}被告発人 浜口卓也 
+
+\hspace{90mm}被告発人 大網健二
+
+\hspace{90mm}
+
+\fontsize{11pt}{11pt}\selectfont
+告発人\\
+\\
+〒927-0431 石川県鳳珠郡能登町宇出津山分10-3 \hspace{60mm}廣野秀樹
+
+\vspace{6mm}
+\begin{center}
+記
+\par\end{center}
+\vspace{1mm}
+
+\section{告発の趣旨}
+　被告発人らの所為は，市場急配センター（所在地: 〒920-0025 石川県金沢市駅西本町5丁目10−20）における殺人未遂（刑法第203条，第199条）の共謀共同正犯（刑法㐧60条）として法的評価すべきもの,また,弁護士，裁判官らの立場と職権で隠ぺいした幇助犯であると思料するので，犯情甚だ悪質につき，無期懲役刑として処罰することを求め，ここに告発に及びます｡
+\clearpage
+
+{
+\setcounter{tocdepth}{4}
+\tableofcontents
+}
+\begin{itemize}
+\tightlist
+\item
+  TW motoken\_tw（モトケン） 日時：2021/02/06 09:59 URL：
+  \url{https://twitter.com/motoken\_tw/status/1357856506058657792\\} 
+  \textgreater{} ＞元は検事さんですよね？\\
+  \textgreater{}\\
+  \textgreater{} 私の批判に対して反論できない人の決まり文句。\\
+  \textgreater{} ちなみにツイッターは取調室というよりは法廷。\\
+  \textgreater{} 裁判官も弁護人もいるし傍聴人もいる。\\
+  \textgreater{}
+  「自分の筋読み通りに調書を書いて、それにサインさせる」なんてことはできるわけがない。\\
+  \textgreater{} この人は、苦し紛れの言い訳をしているだけ。
+  \url{https://t.co/otgT3V8V1V} 
+\end{itemize}
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート
+
+\begin{itemize}
+\tightlist
+\item
+  TW motoken\_tw（モトケン） 日時：2021/02/06 09:59 URL：
+  \url{https://twitter.com/motoken\_tw/status/1357856506058657792\\} 
+  \textgreater{} ＞元は検事さんですよね？\\
+  \textgreater{}\\
+  \textgreater{} 私の批判に対して反論できない人の決まり文句。\\
+  \textgreater{} ちなみにツイッターは取調室というよりは法廷。\\
+  \textgreater{} 裁判官も弁護人もいるし傍聴人もいる。\\
+  \textgreater{}
+  「自分の筋読み通りに調書を書いて、それにサインさせる」なんてことはできるわけがない。\\
+  \textgreater{} この人は、苦し紛れの言い訳をしているだけ。
+  \url{https://t.co/otgT3V8V1V} 
+\end{itemize}
+
+※ @kk\_hironoのアカウントがブロックされ，リツイートに失敗したツイート
+
+\begin{itemize}
+\tightlist
+\item
+  TW motoken\_tw（モトケン） 日時：2021/02/06 09:59 URL：
+  \url{https://twitter.com/motoken\_tw/status/1357856506058657792\\} 
+  \textgreater{} ＞元は検事さんですよね？\\
+  \textgreater{}\\
+  \textgreater{} 私の批判に対して反論できない人の決まり文句。\\
+  \textgreater{} ちなみにツイッターは取調室というよりは法廷。\\
+  \textgreater{} 裁判官も弁護人もいるし傍聴人もいる。\\
+  \textgreater{}
+  「自分の筋読み通りに調書を書いて、それにサインさせる」なんてことはできるわけがない。\\
+  \textgreater{} この人は、苦し紛れの言い訳をしているだけ。
+  \url{https://t.co/otgT3V8V1V} 
+\end{itemize}
+
+\end{document}
