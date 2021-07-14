@@ -7,6 +7,9 @@ work_file='tmp.md'
 #sed -i -E '/^>\|.+\|$/,/\|\|<$/s/.+/コード削除/' tmp.md
 sed -i -E 's/^>\|.+\|/\\begin{lstlisting}/' tmp.md
 sed -i -E 's/\|\|<$/\\end{lstlisting}/' tmp.md
+
+sed -i -E 's/⚡//g' tmp.md
+
 sed -i 's/\\n/￥＼n/g' tmp.md
 sed -i -E 's/^(- .+)\[(https?:\/\/.+)\]\(https?:\/\/.+\)$/\1\2/g' tmp.md
 sed -i -E 's/(〉〉〉　kk_hironoのリツイート　〉〉〉).*$/\1\n\n/mg' tmp.md

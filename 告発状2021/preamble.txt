@@ -6,7 +6,7 @@
 \fontsize{11pt}{11pt}\selectfont
 \vspace{3mm}
 \begin{flushright}
-令和3年2月26日
+令和3年○月○日
 \par\end{flushright}
 〒920-0912金沢市大手町6番15号 金沢地方検察庁御中
 
