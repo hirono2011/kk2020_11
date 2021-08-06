@@ -1,0 +1,745 @@
+<div style="font-size: 8pt; color: #FF0040; margin-bottom: 25px;">
+<script type='text/javascript'>
+    document.write("-&nbsp;" + document.title + " " + location.href + "");
+</script><br />
+</div>
+<div style='font-size: 10pt;'>REGEXP（サーチ）： "再審"　該当：66件　取得ツイートの投稿日時の範囲：（2016-10-04 00:43〜2020-12-28 14:28）<br /><br />
+
+SELECT * FROM tw_user_tweet WHERE tw_date BETWEEN '1017-01-01' AND '3000-01-01' AND (user LIKE "un_co_the2nd") AND  tweet REGEXP "再審"  ORDER BY tw_date ASC<br /><br />
+
+</div><script>
+
+//戻る
+function modoru(){
+  history.back();
+}
+
+//進む
+function susumu(){
+  history.forward();
+}
+
+</script>
+<a name="un_co_the2nd"></a><form><input type="button"  value="戻る" onclick="modoru()" style="width:45px; height:20px; background-color: #248; color: #fff; border-style: none;"> <input type="button"  value="進む" onclick="susumu()" style="width:45px; height:20px; background-color: #248; color: #fff; border-style: none;"></form>===========================================================<br />
+<span style="background-color: #eeeeee;color: #cc0000;">🔥💩🔥（un_co_the2nd）のプロフィール情報（2021年07月23日06時48分46秒頃の取得）：</span><br />
+-----------------------------------------------------------<br />
+[name]ユーザ名称：🔥💩🔥<br />
+<br />
+[screen_name]ユーザ名：un_co_the2nd<br />
+<br />
+位置情報：ぱらいそ<br />
+<br />
+ユーザ説明：<br />
+誕生日プレゼントにマンゴーください<br />
+<br />
+ユーザのフォロワー数：2165<br />
+<br />
+ユーザのフォロー数：398<br />
+<br />
+ユーザがTwitterに登録した日時：2015-05-11 01:43:49 UTC<br />
+<br />
+ユーザの投稿ツイート数：165605<br />
+<br />
+===========================================================<br />
+<br />
+<script>
+
+//戻る
+function modoru(){
+  history.back();
+}
+
+//進む
+function susumu(){
+  history.forward();
+}
+
+</script>
+<span style="background-color: #eeeeee;color: #cc0000;">ページ内リンク一覧</span><br />===========================================================<br /><div style='margin-bottom: 40px; margin-left:30px;'><a href="#p1" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  1</pre>件目</a>　<a href="#p2" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  2</pre>件目</a>　<a href="#p3" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  3</pre>件目</a>　<a href="#p4" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  4</pre>件目</a>　<a href="#p5" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  5</pre>件目</a>　<a href="#p6" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  6</pre>件目</a>　<a href="#p7" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  7</pre>件目</a>　<a href="#p8" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  8</pre>件目</a>　<a href="#p9" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline">  9</pre>件目</a>　<a href="#p10" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 10</pre>件目</a>　<br /><a href="#p11" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 11</pre>件目</a>　<a href="#p12" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 12</pre>件目</a>　<a href="#p13" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 13</pre>件目</a>　<a href="#p14" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 14</pre>件目</a>　<a href="#p15" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 15</pre>件目</a>　<a href="#p16" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 16</pre>件目</a>　<a href="#p17" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 17</pre>件目</a>　<a href="#p18" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 18</pre>件目</a>　<a href="#p19" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 19</pre>件目</a>　<a href="#p20" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 20</pre>件目</a>　<br /><a href="#p21" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 21</pre>件目</a>　<a href="#p22" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 22</pre>件目</a>　<a href="#p23" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 23</pre>件目</a>　<a href="#p24" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 24</pre>件目</a>　<a href="#p25" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 25</pre>件目</a>　<a href="#p26" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 26</pre>件目</a>　<a href="#p27" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 27</pre>件目</a>　<a href="#p28" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 28</pre>件目</a>　<a href="#p29" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 29</pre>件目</a>　<a href="#p30" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 30</pre>件目</a>　<br /><a href="#p31" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 31</pre>件目</a>　<a href="#p32" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 32</pre>件目</a>　<a href="#p33" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 33</pre>件目</a>　<a href="#p34" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 34</pre>件目</a>　<a href="#p35" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 35</pre>件目</a>　<a href="#p36" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 36</pre>件目</a>　<a href="#p37" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 37</pre>件目</a>　<a href="#p38" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 38</pre>件目</a>　<a href="#p39" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 39</pre>件目</a>　<a href="#p40" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 40</pre>件目</a>　<br /><a href="#p41" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 41</pre>件目</a>　<a href="#p42" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 42</pre>件目</a>　<a href="#p43" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 43</pre>件目</a>　<a href="#p44" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 44</pre>件目</a>　<a href="#p45" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 45</pre>件目</a>　<a href="#p46" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 46</pre>件目</a>　<a href="#p47" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 47</pre>件目</a>　<a href="#p48" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 48</pre>件目</a>　<a href="#p49" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 49</pre>件目</a>　<a href="#p50" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 50</pre>件目</a>　<br /><a href="#p51" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 51</pre>件目</a>　<a href="#p52" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 52</pre>件目</a>　<a href="#p53" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 53</pre>件目</a>　<a href="#p54" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 54</pre>件目</a>　<a href="#p55" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 55</pre>件目</a>　<a href="#p56" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 56</pre>件目</a>　<a href="#p57" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 57</pre>件目</a>　<a href="#p58" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 58</pre>件目</a>　<a href="#p59" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 59</pre>件目</a>　<a href="#p60" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 60</pre>件目</a>　<br /><a href="#p61" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 61</pre>件目</a>　<a href="#p62" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 62</pre>件目</a>　<a href="#p63" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 63</pre>件目</a>　<a href="#p64" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 64</pre>件目</a>　<a href="#p65" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 65</pre>件目</a>　<a href="#p66" style='color: #FFFFFF; background-color: #086A87; font-size: 9pt;'><pre style="display:inline"> 66</pre>件目</a>　</div>===========================================================<br />
+<blockquote class="twitter-tweet"><p lang="ja" dir="ltr">2021-03-31_令和3年3月31日付け　告発状.pdf - Google ドライブ <a href="https://t.co/2bukX1dO6a">https://t.co/2bukX1dO6a</a> <br>　昨日の3月31日（1ページと506ページから779ページ）と本日4月1日（2ページから505ページ，能都郵便局から郵送しました。金沢市大手町615号，金沢地方検察庁です。</p>&mdash; 奉納＼さらば弁護士鉄道・泥棒神社の物語 (@hirono_hideki) <a href="https://twitter.com/hirono_hideki/status/1377567816644141057?ref_src=twsrc%5Etfw">April 1, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br />
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p1");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p1" style="color: red;">&nbsp;1件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（01／66） TW un_co_the2nd（???） 日時：2016-10-04 00:43:37 +0900 URL： https://twitter.com/un_co_the2nd/status/782969361044692994
+<br />> 冤罪があるから死刑廃止っておかしいよね。冤罪があるから、判決言い渡し糧までの手続きを見直し、判決言い渡し後の再審を容易にするというならまだしも  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 冤罪があるから死刑廃止っておかしいよね。冤罪があるから、判決言い渡し糧までの手続きを見直し、判決言い渡し後の再審を容易にするというならまだしも&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/782969361044692994">2016-10-04 00:43:37 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p2");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p2" style="color: red;">&nbsp;2件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（02／66） TW un_co_the2nd（???） 日時：2016-10-05 00:50:20 +0900 URL： https://twitter.com/un_co_the2nd/status/783333440024215552
+<br />> 死刑廃止より、再審開始決定のハードル下げろの決議やってくれや某団体  
+<br />>   
+<br />> 名張毒ぶどう酒事件で弁護団が新証拠提出（CBCテレビ） - https://t.co/vKFu1s02Lj #Yahooニュース  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 死刑廃止より、再審開始決定のハードル下げろの決議やってくれや某団体&nbsp;&nbsp;
+<br />> &nbsp;&nbsp;
+<br />> 名張毒ぶどう酒事件で弁護団が新証拠提出（CBCテレビ） - https://t.co/vKFu1s02Lj #Yahooニュース&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/783333440024215552">2016-10-05 00:50:20 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p3");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p3" style="color: red;">&nbsp;3件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（03／66） TW un_co_the2nd（???） 日時：2016-10-06 09:44:38 +0900 URL： https://twitter.com/un_co_the2nd/status/783830287314595840
+<br />> 冤罪死刑は取り返しがつかない、なら、証拠開示の在り方とか異常に困難な再審開始決定の道のりのほうが現実的問題だし、冤罪で人が死んでもいいんですか、って脅されてもなー冤罪でも裁判所がその職責において審理を尽くして死刑っつった結果は尊重しないといかんくね？とも思うわけで。めんどい分野。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 冤罪死刑は取り返しがつかない、なら、証拠開示の在り方とか異常に困難な再審開始決定の道のりのほうが現実的問題だし、冤罪で人が死んでもいいんですか、って脅されてもなー冤罪でも裁判所がその職責において審理を尽くして死刑っつった結果は尊重しないといかんくね？とも思うわけで。めんどい分野。&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/783830287314595840">2016-10-06 09:44:38 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p4");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p4" style="color: red;">&nbsp;4件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（04／66） TW un_co_the2nd（???） 日時：2016-10-06 09:46:13 +0900 URL： https://twitter.com/un_co_the2nd/status/783830688864665600
+<br />> 裁判所が職責を果たしていると思えない事件（袴田事件とか）が、にもかかわらず再審決定が出ないってマジやべえよな  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 裁判所が職責を果たしていると思えない事件（袴田事件とか）が、にもかかわらず再審決定が出ないってマジやべえよな&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/783830688864665600">2016-10-06 09:46:13 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p5");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p5" style="color: red;">&nbsp;5件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（05／66） TW un_co_the2nd（???） 日時：2016-10-07 15:03:46 +0900 URL： https://twitter.com/un_co_the2nd/status/784272989680316416
+<br />> 冤罪主張して再審請求してる人もいるし、加害者に死んでくれと思ってる被害者とともに活動してる人もいる団体なんだからさーなんでそうよけーなことするかなー  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 冤罪主張して再審請求してる人もいるし、加害者に死んでくれと思ってる被害者とともに活動してる人もいる団体なんだからさーなんでそうよけーなことするかなー&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/784272989680316416">2016-10-07 15:03:46 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p6");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うのじ）のプロフィール情報へのリンク</a></span><span id="p6" style="color: red;">&nbsp;6件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（06／66） TW un_co_the2nd（うのじ） 日時：2016-10-07 22:35:00 +0900 URL： https://twitter.com/un_co_the2nd/status/784386570937704448
+<br />> 再審無罪の前に、新たなかなり重要な証拠が出てきても再審開始決定されないっていうのが大問題なわけだが  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 再審無罪の前に、新たなかなり重要な証拠が出てきても再審開始決定されないっていうのが大問題なわけだが&nbsp;&nbsp;</p>&mdash; うのじ（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/784386570937704448">2016-10-07 22:35:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p7");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p7" style="color: red;">&nbsp;7件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（07／66） TW un_co_the2nd（???） 日時：2017-03-02 09:58:45 +0900 URL： https://twitter.com/un_co_the2nd/status/837104858914144256
+<br />> 共謀罪がなければいけない必要だ、っていう政府のご主張、これまでの共謀共同正犯理論は裁判所が法のないところに独自に立法してきたという主張含むってことでよろしくないですか？再審再審  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 共謀罪がなければいけない必要だ、っていう政府のご主張、これまでの共謀共同正犯理論は裁判所が法のないところに独自に立法してきたという主張含むってことでよろしくないですか？再審再審&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/837104858914144256">2017-03-02 09:58:45 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p8");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p8" style="color: red;">&nbsp;8件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（08／66） TW un_co_the2nd（???） 日時：2017-04-01 09:24:18 +0900 URL： https://twitter.com/un_co_the2nd/status/847967823611568129
+<br />> 最高検、元患者側に謝罪＝ハンセン病「特別法廷」―再審請求はせず・熊本（時事通信） - Yahoo!ニュース https://t.co/Lg22y1asa0 #Yahooニュース  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 最高検、元患者側に謝罪＝ハンセン病「特別法廷」―再審請求はせず・熊本（時事通信） - Yahoo!ニュース https://t.co/Lg22y1asa0 #Yahooニュース&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/847967823611568129">2017-04-01 09:24:18 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p9");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p9" style="color: red;">&nbsp;9件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（09／66） TW un_co_the2nd（???） 日時：2017-04-27 20:31:30 +0900 URL： https://twitter.com/un_co_the2nd/status/857557817317666816
+<br />> 検察がそれ主張するって…仮に認められたら山のように再審請求出るのに、なぜそれを  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 検察がそれ主張するって…仮に認められたら山のように再審請求出るのに、なぜそれを&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/857557817317666816">2017-04-27 20:31:30 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p10");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p10" style="color: red;">&nbsp;10件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（10／66） RT un_co_the2nd（うの字）｜nishinippon_dsg（西日本新聞web） 日時：2017-06-28 13:36:00 +0900／2017-06-28 13:33:00 +0900 URL： https://twitter.com/un_co_the2nd/status/879921385870475264 https://twitter.com/nishinippon_dsg/status/879920557432623105
+<br />> 大崎事件の再審認める　鹿児島地裁 #速報 #九州 #西日本新聞 #ニュース  
+<br />> https://t.co/kaN7mBVnfB  
+<blockquote class="twitter-tweet" lang="ja"><p>大崎事件の再審認める　鹿児島地裁 #速報 #九州 #西日本新聞 #ニュース
+https://t.co/kaN7mBVnfB</p>&mdash; 西日本新聞web（nishinippon_dsg）<a href="https://twitter.com/nishinippon_dsg/status/879920557432623105">2017-06-28 13:33:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p11");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p11" style="color: red;">&nbsp;11件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（11／66） TW un_co_the2nd（???） 日時：2017-07-03 10:18:35 +0900 URL： https://twitter.com/un_co_the2nd/status/881683556673568768
+<br />> 判決を左右する重要な客観的証拠が検察側が隠してたためにずっと出て来ず、やっと出させて再審決定出たときに検察が抗告するの、恥の上塗り感パネエなって思う。  
+<br />> 再審で、こんどこそ正々堂々おやんなさいよって。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 判決を左右する重要な客観的証拠が検察側が隠してたためにずっと出て来ず、やっと出させて再審決定出たときに検察が抗告するの、恥の上塗り感パネエなって思う。&nbsp;&nbsp;
+<br />> 再審で、こんどこそ正々堂々おやんなさいよって。&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/881683556673568768">2017-07-03 10:18:35 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p12");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うの痔）のプロフィール情報へのリンク</a></span><span id="p12" style="color: red;">&nbsp;12件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（12／66） TW un_co_the2nd（うの痔） 日時：2017-09-13 13:05:00 +0900 URL： https://twitter.com/un_co_the2nd/status/907817401370193921
+<br />> 検察官の裁判官室への入室を全て記録して開示し、その記録を忌避申立や控訴再審に使えるようにすれば、検察官が裁判官室に行ったり御用聞きしたりするのは止むだろ。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 検察官の裁判官室への入室を全て記録して開示し、その記録を忌避申立や控訴再審に使えるようにすれば、検察官が裁判官室に行ったり御用聞きしたりするのは止むだろ。&nbsp;&nbsp;</p>&mdash; うの痔（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/907817401370193921">2017-09-13 13:05:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p13");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（黄金糞闘士うのじ)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p13" style="color: red;">&nbsp;13件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（13／66） RT un_co_the2nd（黄金糞闘士うのじ）｜maki_okubo（大久保真紀） 日時：2017-11-29 17:01:00 +0900／2017-11-29 16:05:00 +0900 URL： https://twitter.com/un_co_the2nd/status/935780852318879744 https://twitter.com/maki_okubo/status/935766642092625920
+<br />> また、冤罪事件。高裁も認めました。１３年服役した宮田さんは、いま８４歳です。--&gt;松橋事件、高裁も再審認める　「自白の信用性に疑い」：朝日新聞デジタル https://t.co/2svNOoqUZt  
+<blockquote class="twitter-tweet" lang="ja"><p>また、冤罪事件。高裁も認めました。１３年服役した宮田さんは、いま８４歳です。--&gt;松橋事件、高裁も再審認める　「自白の信用性に疑い」：朝日新聞デジタル https://t.co/2svNOoqUZt</p>&mdash; 大久保真紀（maki_okubo）<a href="https://twitter.com/maki_okubo/status/935766642092625920">2017-11-29 16:05:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p14");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（豚糞)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p14" style="color: red;">&nbsp;14件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（14／66） RT un_co_the2nd（豚糞）｜NOSUKE0607（清水 潔） 日時：2018-02-08 10:22:00 +0900／2018-02-07 10:50:00 +0900 URL： https://twitter.com/un_co_the2nd/status/961409782102962177 https://twitter.com/NOSUKE0607/status/961054588206858240
+<br />> 飯塚事件。地元紙の西日本新聞が再審可否前の連載に終わらず、棄却後もガンガン攻めている。記者クラブの壁を乗り越え、裁判所の姿勢にも疑問を呈する。これぞジャーナリズムだ。  
+<br />>   
+<br />> 識者は「一審判決を書いた裁判官の関与は公正さに欠け、避けるべ… https://t.co/EiHfWee2rF  
+<blockquote class="twitter-tweet" lang="ja"><p>飯塚事件。地元紙の西日本新聞が再審可否前の連載に終わらず、棄却後もガンガン攻めている。記者クラブの壁を乗り越え、裁判所の姿勢にも疑問を呈する。これぞジャーナリズムだ。
+
+識者は「一審判決を書いた裁判官の関与は公正さに欠け、避けるべ… https://t.co/EiHfWee2rF</p>&mdash; 清水 潔（NOSUKE0607）<a href="https://twitter.com/NOSUKE0607/status/961054588206858240">2018-02-07 10:50:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p15");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うのじ@マヒシュマティ)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p15" style="color: red;">&nbsp;15件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（15／66） RT un_co_the2nd（うのじ@マヒシュマティ）｜sa_stpo（Shota ABE） 日時：2018-03-14 22:23:00 +0900／2018-03-14 16:51:00 +0900 URL： https://twitter.com/un_co_the2nd/status/973912417167056897 https://twitter.com/sa_stpo/status/973829062690066433
+<br />> 鴨志田祐美・安部祥太「大崎事件にみる日本の刑事司法と再審の問題点」青山ローフォーラム6巻2号（2018年）251頁が発刊されました。  
+<br />> 先日12日に福岡高裁宮崎支部で再審開始決定が維持された大崎事件の弁護団事務局長・鴨志田先生を安部… https://t.co/pgHNDeOTcQ  
+<blockquote class="twitter-tweet" lang="ja"><p>鴨志田祐美・安部祥太「大崎事件にみる日本の刑事司法と再審の問題点」青山ローフォーラム6巻2号（2018年）251頁が発刊されました。
+先日12日に福岡高裁宮崎支部で再審開始決定が維持された大崎事件の弁護団事務局長・鴨志田先生を安部… https://t.co/pgHNDeOTcQ</p>&mdash; Shota ABE（sa_stpo）<a href="https://twitter.com/sa_stpo/status/973829062690066433">2018-03-14 16:51:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p16");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p16" style="color: red;">&nbsp;16件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（16／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2018-03-28 18:06:00 +0900／2018-03-28 17:59:00 +0900 URL： https://twitter.com/un_co_the2nd/status/978921175597240322 https://twitter.com/kamo629782/status/978919584068657153
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/978919584068657153">2018-03-28 17:59:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p17");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p17" style="color: red;">&nbsp;17件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（17／66） TW un_co_the2nd（???） 日時：2018-06-11 14:04:07 +0900 URL： https://twitter.com/un_co_the2nd/status/1006039353364107264
+<br />> 再審やって、その中で疑問のあるとこ判断すりゃいいじゃん… https://t.co/7Bj1O00JT4  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 再審やって、その中で疑問のあるとこ判断すりゃいいじゃん… https://t.co/7Bj1O00JT4&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1006039353364107264">2018-06-11 14:04:07 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p18");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（アナルファックチョコバナナ)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p18" style="color: red;">&nbsp;18件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（18／66） RT un_co_the2nd（アナルファックチョコバナナ）｜nodahayato（弁護士　野田隼人） 日時：2018-07-11 15:14:00 +0900／2018-07-11 14:33:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1016928753912459264 https://twitter.com/nodahayato/status/1016918359248551938
+<br />> 日野町事件再審開始決定なう  
+<blockquote class="twitter-tweet" lang="ja"><p>日野町事件再審開始決定なう</p>&mdash; 弁護士　野田隼人（nodahayato）<a href="https://twitter.com/nodahayato/status/1016918359248551938">2018-07-11 14:33:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p19");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p19" style="color: red;">&nbsp;19件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（19／66） RT un_co_the2nd（うの字）｜WEB_SEKAI（岩波書店『世界』編集部） 日時：2018-07-30 16:56:00 +0900／2018-07-30 11:57:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1023839693354328064 https://twitter.com/WEB_SEKAI/status/1023764536820551680
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; 岩波書店『世界』編集部（WEB_SEKAI）<a href="https://twitter.com/WEB_SEKAI/status/1023764536820551680">2018-07-30 11:57:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p20");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p20" style="color: red;">&nbsp;20件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（20／66） TW un_co_the2nd（???） 日時：2018-08-05 11:39:50 +0900 URL： https://twitter.com/un_co_the2nd/status/1025934374007521280
+<br />> じゃあ再審請求より裁判所苦情入れる方が効果あったりして…？？？  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> じゃあ再審請求より裁判所苦情入れる方が効果あったりして…？？？&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1025934374007521280">2018-08-05 11:39:50 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p21");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（かぼちゃクリーム)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p21" style="color: red;">&nbsp;21件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（21／66） RT un_co_the2nd（かぼちゃクリーム）｜fujiokabengoshi（藤岡孝司＠飯塚） 日時：2018-10-12 21:05:00 +0900／2018-10-12 20:57:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1050719147120721920 https://twitter.com/fujiokabengoshi/status/1050717213949227008
+<br />> 「再審請求では、捜査段階で宮田さんが「凶器の小刀に巻き付け、犯行後に燃やした」と供述していた布片を検察側が保管していたことが判明。」  
+<br />>   
+<br />> oh….  
+<br />>   
+<br />> 「松橋事件」再審開始が確定＝85年の殺人、「自白」服役の男性―最高裁（時事通信）… https://t.co/gtNFqE2cBZ  
+<blockquote class="twitter-tweet" lang="ja"><p>「再審請求では、捜査段階で宮田さんが「凶器の小刀に巻き付け、犯行後に燃やした」と供述していた布片を検察側が保管していたことが判明。」
+
+oh….
+
+「松橋事件」再審開始が確定＝85年の殺人、「自白」服役の男性―最高裁（時事通信）… https://t.co/gtNFqE2cBZ</p>&mdash; 藤岡孝司＠飯塚（fujiokabengoshi）<a href="https://twitter.com/fujiokabengoshi/status/1050717213949227008">2018-10-12 20:57:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p22");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p22" style="color: red;">&nbsp;22件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（22／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2018-10-16 19:08:00 +0900／2018-10-16 09:59:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1052139208389812225 https://twitter.com/kamo629782/status/1052001094476288001
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1052001094476288001">2018-10-16 09:59:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p23");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p23" style="color: red;">&nbsp;23件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（23／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-01-07 21:59:00 +0900／2019-01-07 21:12:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1082260483665620993 https://twitter.com/kamo629782/status/1082248600984252416
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1082248600984252416">2019-01-07 21:12:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p24");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p24" style="color: red;">&nbsp;24件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（24／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-03-19 12:07:00 +0900／2019-03-19 11:07:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1107840872169652224 https://twitter.com/kamo629782/status/1107825956507402240
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1107825956507402240">2019-03-19 11:07:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p25");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p25" style="color: red;">&nbsp;25件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（25／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-03-22 13:54:00 +0900／2019-03-22 13:46:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1108955110976024578 https://twitter.com/kamo629782/status/1108952953635758080
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1108952953635758080">2019-03-22 13:46:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p26");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p26" style="color: red;">&nbsp;26件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（26／66） TW un_co_the2nd（???） 日時：2019-03-28 11:14:52 +0900 URL： https://twitter.com/un_co_the2nd/status/1111089241176461312
+<br />> 松橋事件、やっと再審無罪。  
+<br />> 宮田さん、弁護団の皆様お疲れ様でした。  
+<br />>   
+<br />> 無罪と確定しても宮田さんの時間は戻らない。P側証拠の強制的全部開示制度で冤罪を防ぐのと再審開始の基準の緩和でこの段階での「疑わしきは被告人の利益に」の実現を望むばかり  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 松橋事件、やっと再審無罪。&nbsp;&nbsp;
+<br />> 宮田さん、弁護団の皆様お疲れ様でした。&nbsp;&nbsp;
+<br />> &nbsp;&nbsp;
+<br />> 無罪と確定しても宮田さんの時間は戻らない。P側証拠の強制的全部開示制度で冤罪を防ぐのと再審開始の基準の緩和でこの段階での「疑わしきは被告人の利益に」の実現を望むばかり&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1111089241176461312">2019-03-28 11:14:52 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p27");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p27" style="color: red;">&nbsp;27件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（27／66） TW un_co_the2nd（???） 日時：2019-03-28 11:17:10 +0900 URL： https://twitter.com/un_co_the2nd/status/1111089818501431297
+<br />> なんで再審開始あんなに渋るん？  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> なんで再審開始あんなに渋るん？&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1111089818501431297">2019-03-28 11:17:10 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p28");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うのじ）のプロフィール情報へのリンク</a></span><span id="p28" style="color: red;">&nbsp;28件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（28／66） TW un_co_the2nd（うのじ） 日時：2019-03-28 22:15:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1111255422608957441
+<br />> 松橋事件の再審無罪判決を喜ぶその同日に、性犯罪の疑いをかけられた奴は全員有罪にしろと言ってる弁護士がいて、無罪判決を受けた人をレイプ魔呼ばわりする政治家がいて  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 松橋事件の再審無罪判決を喜ぶその同日に、性犯罪の疑いをかけられた奴は全員有罪にしろと言ってる弁護士がいて、無罪判決を受けた人をレイプ魔呼ばわりする政治家がいて&nbsp;&nbsp;</p>&mdash; うのじ（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1111255422608957441">2019-03-28 22:15:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p29");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p29" style="color: red;">&nbsp;29件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（29／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-04-26 19:54:00 +0900／2019-04-26 19:49:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1121729184064098304 https://twitter.com/kamo629782/status/1121728063945883648
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1121728063945883648">2019-04-26 19:49:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p30");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p30" style="color: red;">&nbsp;30件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（30／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-05-23 07:03:00 +0900／2019-05-22 17:07:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1131319754252144640 https://twitter.com/kamo629782/status/1131109412410552320
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1131109412410552320">2019-05-22 17:07:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p31");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p31" style="color: red;">&nbsp;31件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（31／66） TW un_co_the2nd（???） 日時：2019-06-03 01:30:43 +0900 URL： https://twitter.com/un_co_the2nd/status/1135222222778322944
+<br />> （もっと再審のハードル下げて、被告人に不利な方にまちがっちゃったかな？って判決はバンバン正していこうよ）  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> （もっと再審のハードル下げて、被告人に不利な方にまちがっちゃったかな？って判決はバンバン正していこうよ）&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1135222222778322944">2019-06-03 01:30:43 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p32");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p32" style="color: red;">&nbsp;32件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（32／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-06-08 22:54:00 +0900／2019-06-08 09:22:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1137357121232572418 https://twitter.com/kamo629782/status/1137152788369006592
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1137152788369006592">2019-06-08 09:22:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p33");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p33" style="color: red;">&nbsp;33件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（33／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-06-11 14:27:00 +0900／2019-06-11 00:22:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1138316851828613120 https://twitter.com/kamo629782/status/1138104206584238081
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1138104206584238081">2019-06-11 00:22:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p34");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p34" style="color: red;">&nbsp;34件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（34／66） RT un_co_the2nd（うの字）｜1961kumachin（中村元弥） 日時：2019-06-26 16:20:00 +0900／2019-06-26 15:05:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1143781081285447681 https://twitter.com/1961kumachin/status/1143762159463043073
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; 中村元弥（1961kumachin）<a href="https://twitter.com/1961kumachin/status/1143762159463043073">2019-06-26 15:05:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p35");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p35" style="color: red;">&nbsp;35件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（35／66） TW un_co_the2nd（???） 日時：2019-06-26 16:21:47 +0900 URL： https://twitter.com/un_co_the2nd/status/1143781386534342656
+<br />> もう再審したらいいじゃん  
+<br />> その結果やっぱり有罪だとしてもさ  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> もう再審したらいいじゃん&nbsp;&nbsp;
+<br />> その結果やっぱり有罪だとしてもさ&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1143781386534342656">2019-06-26 16:21:47 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p36");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p36" style="color: red;">&nbsp;36件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（36／66） TW un_co_the2nd（???） 日時：2019-06-26 16:32:11 +0900 URL： https://twitter.com/un_co_the2nd/status/1143784002756595712
+<br />> なんでこうも再審をしたがらないんだろう  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> なんでこうも再審をしたがらないんだろう&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1143784002756595712">2019-06-26 16:32:11 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p37");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p37" style="color: red;">&nbsp;37件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（37／66） TW un_co_the2nd（???） 日時：2019-06-26 16:45:59 +0900 URL： https://twitter.com/un_co_the2nd/status/1143787474709147653
+<br />> なんで再審しないんだろう  
+<br />> 誰も裁判所・裁判官の無謬性なんて信じてないんだから、やればいいじゃん  
+<br />> すでに他の裁判官が再審しようって決定出したんだから合理的疑いあるでいいじゃん  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> なんで再審しないんだろう&nbsp;&nbsp;
+<br />> 誰も裁判所・裁判官の無謬性なんて信じてないんだから、やればいいじゃん&nbsp;&nbsp;
+<br />> すでに他の裁判官が再審しようって決定出したんだから合理的疑いあるでいいじゃん&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1143787474709147653">2019-06-26 16:45:59 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p38");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p38" style="color: red;">&nbsp;38件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（38／66） RT un_co_the2nd（うの字）｜amneris84（Shoko Egawa） 日時：2019-06-27 10:45:00 +0900／2019-06-26 23:12:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1144059183257411584 https://twitter.com/amneris84/status/1143884738748280833
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; Shoko Egawa（amneris84）<a href="https://twitter.com/amneris84/status/1143884738748280833">2019-06-26 23:12:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p39");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p39" style="color: red;">&nbsp;39件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（39／66） RT un_co_the2nd（うの字）｜amneris84（Shoko Egawa） 日時：2019-06-28 08:59:00 +0900／2019-06-27 08:12:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1144394894053531648 https://twitter.com/amneris84/status/1144020750547877888
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; Shoko Egawa（amneris84）<a href="https://twitter.com/amneris84/status/1144020750547877888">2019-06-27 08:12:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p40");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p40" style="color: red;">&nbsp;40件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（40／66） TW un_co_the2nd（???） 日時：2019-06-28 13:34:44 +0900 URL： https://twitter.com/un_co_the2nd/status/1144464121343070209
+<br />> https://t.co/Nka1EgNAfn  
+<br />> 「本件抗告の趣意は，判例違反をいう点を含め，実質は単なる法令違反，事実誤認 の主張であって，刑訴法433条の抗告理由に当たらない」んだから、再審開始のうえであらためて有罪無罪判断させればいいじゃない。…職権の使い方間違ってるよ…  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> https://t.co/Nka1EgNAfn&nbsp;&nbsp;
+<br />> 「本件抗告の趣意は，判例違反をいう点を含め，実質は単なる法令違反，事実誤認 の主張であって，刑訴法433条の抗告理由に当たらない」んだから、再審開始のうえであらためて有罪無罪判断させればいいじゃない。…職権の使い方間違ってるよ…&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1144464121343070209">2019-06-28 13:34:44 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p41");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p41" style="color: red;">&nbsp;41件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（41／66） TW un_co_the2nd（???） 日時：2019-06-28 14:50:29 +0900 URL： https://twitter.com/un_co_the2nd/status/1144483183758467074
+<br />> 「著しく正義に反するものと認められる」は、再審を開始するときの文句で、再審を阻む時に言うのはあまりに残酷、お前らの血は何色だ案件だと思う  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 「著しく正義に反するものと認められる」は、再審を開始するときの文句で、再審を阻む時に言うのはあまりに残酷、お前らの血は何色だ案件だと思う&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1144483183758467074">2019-06-28 14:50:29 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p42");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（???）のプロフィール情報へのリンク</a></span><span id="p42" style="color: red;">&nbsp;42件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（42／66） TW un_co_the2nd（???） 日時：2019-06-28 14:53:08 +0900 URL： https://twitter.com/un_co_the2nd/status/1144483851370037250
+<br />> 無罪を訴え続けている人の訴えを聞き、裁判をやり直す決定を維持するのが「著しく正義に反する」って、おま、人質をとって「再審開始しないならこいつら皆殺しだ！」って言ってるとか偽造証拠で再審請求して偽造がバレたシチュエーションくらいしか思いつかないんですけど。  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 無罪を訴え続けている人の訴えを聞き、裁判をやり直す決定を維持するのが「著しく正義に反する」って、おま、人質をとって「再審開始しないならこいつら皆殺しだ！」って言ってるとか偽造証拠で再審請求して偽造がバレたシチュエーションくらいしか思いつかないんですけど。&nbsp;&nbsp;</p>&mdash; ???（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1144483851370037250">2019-06-28 14:53:08 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p43");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字）のプロフィール情報へのリンク</a></span><span id="p43" style="color: red;">&nbsp;43件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（43／66） TW un_co_the2nd（うの字） 日時：2019-06-28 21:41:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1144586718542094336
+<br />> 再審制度って、有罪判決が確定しているがそれを放置することが著しく正義に反するから設置されてるわけで…「著しく正義に反する」は検察側の主張を認めつつも再審開始すべきだというときに職権行使しつつ使うのが正しい使い方でよな…？  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 再審制度って、有罪判決が確定しているがそれを放置することが著しく正義に反するから設置されてるわけで…「著しく正義に反する」は検察側の主張を認めつつも再審開始すべきだというときに職権行使しつつ使うのが正しい使い方でよな…？&nbsp;&nbsp;</p>&mdash; うの字（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1144586718542094336">2019-06-28 21:41:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p44");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字）のプロフィール情報へのリンク</a></span><span id="p44" style="color: red;">&nbsp;44件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（44／66） TW un_co_the2nd（うの字） 日時：2019-06-28 21:42:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1144586863656615936
+<br />> …検察主張を退けながらも再審開始決定を職権で握りつぶして「再審開始決定を取り消さないのは著しく正義に反する」と述べるのって…控えめに見ても素面と思えない…  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> …検察主張を退けながらも再審開始決定を職権で握りつぶして「再審開始決定を取り消さないのは著しく正義に反する」と述べるのって…控えめに見ても素面と思えない…&nbsp;&nbsp;</p>&mdash; うの字（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1144586863656615936">2019-06-28 21:42:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p45");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p45" style="color: red;">&nbsp;45件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（45／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-07-01 14:01:00 +0900／2019-07-01 12:10:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1145557905585741824 https://twitter.com/kamo629782/status/1145530007579549697
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1145530007579549697">2019-07-01 12:10:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p46");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p46" style="color: red;">&nbsp;46件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（46／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-07-01 20:31:00 +0900／2019-07-01 19:23:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1145656116363137024 https://twitter.com/kamo629782/status/1145639172733935616
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1145639172733935616">2019-07-01 19:23:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p47");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p47" style="color: red;">&nbsp;47件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（47／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-07-02 11:41:00 +0900／2019-07-02 09:52:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1145885163135500288 https://twitter.com/kamo629782/status/1145857798976098304
+<br />> 雄っぱい星  
+<blockquote class="twitter-tweet" lang="ja"><p>雄っぱい星</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1145857798976098304">2019-07-02 09:52:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p48");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p48" style="color: red;">&nbsp;48件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（48／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-10-19 20:34:00 +0900／2019-10-19 19:24:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1185519625053687809 https://twitter.com/kamo629782/status/1185501912684101633
+<br />> 昨年、私の講演にインスパイアされた学生さん（一橋大４年）が「再審請求手続における検察官の地位と役割」を卒論のテーマに選び、先日の大崎事件40年集会に参加した学生さん（鹿児島大１年）が冤罪と再審の実態に衝撃を受けて、自主的にレポート… https://t.co/0hCILS6QAS  
+<blockquote class="twitter-tweet" lang="ja"><p>昨年、私の講演にインスパイアされた学生さん（一橋大４年）が「再審請求手続における検察官の地位と役割」を卒論のテーマに選び、先日の大崎事件40年集会に参加した学生さん（鹿児島大１年）が冤罪と再審の実態に衝撃を受けて、自主的にレポート… https://t.co/0hCILS6QAS</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1185501912684101633">2019-10-19 19:24:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p49");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字）のプロフィール情報へのリンク</a></span><span id="p49" style="color: red;">&nbsp;49件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（49／66） TW un_co_the2nd（うの字） 日時：2019-10-25 14:16:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1187598897390084096
+<br />> SBS関連再審くるんじゃなかろうか  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> SBS関連再審くるんじゃなかろうか&nbsp;&nbsp;</p>&mdash; うの字（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1187598897390084096">2019-10-25 14:16:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p50");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字）のプロフィール情報へのリンク</a></span><span id="p50" style="color: red;">&nbsp;50件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（50／66） TW un_co_the2nd（うの字） 日時：2019-10-30 14:38:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1189416245356924928
+<br />> 死んでなければ再審の機会がと言うけど、現状の裁判所も検察庁も冤罪疑い事案で死ぬの待ちしてるのを見ると、終身刑にしても死ぬの待ちのままだと思うのだが…  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 死んでなければ再審の機会がと言うけど、現状の裁判所も検察庁も冤罪疑い事案で死ぬの待ちしてるのを見ると、終身刑にしても死ぬの待ちのままだと思うのだが…&nbsp;&nbsp;</p>&mdash; うの字（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1189416245356924928">2019-10-30 14:38:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p51");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字）のプロフィール情報へのリンク</a></span><span id="p51" style="color: red;">&nbsp;51件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（51／66） TW un_co_the2nd（うの字） 日時：2019-10-30 14:39:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1189416610844381184
+<br />> 冤罪関係では、終身刑じゃなくて検察官控訴の禁止と再審開始決定への異議申立禁止をこそ https://t.co/wsF7guFG9s  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 冤罪関係では、終身刑じゃなくて検察官控訴の禁止と再審開始決定への異議申立禁止をこそ https://t.co/wsF7guFG9s&nbsp;&nbsp;</p>&mdash; うの字（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1189416610844381184">2019-10-30 14:39:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p52");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p52" style="color: red;">&nbsp;52件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（52／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2019-11-18 21:26:00 +0900／2019-11-18 20:35:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1196404368779595777 https://twitter.com/kamo629782/status/1196391421277655040
+<br />> 明後日正午，衆議院第１議員会館で，私も声を上げます。  
+<br />>   
+<br />> 再審法改正に向けた総力戦に，皆さんの力を貸して下さい！ https://t.co/ColseelfDM  
+<blockquote class="twitter-tweet" lang="ja"><p>明後日正午，衆議院第１議員会館で，私も声を上げます。
+
+再審法改正に向けた総力戦に，皆さんの力を貸して下さい！ https://t.co/ColseelfDM</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1196391421277655040">2019-11-18 20:35:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p53");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p53" style="color: red;">&nbsp;53件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（53／66） RT un_co_the2nd（うの字）｜okumuraosaka（弁護人弁護士奥村徹(大阪弁護士会)） 日時：2019-11-25 14:16:00 +0900／2019-11-25 14:14:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1198832727677526016 https://twitter.com/okumuraosaka/status/1198832277343494144
+<br />> 精力的に動く姿から「シャーク」の異名をとる » （ひと）鴨志田祐美さん　「大崎事件」で４度目の再審請求に挑む弁護団事務局長：朝日新聞デジタル https://t.co/oeIKksQ7Mv  
+<blockquote class="twitter-tweet" lang="ja"><p>精力的に動く姿から「シャーク」の異名をとる » （ひと）鴨志田祐美さん　「大崎事件」で４度目の再審請求に挑む弁護団事務局長：朝日新聞デジタル https://t.co/oeIKksQ7Mv</p>&mdash; 弁護人弁護士奥村徹(大阪弁護士会)（okumuraosaka）<a href="https://twitter.com/okumuraosaka/status/1198832277343494144">2019-11-25 14:14:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p54");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p54" style="color: red;">&nbsp;54件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（54／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2020-01-24 12:25:00 +0900／2020-01-24 00:00:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1220548115532414976 https://twitter.com/kamo629782/status/1220360771521015808
+<br />> 証拠調べどころか、期日も開かず、請求人・弁護人の意見も聞かずに、大崎事件について再審開始決定を破棄自判した同じ第一小法廷ですよ。  
+<br />>   
+<br />> 「どのクチが言うのか」「おまゆう」というとしか言いようがない。  
+<br />>   
+<br />> https://t.co/gZQHkMTwAV  
+<blockquote class="twitter-tweet" lang="ja"><p>証拠調べどころか、期日も開かず、請求人・弁護人の意見も聞かずに、大崎事件について再審開始決定を破棄自判した同じ第一小法廷ですよ。
+
+「どのクチが言うのか」「おまゆう」というとしか言いようがない。
+
+https://t.co/gZQHkMTwAV</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1220360771521015808">2020-01-24 00:00:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p55");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p55" style="color: red;">&nbsp;55件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（55／66） RT un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2020-02-24 10:20:00 +0900／2020-02-24 09:51:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1231750611885912064 https://twitter.com/kamo629782/status/1231743513064165377
+<br />> ――再審手続きの改正を強く訴えるのはなぜですか  
+<br />>   
+<br />> 　まさに日本がいま抱える問題だと思うのです。「桜を見る会」もそう、検事長の定年延長問題もそう。権力がフリーハンドになっている。昨年6月、再審開始決定を取り消した大崎事件の最高裁決定… https://t.co/7MbeUUCu9C  
+<blockquote class="twitter-tweet" lang="ja"><p>――再審手続きの改正を強く訴えるのはなぜですか
+
+　まさに日本がいま抱える問題だと思うのです。「桜を見る会」もそう、検事長の定年延長問題もそう。権力がフリーハンドになっている。昨年6月、再審開始決定を取り消した大崎事件の最高裁決定… https://t.co/7MbeUUCu9C</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1231743513064165377">2020-02-24 09:51:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p56");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p56" style="color: red;">&nbsp;56件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（56／66） RT un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）｜hayato821（Fukuda Hayato） 日時：2020-02-27 08:52:00 +0900／2020-02-26 18:14:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1232815780040863744 https://twitter.com/hayato821/status/1232594898492088321
+<br />> 特別法廷を「違憲」としつつ請求は棄却。「刑事訴訟法の再審事由に、裁判手続きに憲法違反があることは規定されていないことなどから、検察官が再審請求しないことは原告らとの関係で違法ではないと判断した」らしい。再審法改正運動に拍車がかかる… https://t.co/jIfJxbKyrT  
+<blockquote class="twitter-tweet" lang="ja"><p>特別法廷を「違憲」としつつ請求は棄却。「刑事訴訟法の再審事由に、裁判手続きに憲法違反があることは規定されていないことなどから、検察官が再審請求しないことは原告らとの関係で違法ではないと判断した」らしい。再審法改正運動に拍車がかかる… https://t.co/jIfJxbKyrT</p>&mdash; Fukuda Hayato（hayato821）<a href="https://twitter.com/hayato821/status/1232594898492088321">2020-02-26 18:14:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p57");
+</script><br />
+</div>
+<span style="background-color: #E0F2F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）のプロフィール情報へのリンク</a></span><span id="p57" style="color: red;">&nbsp;57件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: #086A87; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: #086A87; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（57／66） TW un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。） 日時：2020-02-27 09:12:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1232820738597388290
+<br />> 死刑廃止より再審法改正の方が、国内の支持得やすいんじゃないか  
+<br />> 袴田事件の映画「BOX」とか樹木希林と仲代達矢が出演した名張事件の映画「約束」とかもっと推して行こうやで  
+<br />> 袴田事件は海の向こうでも知られてるしな…  
+<blockquote class="twitter-tweet" lang="ja"><p><br />> 死刑廃止より再審法改正の方が、国内の支持得やすいんじゃないか&nbsp;&nbsp;
+<br />> 袴田事件の映画「BOX」とか樹木希林と仲代達矢が出演した名張事件の映画「約束」とかもっと推して行こうやで&nbsp;&nbsp;
+<br />> 袴田事件は海の向こうでも知られてるしな…&nbsp;&nbsp;</p>&mdash; ? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。（un_co_the2nd）<a href="https://twitter.com/un_co_the2nd/status/1232820738597388290">2020-02-27 09:12:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p58");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p58" style="color: red;">&nbsp;58件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（58／66） RT un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）｜TGN54（TｰTAKA） 日時：2020-03-08 22:08:00 +0900／2020-03-08 20:06:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1236640000730484737 https://twitter.com/TGN54/status/1236609208885194753
+<br />> 弁護団落胆「強い怒りを覚える」　勝又被告、再審請求へ意欲　今市事件　 https://t.co/jXuNMUrn9C  
+<blockquote class="twitter-tweet" lang="ja"><p>弁護団落胆「強い怒りを覚える」　勝又被告、再審請求へ意欲　今市事件　 https://t.co/jXuNMUrn9C</p>&mdash; TｰTAKA（TGN54）<a href="https://twitter.com/TGN54/status/1236609208885194753">2020-03-08 20:06:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p59");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p59" style="color: red;">&nbsp;59件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（59／66） RT un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）｜yukinafurukawaa（古川幸奈?静岡支局記者） 日時：2020-03-12 00:18:00 +0900／2020-03-11 13:18:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1237759724239458304 https://twitter.com/yukinafurukawaa/status/1237593634989420545
+<br />> 袴田さんが10日で84歳に。静岡地裁の再審開始決定で釈放されてからもうすぐで6年になります。  
+<br />>   
+<br />> 袴田さんが８４歳、自宅で誕生日会　浜松　／静岡 - 毎日新聞 https://t.co/ecGao2YXuk  
+<blockquote class="twitter-tweet" lang="ja"><p>袴田さんが10日で84歳に。静岡地裁の再審開始決定で釈放されてからもうすぐで6年になります。
+
+袴田さんが８４歳、自宅で誕生日会　浜松　／静岡 - 毎日新聞 https://t.co/ecGao2YXuk</p>&mdash; 古川幸奈?静岡支局記者（yukinafurukawaa）<a href="https://twitter.com/yukinafurukawaa/status/1237593634989420545">2020-03-11 13:18:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p60");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p60" style="color: red;">&nbsp;60件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（60／66） RT un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）｜idleness_venomy（venomy） 日時：2020-03-14 10:03:00 +0900／2020-03-13 18:10:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1238631699329601536 https://twitter.com/idleness_venomy/status/1238391876496928768
+<br />> 大阪の完全な冤罪事件（「被害者」の女性が虚偽証言を認めた事案）ですね。心ある刑事裁判官の方は、個々に元事件（最高裁までいって確定）と再審事件の判決文を読み比べて、冤罪を回避するために何ができたか、将来何をすべきかと自問自答しておら… https://t.co/mEzpPcIcOB  
+<blockquote class="twitter-tweet" lang="ja"><p>大阪の完全な冤罪事件（「被害者」の女性が虚偽証言を認めた事案）ですね。心ある刑事裁判官の方は、個々に元事件（最高裁までいって確定）と再審事件の判決文を読み比べて、冤罪を回避するために何ができたか、将来何をすべきかと自問自答しておら… https://t.co/mEzpPcIcOB</p>&mdash; venomy（idleness_venomy）<a href="https://twitter.com/idleness_venomy/status/1238391876496928768">2020-03-13 18:10:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p61");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p61" style="color: red;">&nbsp;61件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（61／66） RT un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）｜uwaaaa（サイ太） 日時：2020-05-05 13:31:00 +0900／2020-05-05 13:20:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1257528274055385096 https://twitter.com/uwaaaa/status/1257525483215843329
+<br />> 大津地裁の元看護助手の再審無罪事件の判決文がアップされていますね https://t.co/RMeCJmyB7F  
+<blockquote class="twitter-tweet" lang="ja"><p>大津地裁の元看護助手の再審無罪事件の判決文がアップされていますね https://t.co/RMeCJmyB7F</p>&mdash; サイ太（uwaaaa）<a href="https://twitter.com/uwaaaa/status/1257525483215843329">2020-05-05 13:20:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p62");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p62" style="color: red;">&nbsp;62件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（62／66） RT un_co_the2nd（? ｛君はアレがエロく見えるのかね？平和の証に見えないならば教養が足りんよ。本を読みなさい。）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2020-08-01 08:38:00 +0900／2020-08-01 07:57:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1289344671827685376 https://twitter.com/kamo629782/status/1289334324983037955
+<br />> 【判例時報No.2445】  
+<br />>   
+<br />> 湖東記念病院再審請求事件無罪判決と、同事件の主任弁護人・井戸謙一弁護士によるご論攷  
+<br />>   
+<br />> 「湖東記念病院再審請求事件を闘って」  
+<br />>   
+<br />> が掲載されています！  
+<br />>   
+<br />> 刑事司法に携わるすべての者にとって、本号は必読です… https://t.co/Igm24gVUzR  
+<blockquote class="twitter-tweet" lang="ja"><p>【判例時報No.2445】
+
+湖東記念病院再審請求事件無罪判決と、同事件の主任弁護人・井戸謙一弁護士によるご論攷
+
+「湖東記念病院再審請求事件を闘って」
+
+が掲載されています！
+
+刑事司法に携わるすべての者にとって、本号は必読です… https://t.co/Igm24gVUzR</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1289334324983037955">2020-08-01 07:57:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p63");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（??)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p63" style="color: red;">&nbsp;63件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（63／66） RT un_co_the2nd（??）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2020-08-06 21:35:00 +0900／2020-08-06 12:19:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1291352278587174912 https://twitter.com/kamo629782/status/1291212159490256897
+<br />> 明日（８月７日）、大崎事件第４次再審の第２回進行協議期日が開催されます。  
+<br />> 第３次再審を「強制終了」した最高裁に萎縮することなく、積極的な訴訟指揮見せる鹿児島地裁と、証拠開示請求に対し「一から探させる」と明言した鹿児島地検。  
+<br />> 明日の… https://t.co/kf7r1KOj4S  
+<blockquote class="twitter-tweet" lang="ja"><p>明日（８月７日）、大崎事件第４次再審の第２回進行協議期日が開催されます。
+第３次再審を「強制終了」した最高裁に萎縮することなく、積極的な訴訟指揮見せる鹿児島地裁と、証拠開示請求に対し「一から探させる」と明言した鹿児島地検。
+明日の… https://t.co/kf7r1KOj4S</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1291212159490256897">2020-08-06 12:19:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p64");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p64" style="color: red;">&nbsp;64件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（64／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2020-12-23 13:43:00 +0900／2020-12-23 13:30:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1341605229880430592 https://twitter.com/kamo629782/status/1341601994805428225
+<br />> 【速報】  
+<br />> 袴田事件、最高裁が東京高裁の再審請求棄却を取り消し、審理を東京高裁に差し戻しました！  
+<br />> やった～～～！！  
+<blockquote class="twitter-tweet" lang="ja"><p>【速報】
+袴田事件、最高裁が東京高裁の再審請求棄却を取り消し、審理を東京高裁に差し戻しました！
+やった～～～！！</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1341601994805428225">2020-12-23 13:30:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p65");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p65" style="color: red;">&nbsp;65件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（65／66） RT un_co_the2nd（うの字）｜ogawashinichi（小川慎一/Shinichi Ogawa） 日時：2020-12-23 14:16:00 +0900／2020-12-23 14:08:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1341613598360043523 https://twitter.com/ogawashinichi/status/1341611679654633475
+<br />> 最高裁は袴田事件の再審請求の審理を東京高裁に差し戻したが、袴田さんに残された時間を考えると自判してほしかったなあ  
+<blockquote class="twitter-tweet" lang="ja"><p>最高裁は袴田事件の再審請求の審理を東京高裁に差し戻したが、袴田さんに残された時間を考えると自判してほしかったなあ</p>&mdash; 小川慎一/Shinichi Ogawa（ogawashinichi）<a href="https://twitter.com/ogawashinichi/status/1341611679654633475">2020-12-23 14:08:00 +0900</a></blockquote></div><br />
+
+<div style="font-size: 8pt;">
+<script type='text/javascript'>
+    document.write("このページ内位置のURL：<br />-&nbsp;" + document.title + " " + location.href +"#p66");
+</script><br />
+</div>
+<span style="background-color: #F8E0F7;"><a href="#un_co_the2nd">un_co_the2nd（うの字)＜リツイートをしたアカウント＞のプロフィール情報へのリンク</a></span><span id="p66" style="color: red;">&nbsp;66件目</span> <input type="button"  value="戻る" onclick="modoru()" style="font-size: 9pt; width:35px; height:17px; background-color: #248; color: #fff; border-style: none;"><div style="border-top-style: solid; border-top-color: pink; border-bottom-style: solid; border-bottom-width: 1px;border-bottom-color: pink; margin: 10px 5px 25px 5px; padding: 5px 5px 10px 5px; font-size: 9pt;">-&nbsp;（66／66） RT un_co_the2nd（うの字）｜kamo629782（かもん弓（鴨志田 祐美）） 日時：2020-12-28 14:28:00 +0900／2020-12-28 14:26:00 +0900 URL： https://twitter.com/un_co_the2nd/status/1343428578776510464 https://twitter.com/kamo629782/status/1343428114135728128
+<br />> 先週の金曜日(25日)に放映されたNHK「時論公論」。  
+<br />>   
+<br />> 袴田事件最高裁決定の問題点を踏まえ、再審制度の見直しの必要性を強く訴える内容です。  
+<br />>   
+<br />> https://t.co/rPgLkucxX2  
+<blockquote class="twitter-tweet" lang="ja"><p>先週の金曜日(25日)に放映されたNHK「時論公論」。
+
+袴田事件最高裁決定の問題点を踏まえ、再審制度の見直しの必要性を強く訴える内容です。
+
+https://t.co/rPgLkucxX2</p>&mdash; かもん弓（鴨志田 祐美）（kamo629782）<a href="https://twitter.com/kamo629782/status/1343428114135728128">2020-12-28 14:26:00 +0900</a></blockquote></div><br />
+
